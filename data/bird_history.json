@@ -391,5 +391,18 @@
     "checklistUrl": "https://ebird.org/checklist/S40855949?view=photos",
     "timestamp": "2025-09-20T07:09:05.193629",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "bnchor1",
+    "name": "Brown-cheeked Hornbill",
+    "scientificName": "Bycanistes cylindricus",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/365227311/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/bnchor1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Humid forest of sierra leone to ghana",
+    "description": "Big, spectacular black-and-white hornbill. Males have a large cream-colored bill, and females a much smaller and darker one.",
+    "imageCreditName": "Mark Welford",
+    "checklistUrl": "https://ebird.org/checklist/S29338016?view=photos",
+    "timestamp": "2025-09-21T07:08:38.951041",
+    "isBirdOfTheDay": true
   }
 ]
