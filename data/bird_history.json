@@ -404,5 +404,18 @@
     "checklistUrl": "https://ebird.org/checklist/S29338016?view=photos",
     "timestamp": "2025-09-21T07:08:38.951041",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "strfan2",
+    "name": "Vanuatu Streaked Fantail",
+    "scientificName": "Rhipidura spilodera",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/609098014/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/strfan2?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Vanuatu and banks group",
+    "description": "Small, with a long, often fanned tail. Gray above with a brownish back, speckled white chest, and elegant white eyebrow and cheek stripe.",
+    "imageCreditName": "Anonymous",
+    "checklistUrl": "https://ebird.org/checklist/S136003630?view=photos",
+    "timestamp": "2025-09-22T07:11:19.708797",
+    "isBirdOfTheDay": true
   }
 ]
