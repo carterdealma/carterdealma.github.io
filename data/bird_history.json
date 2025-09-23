@@ -417,5 +417,18 @@
     "checklistUrl": "https://ebird.org/checklist/S136003630?view=photos",
     "timestamp": "2025-09-22T07:11:19.708797",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "crearg1",
+    "name": "Vietnamese Crested Argus",
+    "scientificName": "Rheinardia ocellata",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/517826481/1200/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/crearg1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Mountains of central vietnam and eastern laos",
+    "description": "A large brown pheasant of humid forests, shy and extremely difficult to see. Most sightings are at dancing grounds, where males have cleaned the leaf litter from a large patch of the forest floor.",
+    "imageCreditName": "Paul Sweet",
+    "checklistUrl": "https://ebird.org/checklist/S76750948?view=photos",
+    "timestamp": "2025-09-23T07:11:09.198785",
+    "isBirdOfTheDay": true
   }
 ]
