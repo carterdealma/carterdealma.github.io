@@ -430,5 +430,18 @@
     "checklistUrl": "https://ebird.org/checklist/S76750948?view=photos",
     "timestamp": "2025-09-23T07:11:09.198785",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "bronig1",
+    "name": "Brown Nightjar",
+    "scientificName": "Veles binotatus",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/350965021/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/bronig1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Locally from liberia to northern gabon and central democratic republic of the congo",
+    "description": "A mottled reddish-brown forest nightjar with two distinctive white spots on either side of the throat. Perches on branches in the canopy and subcanopy, from which it can be seen hawking insects.",
+    "imageCreditName": "Nik Borrow",
+    "checklistUrl": "https://ebird.org/checklist/S65107543?view=photos",
+    "timestamp": "2025-09-24T07:10:55.544269",
+    "isBirdOfTheDay": true
   }
 ]
