@@ -443,5 +443,18 @@
     "checklistUrl": "https://ebird.org/checklist/S65107543?view=photos",
     "timestamp": "2025-09-24T07:10:55.544269",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "ahafra2",
+    "name": "Ahanta Spurfowl",
+    "scientificName": "Pternistis ahantensis",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/337586851/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/ahafra2?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Discontinuous in lowlands of senegambia to southwestern nigeria",
+    "description": "Medium-sized dull gray-brown francolin with an orange-red bill and legs. With a good view, white streaks are evident on the neck and underparts.",
+    "imageCreditName": "Nik Borrow",
+    "checklistUrl": "https://ebird.org/checklist/S65107536?view=photos",
+    "timestamp": "2025-09-25T07:11:10.214101",
+    "isBirdOfTheDay": true
   }
 ]
