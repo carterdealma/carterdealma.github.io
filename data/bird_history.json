@@ -456,5 +456,18 @@
     "checklistUrl": "https://ebird.org/checklist/S65107536?view=photos",
     "timestamp": "2025-09-25T07:11:10.214101",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "blbpit1",
+    "name": "Blue-banded Pitta",
+    "scientificName": "Erythropitta arquata",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/237707901/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/blbpit1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Primary submontane forest of northern half of borneo",
+    "description": "Unique-looking pitta of hill and submontane forests. Note bright red underparts, dull tan-orange face, dull blue-green back, and glittering silver-blue \u201cnecklace\u201d and secondaries (similarly-colored line trailing down from behind the eye can be visible if seen well).",
+    "imageCreditName": "Barbara DeWitt",
+    "checklistUrl": "https://ebird.org/checklist/S47820260?view=photos",
+    "timestamp": "2025-09-26T07:10:42.546746",
+    "isBirdOfTheDay": true
   }
 ]
