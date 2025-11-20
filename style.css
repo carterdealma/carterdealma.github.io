@@ -328,7 +328,7 @@ button:disabled {
 
 .wide-container {
     position: relative;
-    width: 1500px;
+    width: 90%;
     padding: 32px;
     background: var(--gunmetal);
     border-radius: 10px;
