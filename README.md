@@ -1,0 +1,6 @@
+- Get number of countries implicated for about section
+- Use Wikipedia to re-research countries
+- Move map logic into separate .js file in scripts folder
+- Make background cool
+- Add pegasus logo somewhere maybe?
+- Allow adding multiple sources. Maybe even in text sources??
