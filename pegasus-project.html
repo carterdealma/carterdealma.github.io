@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bird of the Day</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" /> <!-- Leaflet CSS for interactive map -->
+</head>
+<body>
+    <div class="sidebar" id="sidebar">
+        <a href="index.html" id="about-link" class="sidebar-link">
+            <img src="icons/about-me-icon.png" class="icon" alt="About Me icon">
+            <span class="label">About Me</span>
+        </a>
+        <a href="bird-of-the-day.html" class="sidebar-link active">
+            <img src="icons/bird-icon.png" class="icon" alt="Bird icon">
+            <span class="label">Bird of the Day</span>
+        </a>
+        <a href="pegasus-project.html" class="sidebar-link">
+            <img src="icons/pegasus-icon.png" class="icon" alt="Pegasus icon">
+            <span class="label">Mapping the Pegasus Project</span>
+        </a>
+    </div>
+
+    <main class="content">
+        <div class="wide-container">
+            <h1>
+                <span class="pegasus-title">Mapping the Pegasus Project <br> <span style="color: var(--glaucous); font-size: 0.8em; font-family: 'JetBrains Mono', monospace;">Visualizing the Investigation into Nation-State Spyware</span></span>
+            </h1>
+            <div class="pegasus-content">
+                <div class="map-container">
+                    <div id="surveillance-map"></div>
+                    <div id="map-loading">Loading map...</div>
+                </div>
+                <div class="pegasus-info">
+                    <h1 class="pegasus-about-title">About</h1>
+                    <p>The Pegasus Project is an investigation into the surveillance spyware 
+                        <b><span style="color: var(--indian-red)">Pegasus</span></b>, 
+                        developed by the Israeli company <i>NSO Group</i>. The spyware mainly spread via zero-click exploits
+                        on mobile devices.
+                    </p>
+                    <br>
+                    <p>
+                        The investigation, which launched in July 2021, revealed how governments around the world have used Pegasus to target 
+                        <b><span style="color: var(--indian-red)">journalists, activists, and political dissidents</span></b>.
+                        It revealed widespread human rights violations and abuses of power.
+                    </p>
+                    <br>
+                    <p>
+                        This creative project serves to visualize which <i>known</i> countries have been implicated in the Pegasus Project,
+                        the scale of surveillance in each country, and the results of that surveillance.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </main>
+
+        <script>
+        // Wait for the DOM to be fully loaded
+        document.addEventListener('DOMContentLoaded', function() {
+            // Initialize the map with explicit options
+            const map = L.map('surveillance-map', {
+                center: [20, 0],
+                zoom: 2,
+                zoomControl: true,
+                preferCanvas: true
+            });
+
+            // Force the map container to be visible and properly sized
+            setTimeout(() => {
+                map.invalidateSize();
+            }, 100);
+
+            // Try multiple tile layers - if one fails, try another
+            const tileLayers = [
+                {
+                    name: 'Dark',
+                    url: 'https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png',
+                    attribution: '©OpenStreetMap, ©CartoDB'
+                },
+                {
+                    name: 'Light',
+                    url: 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
+                    attribution: '© OpenStreetMap contributors'
+                },
+                {
+                    name: 'OSM Default',
+                    url: 'https://tile.openstreetmap.org/{z}/{x}/{y}.png',
+                    attribution: '© OpenStreetMap contributors'
+                }
+            ];
+
+            // Add the first tile layer
+            const baseLayer = L.tileLayer(tileLayers[0].url, {
+                attribution: tileLayers[0].attribution,
+                subdomains: 'abcd',
+                maxZoom: 19
+            }).addTo(map);
+
+            // Hide loading message once tiles start loading
+            baseLayer.on('load', function() {
+                document.getElementById('map-loading').style.display = 'none';
+            });
+
+            const surveillanceData = {
+                "IND": {
+                    name: "India",
+                    severity: "high",
+                    description: "Government purchased Pegasus and used it against journalists and activists.\nSiddharth Varadarajan, a founding editor at The Wire, was among 40 Indian Journalists targeted by the spyware in 2021.\nThe BJP government has denied any wrongdoing and labelled findings as \"conspiracy\".",
+                    source_text: "International Journalists' Network - How India's government uses Pegasus to spy on journalists",
+                    source: "https://ijnet.org/en/story/how-indias-government-uses-pegasus-spy-journalists"
+                },
+                "MEX": {
+                    name: "Mexico",
+                    severity: "high",
+                    description: "Government purchased Pegasus and used it against journalists and activists.\nIn 2021, it was found that at least 50 people linked to Mexico's president had been targeted, and about 15,000 individuals including teachers, doctors, judges, and politicans were selected as possible targets between 2016 and 2017.\nThe president, Andrés Manuel López Obrador, then promised that the country would no longer use spyware. The current research shows otherwise.",
+                    source_text: "The Guardian - Mexico: reporters and activists hacked with NSO spyware despite assurances",
+                    source: "https://www.theguardian.com/world/2022/oct/04/mexico-nso-spyware-journalists-human-rights-hacked-pegasus"
+                },
+                "FRA": {
+                    name: "France",
+                    severity: "medium",
+                    description: "Pegasus spyware was found on the phones 3 French journalists, including a senior staff member at France 24. President Emmanuel Macron's phone number, along with 14 of his serving ministers, were also found to be on a list of potential targets, but it is unclear if the spyware was ever installed on their devices.\n",
+                    source_text: "The Guardian - Pegasus spyware found on journalists’ phones, French intelligence confirms",
+                    source: "https://www.theguardian.com/news/2021/aug/02/pegasus-spyware-found-on-journalists-phones-french-intelligence-confirms"
+                }
+            };
+
+            // Color scale (high: red, medium: orange, low: yellow, none: gray)
+            const getColor = (severity) => {
+                switch(severity) {
+                    case 'high': return '#F11D28';
+                    case 'medium': return '#FE612C';
+                    case 'low': return '#ffcc2c';
+                    default: return '#6D87B0';
+                }
+            };
+
+            // Load and style world countries using GeoJSON
+            fetch('https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_110m_admin_0_countries.geojson')
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('Network response was not ok');
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    L.geoJSON(data, {
+                        style: (feature) => {
+                            const countryCode = feature.properties.ISO_A3;
+                            const countryData = surveillanceData[countryCode];
+                            
+                            return {
+                                fillColor: countryData ? getColor(countryData.severity) : '#2D2F33',
+                                weight: 1,
+                                opacity: 1,
+                                color: countryData ? getColor(countryData.severity) : '#43464C',
+                                fillOpacity: countryData ? 0.7 : 0.3
+                            };
+                        },
+                        onEachFeature: (feature, layer) => {
+                            const countryCode = feature.properties.ISO_A3;
+                            const countryData = surveillanceData[countryCode];
+                            
+                            if (countryData) {
+                                // Popup
+                                layer.bindPopup(`
+                                    <div class="popup-content">
+                                        <h3 style="text-align: center; font-size: 1.5em">${countryData.name}</h3>
+                                        <p>${countryData.description.replace(/\n/g, '<br><br>')}</p>
+                                        <p><strong>Source:</strong> <a href="${countryData.source}" target="_blank">${countryData.source_text}</a></p>
+                                    </div>
+                                `);
+                            }
+                        }
+                    }).addTo(map);
+                    
+                    // One more invalidation after GeoJSON loads
+                    setTimeout(() => {
+                        map.invalidateSize();
+                    }, 500);
+                    
+                })
+                .catch(error => {
+                    console.error('Error loading map data:', error);
+                    document.getElementById('country-details').innerHTML = `
+                        <h3>Data Loading Error</h3>
+                        <p>Unable to load map data. Please check your connection.</p>
+                        <p>Error: ${error.message}</p>
+                    `;
+                    document.getElementById('map-loading').textContent = 'Failed to load map data';
+                });
+
+            // Add a resize listener to handle any layout changes
+            window.addEventListener('resize', function() {
+                setTimeout(() => {
+                    map.invalidateSize();
+                }, 100);
+            });
+        });
+    </script>
+
+    <!-- JavaScript -->
+    <script src="scripts/bird_script.js" defer></script>
+    <script src="scripts/sidebar.js" defer></script>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+</body>
+</html>
