@@ -469,5 +469,18 @@
     "checklistUrl": "https://ebird.org/checklist/S47820260?view=photos",
     "timestamp": "2025-09-26T07:10:42.546746",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "beasne1",
+    "name": "Beaudouin's Snake-Eagle",
+    "scientificName": "Circaetus beaudouini",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/240813991/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/beasne1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Southwestern mauritania southward to guinea, eastward to southwestern sudan and western south sudan, possibly to northern uganda",
+    "description": "Chunky dark brown raptor with a white belly marked by thin bars. Immatures are brown when perched, and show rufous patches in the underwing in flight.",
+    "imageCreditName": "Niall D Perrins",
+    "checklistUrl": "https://ebird.org/checklist/S41736881?view=photos",
+    "timestamp": "2025-11-20T07:11:02.137419",
+    "isBirdOfTheDay": true
   }
 ]
