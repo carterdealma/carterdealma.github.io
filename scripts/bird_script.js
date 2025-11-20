@@ -9,9 +9,13 @@ function updateBirdDisplay(birdData) {
     document.getElementById('bird_name').textContent = birdData.name;
     document.getElementById('bird_scientific_name').textContent = birdData.scientificName;
     document.getElementById('bird_photo').src = birdData.photoUrl;
-    document.getElementById('bird_map').src = birdData.rangeMapUrl;
     document.getElementById('range_description').textContent = birdData.rangeDescription;
     document.getElementById('bird_description').textContent = birdData.description;
+
+    // Load map after a short delay to prioritize other content (The map loads slow in browsers besides Firefox and Safari. I don't know why.)
+    setTimeout(() => {
+        document.getElementById('bird_map').src = birdData.rangeMapUrl;
+    }, 100);
 
     // Image credit
     const creditElement = document.getElementById("image_credit");
