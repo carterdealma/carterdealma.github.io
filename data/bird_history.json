@@ -482,5 +482,18 @@
     "checklistUrl": "https://ebird.org/checklist/S41736881?view=photos",
     "timestamp": "2025-11-20T07:11:02.137419",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "purfly1",
+    "name": "Puerto Rican Flycatcher",
+    "scientificName": "Myiarchus antillarum",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/105620291/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/purfly1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Puerto rico including isla de culebra and isla de vieques (both just east of puerto rico), and virgin islands",
+    "description": "An inconspicuous woodland species often first detected by voice. It has a slender build and is colored dull brown above and mostly grayish white below.",
+    "imageCreditName": "Ross Gallardy",
+    "checklistUrl": "https://ebird.org/checklist/S28222830?view=photos",
+    "timestamp": "2025-11-21T07:11:51.750266",
+    "isBirdOfTheDay": true
   }
 ]
