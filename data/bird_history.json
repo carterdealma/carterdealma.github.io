@@ -495,5 +495,18 @@
     "checklistUrl": "https://ebird.org/checklist/S28222830?view=photos",
     "timestamp": "2025-11-21T07:11:51.750266",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "pluwar1",
+    "name": "Plumbeous Warbler",
+    "scientificName": "Setophaga plumbea",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/98027141/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/pluwar1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Guadeloupe including terre-de-haut and marie-galante (just to south of guadeloupe) and dominica (central lesser antilles)",
+    "description": "A striking small bird that frequents montane forests, but sometimes ventures into dry scrub and mangroves. This species is readily distinguished by its overall gray plumage (tinged green above and yellow below on immature birds) with boldly contrasting white eyebrows and wingbars.",
+    "imageCreditName": "Brian Sullivan",
+    "checklistUrl": "https://ebird.org/checklist/S43361708?view=photos",
+    "timestamp": "2025-11-22T07:09:30.061601",
+    "isBirdOfTheDay": true
   }
 ]
