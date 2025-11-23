@@ -508,5 +508,18 @@
     "checklistUrl": "https://ebird.org/checklist/S43361708?view=photos",
     "timestamp": "2025-11-22T07:09:30.061601",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "blbduc1",
+    "name": "Blue-billed Duck",
+    "scientificName": "Oxyura australis",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/621980284/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/blbduc1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Patchily distributed southwestern and southeastern australia, including tasmania",
+    "description": "Small stiff-tailed diving duck with a relatively slender dished bill. Floats very low in the water, and unlikely to be seen on land.",
+    "imageCreditName": "Paul Heath",
+    "checklistUrl": "https://ebird.org/checklist/S80730988?view=photos",
+    "timestamp": "2025-11-23T07:10:08.800821",
+    "isBirdOfTheDay": true
   }
 ]
