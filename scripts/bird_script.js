@@ -82,11 +82,11 @@ document.getElementById('new_bird_button').addEventListener('click', () => {
     // Cycle through pre-generated extra birds
     const bird = extraBirds[extraBirdIndex];
     bird.isBirdOfTheDay = false;
-    
-    // Force a 1-second loading time
+
+    // Force a 1.75-second loading time
     setTimeout(() => {
         updateBirdDisplay(bird);
-    }, 1000);
+    }, 1750);
 
     // Move index forward (loop back to start if at the end)
     extraBirdIndex = (extraBirdIndex + 1) % extraBirds.length;
