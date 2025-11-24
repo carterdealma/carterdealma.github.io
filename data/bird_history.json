@@ -521,5 +521,18 @@
     "checklistUrl": "https://ebird.org/checklist/S80730988?view=photos",
     "timestamp": "2025-11-23T07:10:08.800821",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "torimp2",
+    "name": "Yellowish Imperial-Pigeon",
+    "scientificName": "Ducula subflavescens",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/261990871/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/torimp2?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Bismarck archipelago including admiralty islands",
+    "description": "Large pigeon, mostly yellowish-white with black wing feathers. Tip of the tail also black.",
+    "imageCreditName": "Myles McNally",
+    "checklistUrl": "https://ebird.org/checklist/S38397565?view=photos",
+    "timestamp": "2025-11-24T07:12:04.075990",
+    "isBirdOfTheDay": true
   }
 ]
