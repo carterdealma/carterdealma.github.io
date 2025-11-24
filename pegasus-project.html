@@ -6,7 +6,7 @@
     <title>Bird of the Day</title>
     <link rel="stylesheet" href="style.css">
     <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;600;700;800&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" /> <!-- Leaflet CSS for interactive map -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
 </head>
 <body>
     <div class="sidebar" id="sidebar">
@@ -104,25 +104,65 @@
                 document.getElementById('map-loading').style.display = 'none';
             });
 
+            // Surveillance data for each country
             const surveillanceData = {
                 "IND": {
                     name: "India",
-                    severity: "high",
-                    description: "Government purchased Pegasus and used it against journalists and activists.\nSiddharth Varadarajan, a founding editor at The Wire, was among <a href=\"https://ijnet.org/en/story/how-indias-government-uses-pegasus-spy-journalists\">40 Indian Journalists targeted by the spyware</a> in 2021.\nIn 2023, Apple warned Indian journalists that their phones may be infected with Pegasus. According to an investigation by the Washington Post, <a href=\"https://www.washingtonpost.com/world/2023/12/27/india-apple-iphone-hacking/\">the Indian government then pressured Apple to rescind the warnings</a>. Apple then sent out emails saying that the warnings could have been a false alarm.</a>",
+                    severity: "0",
+                    description: "Government purchased Pegasus and used it against journalists and activists.\nSiddharth Varadarajan, a founding editor at The Wire, was among <a href=\"https://ijnet.org/en/story/how-indias-government-uses-pegasus-spy-journalists\" target=\"_blank\">40 Indian Journalists targeted by the spyware</a> in 2021.\nIn 2023, Apple warned Indian journalists that their phones may be infected with Pegasus. According to an investigation by the Washington Post, <a href=\"https://www.washingtonpost.com/world/2023/12/27/india-apple-iphone-hacking\" target=\"_blank\">the Indian government then pressured Apple to rescind the warnings</a>. Apple then sent out emails saying that the warnings could have been a false alarm.</a>",
                 },
                 "MEX": {
                     name: "Mexico",
-                    severity: "high",
-                    description: "Described by <i>The New York Times</i> as <a href=\"https://www.nytimes.com/2023/04/18/world/americas/pegasus-spyware-mexico.html\" target=\"_blank\">\"the first and most prolific user of Pegasus</a>\", the government of Mexico became the first client ever to purchase the spyware in 2011.\nIt was originally used against the cartel, and aided in the arrest of drug lords such as Joaquín 'El Chapo' Guzmán.\nIt has since been used to target journalists and activists. In 2021, <a href=\"https://www.dw.com/en/pegasus-spyware-mexico-one-of-the-biggest-targets/a-58597847\">a list of 50,000 phone numbers of potential Pegasus surveillance targets was leaked</a>, and a third of them were Mexican.",
+                    severity: "2",
+                    description: "Described by <i>The New York Times</i> as <a href=\"https://www.nytimes.com/2023/04/18/world/americas/pegasus-spyware-mexico.html\" target=\"_blank\">\"the first and most prolific user of Pegasus</a>\", the government of Mexico became the first client ever to purchase the spyware in 2011.\nIt was originally used against the cartel, and aided in the arrest of drug lords such as Joaquín 'El Chapo' Guzmán.\nIt has since been used to target journalists and activists. In 2021, <a href=\"https://www.dw.com/en/pegasus-spyware-mexico-one-of-the-biggest-targets/a-58597847\" target=\"_blank\">a list of 50,000 phone numbers of potential Pegasus surveillance targets was leaked</a>, and a third of them were Mexican.",
                 },
+                "USA": {
+                    name: "United States",
+                    severity: "2",
+                    description: "In July 2021, <a href=\"https://archive.is/XFttA\" target=\"_blank\">the phone numbers of about a dozen U.S. citizens were revealed</a> to be on a list of potential targets for Pegasus surveillance. This list included UN diplomats who resided in the U.S., American aid workers, and journalists.\nIn January 2022, it was revealed that <a href=\"https://www.nytimes.com/2022/01/28/world/middleeast/israel-pegasus-spyware.html\" target=\"_blank\">the FBI had secretly purchased Pegasus</a> in 2019 for testing. The FBI decided against using Pegasus after discussions with the Department of Justice, however, the software remained in the FBI's possession.\nIn November 2022, The New York Times acquired internal documents showing that <a href=\"https://www.nytimes.com/2022/11/12/us/politics/fbi-pegasus-spyware-phones-nso.html\" target=\"_blank\">the FBI had considered using Pegasus for law enforcement cases within the U.S.</a>, but decided not to deploy it.</a>",
+                },
+                "EGY": {
+                    name: "Egypt",
+                    severity: "0",
+                    description: "In July 2021, The Egyptian Prime Minister, Mostafa Madbouly, <a href=\"https://www.occrp.org/en/project/the-pegasus-project/world-leaders-on-pegasus-list-include-frances-president-macron-moroccos-king-mohammed-kazakhstans-president\" target=\"_blank\">was revealed to be on a list of potential Pegasus surveillance targets</a>. Evidence suggests that Saudi Arabia was behind his selection.</a>",
+                },
+                "PAK": {
+                    name: "Pakistan",
+                    severity: "0",
+                    description: "In July 2021, The Pakistani Prime Minister, Imran Khan, <a href=\"https://www.occrp.org/en/project/the-pegasus-project/world-leaders-on-pegasus-list-include-frances-president-macron-moroccos-king-mohammed-kazakhstans-president\" target=\"_blank\">was revealed to be on a list of potential Pegasus surveillance targets</a>. Evidence suggests that India was behind his selection.</a>",
+                },
+                "YEM": {
+                    name: "Yemen",
+                    severity: "0",
+                    description: "In July 2021, The Yemeni Prime Minister, Ahmed Obeid bin Daghr, <a href=\"https://www.occrp.org/en/project/the-pegasus-project/world-leaders-on-pegasus-list-include-frances-president-macron-moroccos-king-mohammed-kazakhstans-president\" target=\"_blank\">was revealed to be on a list of potential Pegasus surveillance targets</a>. Evidence suggests that the United Arab Emirates was behind his selection.</a>\nIn December 2021, it was revealed that the <a href=\"https://www.theguardian.com/world/2021/dec/20/un-backed-investigator-into-possible-yemen-war-crimes-targeted-by-spyware\" target=\"_blank\">UN independent investigator Kamel Jendoubi's phone was targeted</a> using Pegasus while examining possible war crimes in Yemen."
+                },
+                "ZAF": {
+                    name: "South Africa",
+                    severity: "1",
+                    description: "In July 2021, the South African President, Cyril Ramaphosa, <a href=\"https://www.occrp.org/en/project/the-pegasus-project/world-leaders-on-pegasus-list-include-frances-president-macron-moroccos-king-mohammed-kazakhstans-president\" target=\"_blank\">was revealed to be on a list of potential Pegasus surveillance targets</a>. Evidence suggests that Rwanda was behind his selection in early 2019.</a>"
+                },
+                "MAR": {
+                    name: "Morocco",
+                    severity: "1",
+                    description: "In 2019, <a href=\"https://www.theguardian.com/technology/2019/nov/01/whatsapp-hack-is-serious-rights-violation-say-alleged-victims\" target=\"_blank\">two Moroccan pro-democracy campaigners' phones were infected with Pegasus.</a>" + 
+                    "\nIn June 2020, an investigation by Amnesty International alleged that <a href=\"https://www.theguardian.com/technology/2020/jun/21/journalist-says-he-was-targeted-by-spyware-from-firm-despite-its-human-rights-policy\" target=\"_blank\">Moroccan journalist Omar Radi was targeted by the Moroccan government using Pegasus</a>. They claim that he was targeted three times and spied on after his devices was infected." +
+                    "\nIn July 2021, it was revealed that <a href=\"https://www.occrp.org/en/project/the-pegasus-project/world-leaders-on-pegasus-list-include-frances-president-macron-moroccos-king-mohammed-kazakhstans-president\" target=\"_blank\">Moroccan King Mohammed VI and the Moroccan Prime Minister Eddine el-Othamani were selected for targeting.</a>. Evidence suggests that Moroccan state actors themselves were behind his selection.</a>"
+                },
+                "KAZ": {
+                    name: "Kazakhstan",
+                    severity: "1",
+                    description: "In July 2021, <a href=\"https://eurasianet.org/kazakhstan-activists-tracked-by-pegasus-angered-but-not-surprised\" target=\"_blank\">around 2,000 Kazakhstan-listed phone numbers were leaked as potential targets of Pegasus spyware.</a>" + 
+                    "\nAmong the 2000 targeted were government critics, journalists, and activists. Most of these victims were <a href=\"https://www.amnesty.org/en/latest/news/2021/12/kazakhstan-four-activists-mobile-devices-infected-with-pegasus-spyware/\" target=\"_blank\">involved in a civic youth movement \"Oyan Qazaqstan\"</a> (Wake Up Kazakhstan) that organized protests in early 2019."
+                }
             };
 
-            // Color scale (high: red, medium: orange, low: yellow, none: gray)
+            // Color scale (yellow -> orange -> red) based on estimated # of operators using Pegasus in each country
             const getColor = (severity) => {
                 switch(severity) {
-                    case 'high': return '#F11D28';
-                    case 'medium': return '#FE612C';
-                    case 'low': return '#ffcc2c';
+                    case '3': return '#F11D28';
+                    case '2': return '#e64b10';
+                    case '1': return '#ff7f00';
+                    case '0': return '#f0a00c';
                     default: return '#6D87B0';
                 }
             };
