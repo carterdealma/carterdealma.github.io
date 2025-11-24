@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bird of the Day</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+</head>
+<body>
+    <div class="sidebar" id="sidebar">
+        <a href="index.html" id="about-link" class="sidebar-link">
+            <img src="icons/about-me-icon.png" class="icon" alt="About Me icon">
+            <span class="label">About Me</span>
+        </a>
+        <a href="bird-of-the-day.html" class="sidebar-link active">
+            <img src="icons/bird-icon.png" class="icon" alt="Bird icon">
+            <span class="label">Bird of the Day</span>
+        </a>
+        <a href="pegasus-project.html" class="sidebar-link">
+            <img src="icons/pegasus-icon.png" class="icon" alt="Pegasus icon">
+            <span class="label">Mapping the Pegasus Project</span>
+        </a>
+    </div>
+
+    <main class="content">
+        <div class="wide-container">
+            <h1>
+                <span class="pegasus-title">Mapping the Pegasus Project <br> <span style="color: var(--glaucous); font-size: 0.8em; font-family: 'JetBrains Mono', monospace;">Visualizing the Investigation into Nation-State Spyware</span></span>
+            </h1>
+            <div class="pegasus-content">
+                <div class="map-container">
+                    <div id="surveillance-map"></div>
+                    <div id="map-loading">Loading map...</div>
+                </div>
+                <div class="pegasus-info">
+                    <h1 class="pegasus-about-title">About</h1>
+                    <p>The Pegasus Project was an investigation led by 17 media organizations into the surveillance spyware 
+                        <b><span style="color: var(--indian-red)">Pegasus</span></b>, 
+                        developed by the Israeli company <i>NSO Group</i>. The spyware mainly spread via zero-click exploits
+                        on mobile devices.
+                    </p>
+                    <br>
+                    <p>
+                        The investigation, which launched in July 2021, revealed how governments around the world have used Pegasus to target 
+                        <b><span style="color: var(--indian-red)">journalists, activists, political dissidents, and more</span></b>.
+                        It revealed widespread human rights violations and abuses of power.
+                    </p>
+                    <br>
+                    <p>
+                        This creative project serves to visualize which countries have been implicated in the Pegasus Project,
+                        the scale of surveillance in each country, and the results of that surveillance.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </main>
+
+        <script>
+        // Wait for the DOM to be fully loaded
+        document.addEventListener('DOMContentLoaded', function() {
+            // Initialize the map with explicit options
+            const map = L.map('surveillance-map', {
+                center: [20, 0],
+                zoom: 2,
+                zoomControl: true,
+                preferCanvas: true
+            });
+
+            // Force the map container to be visible and properly sized
+            setTimeout(() => {
+                map.invalidateSize();
+            }, 100);
+
+            // Try multiple tile layers - if one fails, try another
+            const tileLayers = [
+                {
+                    name: 'Dark',
+                    url: 'https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png',
+                    attribution: '©OpenStreetMap, ©CartoDB'
+                },
+                {
+                    name: 'Light',
+                    url: 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
+                    attribution: '© OpenStreetMap contributors'
+                },
+                {
+                    name: 'OSM Default',
+                    url: 'https://tile.openstreetmap.org/{z}/{x}/{y}.png',
+                    attribution: '© OpenStreetMap contributors'
+                }
+            ];
+
+            // Add the first tile layer
+            const baseLayer = L.tileLayer(tileLayers[0].url, {
+                attribution: tileLayers[0].attribution,
+                subdomains: 'abcd',
+                maxZoom: 19
+            }).addTo(map);
+
+            // Hide loading message once tiles start loading
+            baseLayer.on('load', function() {
+                document.getElementById('map-loading').style.display = 'none';
+            });
+
+            // Surveillance data for each country
+            const surveillanceData = {
+                "IND": {
+                    name: "India",
+                    severity: "0",
+                    description: "Government purchased Pegasus and used it against journalists and activists.\nSiddharth Varadarajan, a founding editor at The Wire, was among <a href=\"https://ijnet.org/en/story/how-indias-government-uses-pegasus-spy-journalists\" target=\"_blank\">40 Indian Journalists targeted by the spyware</a> in 2021.\nIn 2023, Apple warned Indian journalists that their phones may be infected with Pegasus. According to an investigation by the Washington Post, <a href=\"https://www.washingtonpost.com/world/2023/12/27/india-apple-iphone-hacking\" target=\"_blank\">the Indian government then pressured Apple to rescind the warnings</a>. Apple then sent out emails saying that the warnings could have been a false alarm.</a>",
+                },
+                "MEX": {
+                    name: "Mexico",
+                    severity: "2",
+                    description: "Described by <i>The New York Times</i> as <a href=\"https://www.nytimes.com/2023/04/18/world/americas/pegasus-spyware-mexico.html\" target=\"_blank\">\"the first and most prolific user of Pegasus</a>\", the government of Mexico became the first client ever to purchase the spyware in 2011.\nIt was originally used against the cartel, and aided in the arrest of drug lords such as Joaquín 'El Chapo' Guzmán.\nIt has since been used to target journalists and activists. In 2021, <a href=\"https://www.dw.com/en/pegasus-spyware-mexico-one-of-the-biggest-targets/a-58597847\" target=\"_blank\">a list of 50,000 phone numbers of potential Pegasus surveillance targets was leaked</a>, and a third of them were Mexican.",
+                },
+                "USA": {
+                    name: "United States",
+                    severity: "2",
+                    description: "In July 2021, <a href=\"https://archive.is/XFttA\" target=\"_blank\">the phone numbers of about a dozen U.S. citizens were revealed</a> to be on a list of potential targets for Pegasus surveillance. This list included UN diplomats who resided in the U.S., American aid workers, and journalists.\nIn January 2022, it was revealed that <a href=\"https://www.nytimes.com/2022/01/28/world/middleeast/israel-pegasus-spyware.html\" target=\"_blank\">the FBI had secretly purchased Pegasus</a> in 2019 for testing. The FBI decided against using Pegasus after discussions with the Department of Justice, however, the software remained in the FBI's possession.\nIn November 2022, The New York Times acquired internal documents showing that <a href=\"https://www.nytimes.com/2022/11/12/us/politics/fbi-pegasus-spyware-phones-nso.html\" target=\"_blank\">the FBI had considered using Pegasus for law enforcement cases within the U.S.</a>, but decided not to deploy it.</a>",
+                },
+                "EGY": {
+                    name: "Egypt",
+                    severity: "0",
+                    description: "In July 2021, The Egyptian Prime Minister, Mostafa Madbouly, <a href=\"https://www.occrp.org/en/project/the-pegasus-project/world-leaders-on-pegasus-list-include-frances-president-macron-moroccos-king-mohammed-kazakhstans-president\" target=\"_blank\">was revealed to be on a list of potential Pegasus surveillance targets</a>. Evidence suggests that Saudi Arabia was behind his selection.</a>",
+                },
+                "PAK": {
+                    name: "Pakistan",
+                    severity: "0",
+                    description: "In July 2021, The Pakistani Prime Minister, Imran Khan, <a href=\"https://www.occrp.org/en/project/the-pegasus-project/world-leaders-on-pegasus-list-include-frances-president-macron-moroccos-king-mohammed-kazakhstans-president\" target=\"_blank\">was revealed to be on a list of potential Pegasus surveillance targets</a>. Evidence suggests that India was behind his selection.</a>",
+                },
+                "YEM": {
+                    name: "Yemen",
+                    severity: "0",
+                    description: "In July 2021, The Yemeni Prime Minister, Ahmed Obeid bin Daghr, <a href=\"https://www.occrp.org/en/project/the-pegasus-project/world-leaders-on-pegasus-list-include-frances-president-macron-moroccos-king-mohammed-kazakhstans-president\" target=\"_blank\">was revealed to be on a list of potential Pegasus surveillance targets</a>. Evidence suggests that the United Arab Emirates was behind his selection.</a>\nIn December 2021, it was revealed that the <a href=\"https://www.theguardian.com/world/2021/dec/20/un-backed-investigator-into-possible-yemen-war-crimes-targeted-by-spyware\" target=\"_blank\">UN independent investigator Kamel Jendoubi's phone was targeted</a> using Pegasus while examining possible war crimes in Yemen."
+                },
+                "ZAF": {
+                    name: "South Africa",
+                    severity: "1",
+                    description: "In July 2021, the South African President, Cyril Ramaphosa, <a href=\"https://www.occrp.org/en/project/the-pegasus-project/world-leaders-on-pegasus-list-include-frances-president-macron-moroccos-king-mohammed-kazakhstans-president\" target=\"_blank\">was revealed to be on a list of potential Pegasus surveillance targets</a>. Evidence suggests that Rwanda was behind his selection in early 2019.</a>"
+                },
+                "MAR": {
+                    name: "Morocco",
+                    severity: "1",
+                    description: "In 2019, <a href=\"https://www.theguardian.com/technology/2019/nov/01/whatsapp-hack-is-serious-rights-violation-say-alleged-victims\" target=\"_blank\">two Moroccan pro-democracy campaigners' phones were infected with Pegasus.</a>" + 
+                    "\nIn June 2020, an investigation by Amnesty International alleged that <a href=\"https://www.theguardian.com/technology/2020/jun/21/journalist-says-he-was-targeted-by-spyware-from-firm-despite-its-human-rights-policy\" target=\"_blank\">Moroccan journalist Omar Radi was targeted by the Moroccan government using Pegasus</a>. They claim that he was targeted three times and spied on after his devices was infected." +
+                    "\nIn July 2021, it was revealed that <a href=\"https://www.occrp.org/en/project/the-pegasus-project/world-leaders-on-pegasus-list-include-frances-president-macron-moroccos-king-mohammed-kazakhstans-president\" target=\"_blank\">Moroccan King Mohammed VI and the Moroccan Prime Minister Eddine el-Othamani were selected for targeting.</a>. Evidence suggests that Moroccan state actors themselves were behind his selection.</a>"
+                },
+                "KAZ": {
+                    name: "Kazakhstan",
+                    severity: "1",
+                    description: "In July 2021, <a href=\"https://eurasianet.org/kazakhstan-activists-tracked-by-pegasus-angered-but-not-surprised\" target=\"_blank\">around 2,000 Kazakhstan-listed phone numbers were leaked as potential targets of Pegasus spyware.</a>" + 
+                    "\nAmong the 2000 targeted were government critics, journalists, and activists. Most of these victims were <a href=\"https://www.amnesty.org/en/latest/news/2021/12/kazakhstan-four-activists-mobile-devices-infected-with-pegasus-spyware/\" target=\"_blank\">involved in a civic youth movement \"Oyan Qazaqstan\"</a> (Wake Up Kazakhstan) that organized protests in early 2019."
+                }
+            };
+
+            // Color scale (yellow -> orange -> red) based on estimated # of operators using Pegasus in each country
+            const getColor = (severity) => {
+                switch(severity) {
+                    case '3': return '#F11D28';
+                    case '2': return '#e64b10';
+                    case '1': return '#ff7f00';
+                    case '0': return '#f0a00c';
+                    default: return '#6D87B0';
+                }
+            };
+
+            // Load and style world countries using GeoJSON
+            fetch('https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_110m_admin_0_countries.geojson')
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('Network response was not ok');
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    L.geoJSON(data, {
+                        style: (feature) => {
+                            const countryCode = feature.properties.ISO_A3;
+                            const countryData = surveillanceData[countryCode];
+                            
+                            return {
+                                fillColor: countryData ? getColor(countryData.severity) : '#2D2F33',
+                                weight: 1,
+                                opacity: 1,
+                                color: countryData ? getColor(countryData.severity) : '#43464C',
+                                fillOpacity: countryData ? 0.7 : 0.3
+                            };
+                        },
+                        onEachFeature: (feature, layer) => {
+                            const countryCode = feature.properties.ISO_A3;
+                            const countryData = surveillanceData[countryCode];
+                            
+                            if (countryData) {
+                                // Popup
+                                layer.bindPopup(`
+                                    <div class="popup-content">
+                                        <h3 style="text-align: center; font-size: 1.5em">${countryData.name}</h3>
+                                        <p>${countryData.description.replace(/\n/g, '<br><br>')}</p>
+                                    </div>
+                                `);
+                            }
+                        } 
+                    }).addTo(map);
+                    
+                    // One more invalidation after GeoJSON loads
+                    setTimeout(() => {
+                        map.invalidateSize();
+                    }, 500);
+                    
+                })
+                .catch(error => {
+                    console.error('Error loading map data:', error);
+                    document.getElementById('country-details').innerHTML = `
+                        <h3>Data Loading Error</h3>
+                        <p>Unable to load map data. Please check your connection.</p>
+                        <p>Error: ${error.message}</p>
+                    `;
+                    document.getElementById('map-loading').textContent = 'Failed to load map data';
+                });
+
+            // Add a resize listener to handle any layout changes
+            window.addEventListener('resize', function() {
+                setTimeout(() => {
+                    map.invalidateSize();
+                }, 100);
+            });
+        });
+    </script>
+
+    <!-- JavaScript -->
+    <script src="scripts/bird_script.js" defer></script>
+    <script src="scripts/sidebar.js" defer></script>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+</body>
+</html>

@@ -3,7 +3,8 @@ const links = document.querySelectorAll('.sidebar-link');
 
 const labelMap = {
   'bird-icon.png': 'Bird of the Day',
-  'about-me-icon.png': 'About Me'
+  'about-me-icon.png': 'About Me',
+  'pegasus-icon.png': 'Pegasus Project'
 };
 
 const typingIntervals = new Map();
