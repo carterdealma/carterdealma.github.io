@@ -534,5 +534,18 @@
     "checklistUrl": "https://ebird.org/checklist/S38397565?view=photos",
     "timestamp": "2025-11-24T07:12:04.075990",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "abylon1",
+    "name": "Abyssinian Longclaw",
+    "scientificName": "Macronyx flavicollis",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/248318661/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/abylon1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "High grassland of ethiopia",
+    "description": "A large and relatively colorful member of the pipit family. Note the black necklace, orange throat, and partially yellow eye-stripe.",
+    "imageCreditName": "Ian Davies",
+    "checklistUrl": "https://ebird.org/checklist/S21327432?view=photos",
+    "timestamp": "2025-11-25T07:12:15.482069",
+    "isBirdOfTheDay": true
   }
 ]
