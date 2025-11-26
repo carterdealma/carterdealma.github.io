@@ -547,5 +547,18 @@
     "checklistUrl": "https://ebird.org/checklist/S21327432?view=photos",
     "timestamp": "2025-11-25T07:12:15.482069",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "amewig",
+    "name": "American Wigeon",
+    "scientificName": "Mareca americana",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/60017891/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/amewig?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Breeds alaska to southern usa; winters through central america and the caribbean",
+    "description": "Breeding males have obvious white blaze on forehead and broad green slash behind eye. Females are plainer brown with rusty sides.",
+    "imageCreditName": "Karl Krueger",
+    "checklistUrl": "https://ebird.org/checklist/S32889777?view=photos",
+    "timestamp": "2025-11-26T07:11:47.694035",
+    "isBirdOfTheDay": true
   }
 ]
