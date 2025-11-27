@@ -560,5 +560,18 @@
     "checklistUrl": "https://ebird.org/checklist/S32889777?view=photos",
     "timestamp": "2025-11-26T07:11:47.694035",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "yetlea1",
+    "name": "Yellow-throated Leafbird",
+    "scientificName": "Chloropsis palawanensis",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/266783911/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/yetlea1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Southwestern philippines (balabac, busuanga, palawan, and calamian)",
+    "description": "A medium-sized bird of lowland forest canopy and edge on Palawan and neighboring islands. Joins mixed-species flocks, often with bulbuls, foraging for fruits and seeds.",
+    "imageCreditName": "Brad Argue",
+    "checklistUrl": "https://ebird.org/checklist/S62798421?view=photos",
+    "timestamp": "2025-11-27T07:12:37.459393",
+    "isBirdOfTheDay": true
   }
 ]
