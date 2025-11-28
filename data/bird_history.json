@@ -573,5 +573,18 @@
     "checklistUrl": "https://ebird.org/checklist/S62798421?view=photos",
     "timestamp": "2025-11-27T07:12:37.459393",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "blcyuh1",
+    "name": "Black-chinned Yuhina",
+    "scientificName": "Yuhina nigrimenta",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/610037778/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/blcyuh1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Northern india eastward to central and southeastern china, southward to western myanmar, northern and central laos, vietnam, and far eastern cambodia",
+    "description": "A small yuhina of open forest environments. Black chin is not very noticeable, but the black crest is.",
+    "imageCreditName": "Su Li",
+    "checklistUrl": "https://ebird.org/checklist/S89984640?view=photos",
+    "timestamp": "2025-11-28T07:11:52.362334",
+    "isBirdOfTheDay": true
   }
 ]
