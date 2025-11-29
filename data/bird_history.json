@@ -586,5 +586,18 @@
     "checklistUrl": "https://ebird.org/checklist/S89984640?view=photos",
     "timestamp": "2025-11-28T07:11:52.362334",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "sersco1",
+    "name": "Serendib Scops-Owl",
+    "scientificName": "Otus thilohoffmanni",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/252001491/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/sersco1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Lowland rainforest of southwest sri lanka",
+    "description": "Very small rufescent owl, with yellow-orange eyes, and sparse, light speckles on the underparts. Although does not possess true ear tufts it can show \u201cfalse\u201d ones when alert.",
+    "imageCreditName": "Marco Valentini",
+    "checklistUrl": "https://ebird.org/checklist/S64994854?view=photos",
+    "timestamp": "2025-11-29T07:09:49.538107",
+    "isBirdOfTheDay": true
   }
 ]
