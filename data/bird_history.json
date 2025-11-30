@@ -599,5 +599,18 @@
     "checklistUrl": "https://ebird.org/checklist/S64994854?view=photos",
     "timestamp": "2025-11-29T07:09:49.538107",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "sumdro1",
+    "name": "Sumatran Drongo",
+    "scientificName": "Dicrurus sumatranus",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/610111089/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/sumdro1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Humid lowlands of sumatra",
+    "description": "Glossy large-billed drongo with glossy blue-sheened wings and tail. Also note bright red eyes, iridescent speckling around the throat and neck, and flared broad-tipped tail.",
+    "imageCreditName": "Agus Nurza",
+    "checklistUrl": "https://ebird.orghttps://macaulaylibrary.org/photo/205569381?view=photos",
+    "timestamp": "2025-11-30T07:09:51.720773",
+    "isBirdOfTheDay": true
   }
 ]
