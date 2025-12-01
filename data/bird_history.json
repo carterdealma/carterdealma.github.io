@@ -612,5 +612,18 @@
     "checklistUrl": "https://ebird.orghttps://macaulaylibrary.org/photo/205569381?view=photos",
     "timestamp": "2025-11-30T07:09:51.720773",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "butkne1",
+    "name": "Bush Thick-knee",
+    "scientificName": "Burhinus grallarius",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/122310541/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/butkne1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Inland southern trans-fly (south-central new guinea) and australia (except south-central and tasmania)",
+    "description": "Distinctive large shorebird with long legs, enormous yellow eye, heavily streaked underparts. During the day stands or sits under small trees/shrubs, often in small groups.",
+    "imageCreditName": "David Irving",
+    "checklistUrl": "https://ebird.org/checklist/S48922661?view=photos",
+    "timestamp": "2025-12-01T07:14:51.968530",
+    "isBirdOfTheDay": true
   }
 ]
