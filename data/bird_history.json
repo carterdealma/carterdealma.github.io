@@ -625,5 +625,18 @@
     "checklistUrl": "https://ebird.org/checklist/S48922661?view=photos",
     "timestamp": "2025-12-01T07:14:51.968530",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "socwea1",
+    "name": "Sociable Weaver",
+    "scientificName": "Philetairus socius",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/226741551/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/socwea1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Namibia and botswana to northern south africa",
+    "description": "A small, dumpy buff-and-brown weaver with a blue-gray bill, a dark bib, and scaly patterning on the back and flanks. Juveniles are duller, lacking the bib and scaling.",
+    "imageCreditName": "Peter Hawrylyshyn",
+    "checklistUrl": "https://ebird.org/checklist/S59690687?view=photos",
+    "timestamp": "2025-12-02T07:14:03.644001",
+    "isBirdOfTheDay": true
   }
 ]
