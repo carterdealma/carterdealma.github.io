@@ -638,5 +638,18 @@
     "checklistUrl": "https://ebird.org/checklist/S59690687?view=photos",
     "timestamp": "2025-12-02T07:14:03.644001",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "piethr1",
+    "name": "Pied Thrush",
+    "scientificName": "Geokichla wardii",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/156992771/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/piethr1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Himalayas of northern india from nepal to assam; winters to sri lanka",
+    "description": "Slender, ground-dwelling thrush. Male is breathtakingly decked out in black and white.",
+    "imageCreditName": "Andrew Spencer",
+    "checklistUrl": "https://ebird.org/checklist/S27680421?view=photos",
+    "timestamp": "2025-12-03T07:13:32.392120",
+    "isBirdOfTheDay": true
   }
 ]
