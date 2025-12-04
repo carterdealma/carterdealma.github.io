@@ -651,5 +651,18 @@
     "checklistUrl": "https://ebird.org/checklist/S27680421?view=photos",
     "timestamp": "2025-12-03T07:13:32.392120",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "ecuthr1",
+    "name": "Ecuadorian Thrush",
+    "scientificName": "Turdus maculirostris",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/178811921/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/ecuthr1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Coastal western ecuador (esmeraldas) to far northwestern peru (tumbes)",
+    "description": "A common thrush of clearings and forest edge in most of western Ecuador; also reaches far northwestern Peru. Adult\u2019s tan plumage, yellow bill, and orange eyering are distinct in its range.",
+    "imageCreditName": "Sam Woods/Tropical Birding Tours",
+    "checklistUrl": "https://ebird.org/checklist/S39801919?view=photos",
+    "timestamp": "2025-12-04T07:13:30.830328",
+    "isBirdOfTheDay": true
   }
 ]
