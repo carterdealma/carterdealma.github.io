@@ -664,5 +664,18 @@
     "checklistUrl": "https://ebird.org/checklist/S39801919?view=photos",
     "timestamp": "2025-12-04T07:13:30.830328",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "agaher1",
+    "name": "Agami Heron",
+    "scientificName": "Agamia agami",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/614522739/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/agaher1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Tropical southern mexico to northern bolivia and western amazonian brazil",
+    "description": "Reclusive, rarely seen heron of humid tropical lowlands. Found along quiet forest streams and locally in mangroves.",
+    "imageCreditName": "Jorge Gabriel Campos",
+    "checklistUrl": "https://ebird.org/checklist/S43435494?view=photos",
+    "timestamp": "2025-12-05T07:13:10.738661",
+    "isBirdOfTheDay": true
   }
 ]
