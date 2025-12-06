@@ -677,5 +677,18 @@
     "checklistUrl": "https://ebird.org/checklist/S43435494?view=photos",
     "timestamp": "2025-12-05T07:13:10.738661",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "slbthr1",
+    "name": "Slaty-backed Thrush",
+    "scientificName": "Geokichla schistacea",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/275463221/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/slbthr1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Eastern lesser sundas (yamdena and larat)",
+    "description": "An unmistakable black, white, and gray thrush. Gray upperparts and black head marked with bold white cheek patch and long white eyebrow.",
+    "imageCreditName": "Charles Davies",
+    "checklistUrl": "https://ebird.orghttps://macaulaylibrary.org/photo/128942571?view=photos",
+    "timestamp": "2025-12-06T07:09:45.015536",
+    "isBirdOfTheDay": true
   }
 ]
