@@ -690,5 +690,18 @@
     "checklistUrl": "https://ebird.orghttps://macaulaylibrary.org/photo/128942571?view=photos",
     "timestamp": "2025-12-06T07:09:45.015536",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "rensta1",
+    "name": "Rennell Starling",
+    "scientificName": "Aplonis insularis",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/396356891/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/rensta1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Rennell and bellona (southeastern solomon islands)",
+    "description": "A medium-sized, uniformly black starling with a glossy purplish-bluish sheen and a short tail. Bill is relatively thick and stubby.",
+    "imageCreditName": "Guy Dutson",
+    "checklistUrl": "https://ebird.org/checklist/S65144050?view=photos",
+    "timestamp": "2025-12-07T07:10:17.321564",
+    "isBirdOfTheDay": true
   }
 ]
