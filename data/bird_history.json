@@ -703,5 +703,18 @@
     "checklistUrl": "https://ebird.org/checklist/S65144050?view=photos",
     "timestamp": "2025-12-07T07:10:17.321564",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "andlap1",
+    "name": "Andean Lapwing",
+    "scientificName": "Vanellus resplendens",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/107067061/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/andlap1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Andes of southwestern colombia to northwestern argentina and northern chile",
+    "description": "Large, boldly patterned shorebird of high Andean bogs, wetlands, and lakeshores; also ranges into grassy pastures in the northern part of its range. Usually in pairs or loose flocks, feeding with typical stop-start action of plovers.",
+    "imageCreditName": "Nestor Ccacya Baca",
+    "checklistUrl": "https://ebird.org/checklist/S31533470?view=photos",
+    "timestamp": "2025-12-08T07:16:00.093091",
+    "isBirdOfTheDay": true
   }
 ]
