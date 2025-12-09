@@ -716,5 +716,18 @@
     "checklistUrl": "https://ebird.org/checklist/S31533470?view=photos",
     "timestamp": "2025-12-08T07:16:00.093091",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "scathr6",
+    "name": "Amami Thrush",
+    "scientificName": "Zoothera major",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/319447881/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/scathr6?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Amami \u014dshima (northern ryukyu islands, southern japan)",
+    "description": "Large thrush, pale brown above, white below, with scale-like black-tipped feathers throughout the plumage. Inhabits undisturbed broadleaf evergreen forests of low elevations.",
+    "imageCreditName": "Ian Davies",
+    "checklistUrl": "https://ebird.org/checklist/S15965971?view=photos",
+    "timestamp": "2025-12-09T07:14:28.307658",
+    "isBirdOfTheDay": true
   }
 ]
