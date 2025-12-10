@@ -729,5 +729,18 @@
     "checklistUrl": "https://ebird.org/checklist/S15965971?view=photos",
     "timestamp": "2025-12-09T07:14:28.307658",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "clafra1",
+    "name": "Clapperton's Spurfowl",
+    "scientificName": "Pternistis clappertoni",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/244392501/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/clafra1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Sub-saharan africa (mali to sudan and ethiopia)",
+    "description": "A medium-sized, pale francolin with large patches of red bare skin around the eyes. Heavily marked with black and pale buff on the back, neck, and underparts.",
+    "imageCreditName": "Pam Rasmussen",
+    "checklistUrl": "https://ebird.org/checklist/S64071869?view=photos",
+    "timestamp": "2025-12-10T07:14:53.438452",
+    "isBirdOfTheDay": true
   }
 ]
