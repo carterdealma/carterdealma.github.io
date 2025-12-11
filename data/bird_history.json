@@ -742,5 +742,18 @@
     "checklistUrl": "https://ebird.org/checklist/S64071869?view=photos",
     "timestamp": "2025-12-10T07:14:53.438452",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "blkcus1",
+    "name": "Black Cuckooshrike",
+    "scientificName": "Campephaga flava",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/203264521/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/blkcus1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Angola to kenya, tanzania, mozambique, and south africa",
+    "description": "Small, slim cuckooshrike in which males and females are strikingly different. Males are almost completely black with an odd pale patch at the base of the bill; some have a yellow shoulder Females are gray on the back and pale below, with heavy markings throughout.",
+    "imageCreditName": "GARY DOUGLAS",
+    "checklistUrl": "https://ebird.org/checklist/S45199523?view=photos",
+    "timestamp": "2025-12-11T07:16:48.565494",
+    "isBirdOfTheDay": true
   }
 ]
