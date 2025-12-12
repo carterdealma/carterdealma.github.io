@@ -755,5 +755,18 @@
     "checklistUrl": "https://ebird.org/checklist/S45199523?view=photos",
     "timestamp": "2025-12-11T07:16:48.565494",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "snmqua2",
+    "name": "Snow Mountain Quail",
+    "scientificName": "Synoicus monorthonyx",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/460239101/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/snmqua2?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Alpine grassland of snow mountains (west-central new guinea)",
+    "description": "A huge quail of alpine grasslands. Plump, yellow bill and legs, black bars and white streaks on the back.",
+    "imageCreditName": "Eric VanderWerf",
+    "checklistUrl": "https://ebird.org/checklist/S57803152?view=photos",
+    "timestamp": "2025-12-12T07:15:06.658786",
+    "isBirdOfTheDay": true
   }
 ]
