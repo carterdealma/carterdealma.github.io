@@ -794,5 +794,18 @@
     "checklistUrl": "https://ebird.org/checklist/S68117592?view=photos",
     "timestamp": "2025-12-14T07:10:43.394392",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "recrob1",
+    "name": "Red-capped Robin",
+    "scientificName": "Petroica goodenovii",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/125904541/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/recrob1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Interior of southern australia, to southern and western coasts",
+    "description": "Small Australian robin. Male black above, with a black head and chin, vivid scarlet breast and forecrown.",
+    "imageCreditName": "Scott Eaton",
+    "checklistUrl": "https://ebird.org/checklist/S48451865?view=photos",
+    "timestamp": "2025-12-15T07:16:54.564426",
+    "isBirdOfTheDay": true
   }
 ]
