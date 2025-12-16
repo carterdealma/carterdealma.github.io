@@ -807,5 +807,18 @@
     "checklistUrl": "https://ebird.org/checklist/S48451865?view=photos",
     "timestamp": "2025-12-15T07:16:54.564426",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "viocou1",
+    "name": "Violaceous Coucal",
+    "scientificName": "Centropus violaceus",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/262062481/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/viocou1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "New ireland and new britain (eastern bismarck archipelago)",
+    "description": "A large, long-tailed, thick-billed bird, entirely dark bluish-black, with pale skin around a red eye. Found in most habitats, most commonly in old-growth lowland forest.",
+    "imageCreditName": "Chris Wiley",
+    "checklistUrl": "https://ebird.org/checklist/S59726055?view=photos",
+    "timestamp": "2025-12-16T07:15:31.381594",
+    "isBirdOfTheDay": true
   }
 ]
