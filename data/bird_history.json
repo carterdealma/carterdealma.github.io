@@ -833,5 +833,18 @@
     "checklistUrl": "https://ebird.org/checklist/S83131067?view=photos",
     "timestamp": "2025-12-17T07:14:37.837790",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "bowfin1",
+    "name": "Bolivian Warbling Finch",
+    "scientificName": "Poospiza boliviana",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/243766281/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/bowfin1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Andes of bolivia and adjacent northwestern argentina (jujuy)",
+    "description": "Striking tanager of open woodland and scrub in high elevations of the east slope of the Andes in central and southern Bolivia and extreme NW Argentina; including agricultural lands, and open Polylepis woodland. From Black-and-chestnut Warbling-Finch by white throat and paler underparts in Bolivian.",
+    "imageCreditName": "Giselle Mangini",
+    "checklistUrl": "https://ebird.org/checklist/S50006714?view=photos",
+    "timestamp": "2025-12-18T07:14:24.581844",
+    "isBirdOfTheDay": true
   }
 ]
