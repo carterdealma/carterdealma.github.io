@@ -846,5 +846,18 @@
     "checklistUrl": "https://ebird.org/checklist/S50006714?view=photos",
     "timestamp": "2025-12-18T07:14:24.581844",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "scafru1",
+    "name": "Scaled Fruiteater",
+    "scientificName": "Ampelioides tschudii",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/547598921/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/scafru1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Andes of colombia and western venezuela to western bolivia (la paz)",
+    "description": "Chunky, short-tailed, flat-headed bird patterned in mossy green and black. Scaly above and below with broad green wingbar and black cap.",
+    "imageCreditName": "Andres Vasquez Noboa",
+    "checklistUrl": "https://ebird.org/checklist/S131056580?view=photos",
+    "timestamp": "2025-12-19T07:14:00.925772",
+    "isBirdOfTheDay": true
   }
 ]
