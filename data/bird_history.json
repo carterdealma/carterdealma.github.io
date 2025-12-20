@@ -859,5 +859,18 @@
     "checklistUrl": "https://ebird.org/checklist/S131056580?view=photos",
     "timestamp": "2025-12-19T07:14:00.925772",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "talrai1",
+    "name": "Talaud Rail",
+    "scientificName": "Gymnocrex talaudensis",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/271278281/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/talrai1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Karekelong island (talaud archipelago)",
+    "description": "An unmistakable, little-known hulking forest rail with a large yellow bill, an all-rufous head and neck, forest-green upperparts, and a blackish belly. Also note the striking pale blaze behind the eye.",
+    "imageCreditName": "Rob Martin",
+    "checklistUrl": "https://ebird.org/checklist/S61371210?view=photos",
+    "timestamp": "2025-12-20T07:09:52.860358",
+    "isBirdOfTheDay": true
   }
 ]
