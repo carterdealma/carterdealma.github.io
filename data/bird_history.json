@@ -872,5 +872,18 @@
     "checklistUrl": "https://ebird.org/checklist/S61371210?view=photos",
     "timestamp": "2025-12-20T07:09:52.860358",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "alptap1",
+    "name": "Tatama Tapaculo",
+    "scientificName": "Scytalopus alvarezlopezi",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/613660993/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/alptap1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Pacific slope of colombian andes (western antioquia southward to southwestern valle del cauca)",
+    "description": "This typical \u201cScytalopus\u201d tapaculo is found only in Colombia\u2019s western Andes. Plumage is gray with a brown tinge to the rump and faint, rusty barring on the lower underparts.",
+    "imageCreditName": "Juan Lopez (www.juanlopezbirdtours.com)",
+    "checklistUrl": "https://ebird.org/checklist/S145031129?view=photos",
+    "timestamp": "2025-12-21T07:11:32.340964",
+    "isBirdOfTheDay": true
   }
 ]
