@@ -885,5 +885,18 @@
     "checklistUrl": "https://ebird.org/checklist/S145031129?view=photos",
     "timestamp": "2025-12-21T07:11:32.340964",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "grycat",
+    "name": "Gray Catbird",
+    "scientificName": "Dumetella carolinensis",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/303925501/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/grycat?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Southern british columbia to gulf states; winters to west indies and panama",
+    "description": "Medium-sized songbird with a smooth gray body, black cap, and rusty-red undertail coverts. Sexes alike.",
+    "imageCreditName": "Evan Lipton",
+    "checklistUrl": "https://ebird.org/checklist/S19865321?view=photos",
+    "timestamp": "2025-12-22T07:16:04.748435",
+    "isBirdOfTheDay": true
   }
 ]
