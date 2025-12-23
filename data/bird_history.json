@@ -898,5 +898,18 @@
     "checklistUrl": "https://ebird.org/checklist/S19865321?view=photos",
     "timestamp": "2025-12-22T07:16:04.748435",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "lessee1",
+    "name": "Lesser Seedcracker",
+    "scientificName": "Pyrenestes minor",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/255471181/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/lessee1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Eastern tanzania to southern malawi, eastern zimbabwe, and northern mozambique",
+    "description": "A colorful, chunky waxbill with a large conical bill. Both sexes have a red hood and tail, but females have slightly less extensive red.",
+    "imageCreditName": "Bassel Abi Jummaa",
+    "checklistUrl": "https://ebird.org/checklist/S40282109?view=photos",
+    "timestamp": "2025-12-23T07:16:05.303849",
+    "isBirdOfTheDay": true
   }
 ]
