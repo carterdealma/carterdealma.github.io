@@ -911,5 +911,18 @@
     "checklistUrl": "https://ebird.org/checklist/S40282109?view=photos",
     "timestamp": "2025-12-23T07:16:05.303849",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "gloibi",
+    "name": "Glossy Ibis",
+    "scientificName": "Plegadis falcinellus",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/308505311/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/gloibi?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Locally in eastern north and southern south america, africa, eurasia, to australasia",
+    "description": "Long, curved bill. Adults mostly dark with iridescent green and reddish tones.",
+    "imageCreditName": "Jeremiah Trimble",
+    "checklistUrl": "https://ebird.org/checklist/S67185124?view=photos",
+    "timestamp": "2025-12-24T07:15:54.226857",
+    "isBirdOfTheDay": true
   }
 ]
