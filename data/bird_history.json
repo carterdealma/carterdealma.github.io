@@ -924,5 +924,18 @@
     "checklistUrl": "https://ebird.org/checklist/S67185124?view=photos",
     "timestamp": "2025-12-24T07:15:54.226857",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "whlspi3",
+    "name": "Araguaia Spinetail",
+    "scientificName": "Synallaxis simoni",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/609501540/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/whlspi3?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Pantanal of western brazil (araguaia valley)",
+    "description": "Typical spinetail with a long spiky tail, a grayish-brown head, bright cinnamon wings and tail, a white throat, and pale buffy underparts. Sexes similar.",
+    "imageCreditName": "Jonathan Slifkin",
+    "checklistUrl": "https://ebird.org/checklist/S120359301?view=photos",
+    "timestamp": "2025-12-25T07:14:12.788179",
+    "isBirdOfTheDay": true
   }
 ]
