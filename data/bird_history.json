@@ -937,5 +937,18 @@
     "checklistUrl": "https://ebird.org/checklist/S120359301?view=photos",
     "timestamp": "2025-12-25T07:14:12.788179",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "brbtod1",
+    "name": "Broad-billed Tody",
+    "scientificName": "Todus subulatus",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/98812461/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/brbtod1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Arid scrub and woodland of hispaniola including gon\u00e2ve island",
+    "description": "A small, gemlike species of woodlands including coffee plantations and mangroves. The rather large head, long bill, and short tail create a profile shared only by the Narrow-billed Tody within its range.",
+    "imageCreditName": "Robert Lewis",
+    "checklistUrl": "https://ebird.org/checklist/S35710340?view=photos",
+    "timestamp": "2025-12-26T07:14:04.542407",
+    "isBirdOfTheDay": true
   }
 ]
