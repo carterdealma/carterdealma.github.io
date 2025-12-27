@@ -950,5 +950,18 @@
     "checklistUrl": "https://ebird.org/checklist/S35710340?view=photos",
     "timestamp": "2025-12-26T07:14:04.542407",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "westra1",
+    "name": "Western Tragopan",
+    "scientificName": "Tragopan melanocephalus",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/208446681/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/westra1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Himalayas of northern pakistan to northwestern india and adjacent southwestern tibet",
+    "description": "A large, short-tailed pheasant. Male appears mostly dark with prominent white dots all over.",
+    "imageCreditName": "Vinay Kumar",
+    "checklistUrl": "https://ebird.org/checklist/S49515351?view=photos",
+    "timestamp": "2025-12-27T07:10:51.818348",
+    "isBirdOfTheDay": true
   }
 ]
