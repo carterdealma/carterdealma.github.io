@@ -976,5 +976,18 @@
     "checklistUrl": "https://ebird.org/checklist/S49139989?view=photos",
     "timestamp": "2025-12-28T07:12:07.528346",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "imewaa1",
+    "name": "Imeri Warbling-Antbird",
+    "scientificName": "Hypocnemis flavescens",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/182263001/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/imewaa1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "East-central colombia to southern venezuela and far northwestern amazonian brazil",
+    "description": "Small antbird. Males are streaked black above, with a yellow-tinged throat and rusty flanks.",
+    "imageCreditName": "Ian Davies",
+    "checklistUrl": "https://ebird.org/checklist/S8408937?view=photos",
+    "timestamp": "2025-12-29T07:17:46.465294",
+    "isBirdOfTheDay": true
   }
 ]
