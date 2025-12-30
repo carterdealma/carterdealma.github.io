@@ -989,5 +989,18 @@
     "checklistUrl": "https://ebird.org/checklist/S8408937?view=photos",
     "timestamp": "2025-12-29T07:17:46.465294",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "dustet1",
+    "name": "Dusky Tetraka",
+    "scientificName": "Crossleyia tenebrosa",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/541197701/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/dustet1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Rainforest of east-central madagascar",
+    "description": "Extremely rare and enigmatic tetraka. Dark olive-green overall, with a pale yellowish throat and ring around the eye.",
+    "imageCreditName": "John C. Mittermeier",
+    "checklistUrl": "https://ebird.org/checklist/S125709747?view=photos",
+    "timestamp": "2025-12-30T07:14:26.672338",
+    "isBirdOfTheDay": true
   }
 ]
