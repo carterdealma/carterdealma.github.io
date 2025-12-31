@@ -1002,5 +1002,18 @@
     "checklistUrl": "https://ebird.org/checklist/S125709747?view=photos",
     "timestamp": "2025-12-30T07:14:26.672338",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "rufcas2",
+    "name": "Rufous Casiornis",
+    "scientificName": "Casiornis rufus",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/244344841/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/rufcas2?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Southeastern peru to eastern bolivia, paraguay, northern argentina, and amazonian and eastern brazil",
+    "description": "A large mostly cinnamon flycatcher with a paler breast and belly. Note the black bill with a pinkish base.",
+    "imageCreditName": "Andres Vasquez Noboa",
+    "checklistUrl": "https://ebird.org/checklist/S47123735?view=photos",
+    "timestamp": "2025-12-31T07:15:20.535576",
+    "isBirdOfTheDay": true
   }
 ]
