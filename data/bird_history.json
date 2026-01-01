@@ -1015,5 +1015,18 @@
     "checklistUrl": "https://ebird.org/checklist/S47123735?view=photos",
     "timestamp": "2025-12-31T07:15:20.535576",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "spwlap1",
+    "name": "Spur-winged Lapwing",
+    "scientificName": "Vanellus spinosus",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/140483191/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/spwlap1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Senegambia to red sea, northeastern tanzania, and eastern mediterranean",
+    "description": "This medium-large plover is often locally abundant, noisy, and easy to identify. Its plumage is a striking combination of black, white, and brown.",
+    "imageCreditName": "Volker Hesse",
+    "checklistUrl": "https://ebird.org/checklist/S18176025?view=photos",
+    "timestamp": "2026-01-01T07:15:09.221364",
+    "isBirdOfTheDay": true
   }
 ]
