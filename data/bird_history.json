@@ -1028,5 +1028,18 @@
     "checklistUrl": "https://ebird.org/checklist/S18176025?view=photos",
     "timestamp": "2026-01-01T07:15:09.221364",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "brnfir1",
+    "name": "Brown Firefinch",
+    "scientificName": "Lagonosticta nitidula",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/220357931/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/brnfir1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Angola to democratic republic of the congo, zambia, southern tanzania, northern namibia, and northern zimbabwe",
+    "description": "This is the darkest and dullest firefinch, the only species without a red or pink rump. Both sexes have red in the bill.",
+    "imageCreditName": "Nigel Voaden",
+    "checklistUrl": "https://ebird.org/checklist/S21609850?view=photos",
+    "timestamp": "2026-01-02T07:15:50.880205",
+    "isBirdOfTheDay": true
   }
 ]
