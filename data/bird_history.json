@@ -1041,5 +1041,18 @@
     "checklistUrl": "https://ebird.org/checklist/S21609850?view=photos",
     "timestamp": "2026-01-02T07:15:50.880205",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "plhfin1",
+    "name": "Plum-headed Finch",
+    "scientificName": "Emblema modesta",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/175196361/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/plhfin1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Eastern australia (burdekin river, queensland to about sydney, new south wales)",
+    "description": "Small brown bird with finely barred front. Brown above, paler and finely barred, below, with with pale spots on the wing and rump, pale-tipped tail, and tiny plum-colored cap (male also has plum-colored chin).",
+    "imageCreditName": "Roksana and Terry",
+    "checklistUrl": "https://ebird.org/checklist/S49554182?view=photos",
+    "timestamp": "2026-01-03T07:11:23.067129",
+    "isBirdOfTheDay": true
   }
 ]
