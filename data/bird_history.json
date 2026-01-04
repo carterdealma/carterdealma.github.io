@@ -1054,5 +1054,18 @@
     "checklistUrl": "https://ebird.org/checklist/S49554182?view=photos",
     "timestamp": "2026-01-03T07:11:23.067129",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "bkbthr3",
+    "name": "Campina Thrush",
+    "scientificName": "Turdus arthuri",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/360527581/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/bkbthr3?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Eastern colombia eastward to southern venezuela and guyana, southward locally to central amazonian brazil, from the east bank of the r\u00edo madeira to the east bank of the r\u00edo tapaj\u00f3s",
+    "description": "A drab thrush, uncommon in open habitats and woodlands in the lowlands. Nondescript grayish-brown with a pale whitish belly.",
+    "imageCreditName": "Anselmo d'Affonseca",
+    "checklistUrl": "https://ebird.org/checklist/S64964682?view=photos",
+    "timestamp": "2026-01-04T07:13:40.503743",
+    "isBirdOfTheDay": true
   }
 ]
