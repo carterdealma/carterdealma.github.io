@@ -1067,5 +1067,18 @@
     "checklistUrl": "https://ebird.org/checklist/S64964682?view=photos",
     "timestamp": "2026-01-04T07:13:40.503743",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "whbant5",
+    "name": "White-breasted Antbird",
+    "scientificName": "Rhegmatorhina hoffmannsi",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/181385341/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/whbant5?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Central amazonian brazil to western mato grosso",
+    "description": "Striking antbird with a conspicuous white throat and breast. Males have a black cap, brown back, and gray belly, while females have a cinnamon cap and underparts scaled black-and-chestnut.",
+    "imageCreditName": "Ottavio Janni",
+    "checklistUrl": "https://ebird.org/checklist/S38502207?view=photos",
+    "timestamp": "2026-01-05T07:20:49.802459",
+    "isBirdOfTheDay": true
   }
 ]
