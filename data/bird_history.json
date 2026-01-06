@@ -1080,5 +1080,18 @@
     "checklistUrl": "https://ebird.org/checklist/S38502207?view=photos",
     "timestamp": "2026-01-05T07:20:49.802459",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "minher1",
+    "name": "Minute Hermit",
+    "scientificName": "Phaethornis idaliae",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/188290561/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/minher1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Lowlands of southeastern brazil (bahia to rio de janeiro)",
+    "description": "Tiny hummingbird with a curved bill and a yellow lower bill. Males have a dark green iridescent back, a dark brown throat with a pale belly and vent, and dark undertail feathers.",
+    "imageCreditName": "Marcos Eug\u00eanio (Birding Guide)",
+    "checklistUrl": "https://ebird.org/checklist/S44759516?view=photos",
+    "timestamp": "2026-01-06T07:17:54.589411",
+    "isBirdOfTheDay": true
   }
 ]
