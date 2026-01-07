@@ -1093,5 +1093,18 @@
     "checklistUrl": "https://ebird.org/checklist/S44759516?view=photos",
     "timestamp": "2026-01-06T07:17:54.589411",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "spewar3",
+    "name": "Speckled Warbler",
+    "scientificName": "Pyrrholaemus sagittatus",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/125524751/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/spewar3?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Central and eastern queensland through new south wales to eastern and central victoria",
+    "description": "Small, distinctive, ground-dwelling bird. Upperparts gray, underparts cream white, with black streaking on back, underparts, and crown.",
+    "imageCreditName": "Chris Wiley",
+    "checklistUrl": "https://ebird.org/checklist/S41478670?view=photos",
+    "timestamp": "2026-01-07T07:17:19.801258",
+    "isBirdOfTheDay": true
   }
 ]
