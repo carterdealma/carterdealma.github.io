@@ -1106,5 +1106,18 @@
     "checklistUrl": "https://ebird.org/checklist/S41478670?view=photos",
     "timestamp": "2026-01-07T07:17:19.801258",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "gotpar2",
+    "name": "Golden-tailed Parrotlet",
+    "scientificName": "Touit surdus",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/188516111/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/gotpar2?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Eastern brazil (pernambuco to s\u00e3o paulo)",
+    "description": "Small parrot with a short, squared tail. The body is largely green with distinctive brown bases to the wings and an orangey face.",
+    "imageCreditName": "Allisson Cafeseiro",
+    "checklistUrl": "https://ebird.org/checklist/S58750809?view=photos",
+    "timestamp": "2026-01-08T07:16:52.631109",
+    "isBirdOfTheDay": true
   }
 ]
