@@ -83,10 +83,10 @@ document.getElementById('new_bird_button').addEventListener('click', () => {
     const bird = extraBirds[extraBirdIndex];
     bird.isBirdOfTheDay = false;
 
-    // Force a 1.75-second loading time
+    // Force a 1.5-second loading time
     setTimeout(() => {
         updateBirdDisplay(bird);
-    }, 1750);
+    }, 1500);
 
     // Move index forward (loop back to start if at the end)
     extraBirdIndex = (extraBirdIndex + 1) % extraBirds.length;
