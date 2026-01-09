@@ -1119,5 +1119,18 @@
     "checklistUrl": "https://ebird.org/checklist/S58750809?view=photos",
     "timestamp": "2026-01-08T07:16:52.631109",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "shtfro2",
+    "name": "Bornean Frogmouth",
+    "scientificName": "Batrachostomus mixtus",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/271273961/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/shtfro2?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Montane forest of borneo",
+    "description": "Small stout frogmouth with a face full of wispy whiskers. Males are dark brown overall; females are bright rufous.",
+    "imageCreditName": "Raphael Lebrun",
+    "checklistUrl": "https://ebird.org/checklist/S49694080?view=photos",
+    "timestamp": "2026-01-09T07:17:36.854712",
+    "isBirdOfTheDay": true
   }
 ]
