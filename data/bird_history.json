@@ -1132,5 +1132,18 @@
     "checklistUrl": "https://ebird.org/checklist/S49694080?view=photos",
     "timestamp": "2026-01-09T07:17:36.854712",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "dutant1",
+    "name": "Dusky-tailed Antbird",
+    "scientificName": "Drymophila malura",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/95483581/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/dutant1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Southeastern brazil to southeastern paraguay and northeastern argentina (misiones)",
+    "description": "Medium-sized antbird with a long olive-brown tail. Found in the dense understory of humid forest, woodlands, and forest edges.",
+    "imageCreditName": "Tommy Pedersen",
+    "checklistUrl": "https://ebird.org/checklist/S32895623?view=photos",
+    "timestamp": "2026-01-10T07:11:07.112964",
+    "isBirdOfTheDay": true
   }
 ]
