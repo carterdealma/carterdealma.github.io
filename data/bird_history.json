@@ -1145,5 +1145,18 @@
     "checklistUrl": "https://ebird.org/checklist/S32895623?view=photos",
     "timestamp": "2026-01-10T07:11:07.112964",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "blbpar4",
+    "name": "Blue-bellied Parrot",
+    "scientificName": "Triclaria malachitacea",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/88530401/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/blbpar4?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Lowlands of southeastern brazil (southern bahia to rio grande do sul)",
+    "description": "Fairly large parrot with a long tail and a pale bill. Mostly green with a blue tail tip and bluish underwings.",
+    "imageCreditName": "Luiz Carlos Ramassotti",
+    "checklistUrl": "https://ebird.org/checklist/S31343671?view=photos",
+    "timestamp": "2026-01-11T07:13:29.283841",
+    "isBirdOfTheDay": true
   }
 ]
