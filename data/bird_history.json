@@ -1158,5 +1158,18 @@
     "checklistUrl": "https://ebird.org/checklist/S31343671?view=photos",
     "timestamp": "2026-01-11T07:13:29.283841",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "afrsco2",
+    "name": "Socotra Scops-Owl",
+    "scientificName": "Otus socotranus",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/261373941/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/afrsco2?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Socotra (off eastern somalia)",
+    "description": "A small, compact, pale gray owl with tiny ear tufts. Found on the island of Socotra, where it inhabits arid habitats with trees, including palms.",
+    "imageCreditName": "Rob Felix",
+    "checklistUrl": "https://ebird.org/checklist/S65184214?view=photos",
+    "timestamp": "2026-01-12T07:19:04.789477",
+    "isBirdOfTheDay": true
   }
 ]
