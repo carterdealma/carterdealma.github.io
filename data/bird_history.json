@@ -1171,5 +1171,18 @@
     "checklistUrl": "https://ebird.org/checklist/S65184214?view=photos",
     "timestamp": "2026-01-12T07:19:04.789477",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "helvan1",
+    "name": "Helmet Vanga",
+    "scientificName": "Euryceros prevostii",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/192602791/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/helvan1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Dense forest of northeastern madagascar",
+    "description": "Huge black vanga with a rufous back and an enormous blue bill. Rare and localized Madagascar endemic that is found in northeastern rainforest at low and middle elevations.",
+    "imageCreditName": "Nigel Voaden",
+    "checklistUrl": "https://ebird.org/checklist/S25837211?view=photos",
+    "timestamp": "2026-01-13T07:17:13.212548",
+    "isBirdOfTheDay": true
   }
 ]
