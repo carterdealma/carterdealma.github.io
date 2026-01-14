@@ -1184,5 +1184,18 @@
     "checklistUrl": "https://ebird.org/checklist/S25837211?view=photos",
     "timestamp": "2026-01-13T07:17:13.212548",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "andtyr2",
+    "name": "Plumbeous Black-Tyrant",
+    "scientificName": "Knipolegus cabanisi",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/231296661/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/andtyr2?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Andes of southeastern peru (cusco) to western bolivia and northern argentina",
+    "description": "Medium-sized flycatcher of Andean slopes; rare in southern Peru, more common in Bolivia and northern Argentina. Male is separated from White-winged Black-Tyrant by grayer, less glossy plumage and from Cinereous Tyrant by darker belly.",
+    "imageCreditName": "Nick Athanas",
+    "checklistUrl": "https://ebird.org/checklist/S58511370?view=photos",
+    "timestamp": "2026-01-14T07:17:22.799130",
+    "isBirdOfTheDay": true
   }
 ]
