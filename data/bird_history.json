@@ -1197,5 +1197,18 @@
     "checklistUrl": "https://ebird.org/checklist/S58511370?view=photos",
     "timestamp": "2026-01-14T07:17:22.799130",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "nonbab1",
+    "name": "Nonggang Babbler",
+    "scientificName": "Stachyris nonggangensis",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/181021521/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/nonbab1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Limestone hills of southwestern guangxi (southeastern china), and in adjacent extreme northeastern vietnam (eastern tonkin)",
+    "description": "A medium-sized brown babbler with pale eyes and a lopsided white crescent bordering the back half of the cheek. Short-tailed and large-headed in profile.",
+    "imageCreditName": "Gary Nunn",
+    "checklistUrl": "https://ebird.org/checklist/S53610604?view=photos",
+    "timestamp": "2026-01-15T07:17:07.385426",
+    "isBirdOfTheDay": true
   }
 ]
