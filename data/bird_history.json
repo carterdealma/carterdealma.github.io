@@ -1223,5 +1223,18 @@
     "checklistUrl": "https://ebird.org/checklist/S51556202?view=photos",
     "timestamp": "2026-01-16T07:16:23.273152",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "grdswi1",
+    "name": "Great Dusky Swift",
+    "scientificName": "Cypseloides senex",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/76873171/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/grdswi1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Central and southern brazil to eastern paraguay and northeastern argentina",
+    "description": "Large swift with uniform cold brown plumage with a pale face. Similar to Sooty Swift, but is larger and paler.",
+    "imageCreditName": "Dave Curtis",
+    "checklistUrl": "https://ebird.org/checklist/S39785967?view=photos",
+    "timestamp": "2026-01-17T07:11:25.058879",
+    "isBirdOfTheDay": true
   }
 ]
