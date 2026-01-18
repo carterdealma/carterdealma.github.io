@@ -1236,5 +1236,18 @@
     "checklistUrl": "https://ebird.org/checklist/S39785967?view=photos",
     "timestamp": "2026-01-17T07:11:25.058879",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "orefly1",
+    "name": "Orange-eyed Flatbill",
+    "scientificName": "Tolmomyias traylori",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/207262051/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/orefly1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Tropical southern colombia and northeastern peru north of the amazon",
+    "description": "Rare flycatcher found in seasonally flooded swamp forest in lowlands east of the Andes. Pale eye, wide bill, buffy throat and breast, gray crown, and lack of facial markings help separate it from similar species such as Gray-crowned Flycatcher.",
+    "imageCreditName": "Brayan Coral Jaramillo",
+    "checklistUrl": "https://ebird.org/checklist/S42224651?view=photos",
+    "timestamp": "2026-01-18T07:12:08.813208",
+    "isBirdOfTheDay": true
   }
 ]
