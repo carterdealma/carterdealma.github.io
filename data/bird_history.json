@@ -1249,5 +1249,18 @@
     "checklistUrl": "https://ebird.org/checklist/S42224651?view=photos",
     "timestamp": "2026-01-18T07:12:08.813208",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "temsti",
+    "name": "Temminck's Stint",
+    "scientificName": "Calidris temminckii",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/253696091/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/temsti?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Northern palearctic; winters to africa, indonesia, and philippines",
+    "description": "Breeds on wet moorland mainly in Scandinavia and Russia; migrants occur in wide variety of wetland habitats across Africa and southern Asia. Found mainly as singles or small groups, locally in flocks.",
+    "imageCreditName": "Marco Valentini",
+    "checklistUrl": "https://ebird.org/checklist/S63956442?view=photos",
+    "timestamp": "2026-01-19T07:21:24.401631",
+    "isBirdOfTheDay": true
   }
 ]
