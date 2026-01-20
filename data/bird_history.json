@@ -1262,5 +1262,18 @@
     "checklistUrl": "https://ebird.org/checklist/S63956442?view=photos",
     "timestamp": "2026-01-19T07:21:24.401631",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "chafly3",
+    "name": "Chapada Flycatcher",
+    "scientificName": "Guyramemua affine",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/621908448/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/chafly3?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Cerrado region of brazil and adjacent eastern bolivia",
+    "description": "Medium-sized flycatcher with a gray head, olive back, and yellow belly. Note the white rump contrasting with the dark tail, which has a broad white terminal band.",
+    "imageCreditName": "Andres Vasquez Noboa",
+    "checklistUrl": "https://ebird.org/checklist/S119384980?view=photos",
+    "timestamp": "2026-01-20T07:19:16.517305",
+    "isBirdOfTheDay": true
   }
 ]
