@@ -1275,5 +1275,18 @@
     "checklistUrl": "https://ebird.org/checklist/S119384980?view=photos",
     "timestamp": "2026-01-20T07:19:16.517305",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "chovir1",
+    "name": "Choco Vireo",
+    "scientificName": "Vireo masteri",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/248476341/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/chovir1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Local on the pacific slope of colombia (risaralda and nari\u00f1o) and northwestern ecuador (esmeraldas and pichincha)",
+    "description": "Rare vireo found only in lush Andean cloud forest in northwestern Ecuador and western Colombia. In contrast to the much more common Brown-capped Vireo, it has pale wingbars and may show an ochraceous wash on the throat and breast.",
+    "imageCreditName": "Jos\u00e9 Illanes/ Tropical Birding",
+    "checklistUrl": "https://ebird.org/checklist/S57661532?view=photos",
+    "timestamp": "2026-01-21T07:19:28.607082",
+    "isBirdOfTheDay": true
   }
 ]
