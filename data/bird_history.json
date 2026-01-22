@@ -1288,5 +1288,18 @@
     "checklistUrl": "https://ebird.org/checklist/S57661532?view=photos",
     "timestamp": "2026-01-21T07:19:28.607082",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "oripic1",
+    "name": "Orinoco Piculet",
+    "scientificName": "Picumnus pumilus",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/240421601/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/oripic1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Eastern colombia, adjacent southern venezuela (southern amazonas), and northwestern brazil",
+    "description": "This scarce piculet is known only from a few locations in the humid lowlands of eastern Colombia, southern Venezuela, and northwestern Brazil. Its underparts are entirely barred, but upperparts are plain, lacking the barring shown by the otherwise very similar Lafresnaye\u2019s Piculet.",
+    "imageCreditName": "Denis T\u00e9treault",
+    "checklistUrl": "https://ebird.org/checklist/S65727989?view=photos",
+    "timestamp": "2026-01-22T07:18:37.918342",
+    "isBirdOfTheDay": true
   }
 ]
