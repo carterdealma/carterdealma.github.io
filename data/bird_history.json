@@ -1301,5 +1301,18 @@
     "checklistUrl": "https://ebird.org/checklist/S65727989?view=photos",
     "timestamp": "2026-01-22T07:18:37.918342",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "gnspig1",
+    "name": "Sumatran Green-Pigeon",
+    "scientificName": "Treron oxyurus",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/255206951/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/gnspig1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Montane forest of sumatra and western java",
+    "description": "Relatively plain and unmarked green-pigeon with a long pointed tail. Males have a faint orange blush on the chest, though this can be hard to notice.",
+    "imageCreditName": "Lars Petersson | My World of Bird Photography",
+    "checklistUrl": "https://ebird.org/checklist/S65189658?view=photos",
+    "timestamp": "2026-01-23T07:17:28.658391",
+    "isBirdOfTheDay": true
   }
 ]
