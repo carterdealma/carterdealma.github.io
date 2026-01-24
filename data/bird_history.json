@@ -1314,5 +1314,18 @@
     "checklistUrl": "https://ebird.org/checklist/S65189658?view=photos",
     "timestamp": "2026-01-23T07:17:28.658391",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "elipig1",
+    "name": "Elegant Imperial-Pigeon",
+    "scientificName": "Ducula concinna",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/271141661/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/elipig1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Small islands off moluccas to eastern lesser sundas",
+    "description": "A large pigeon of small islands. Shows a conspicuous pale yellow eye, a pale gray head and underparts, a chestnut vent, and a green back, wings, and uppertail.",
+    "imageCreditName": "Mark Sutton",
+    "checklistUrl": "https://ebird.org/checklist/S64983605?view=photos",
+    "timestamp": "2026-01-24T07:12:19.582973",
+    "isBirdOfTheDay": true
   }
 ]
