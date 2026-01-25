@@ -1327,5 +1327,18 @@
     "checklistUrl": "https://ebird.org/checklist/S64983605?view=photos",
     "timestamp": "2026-01-24T07:12:19.582973",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "baispa",
+    "name": "Baird's Sparrow",
+    "scientificName": "Centronyx bairdii",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/308768371/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/baispa?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Great plains of north america; winters to southwestern usa and northern mexico",
+    "description": "One of North America's most sought-after sparrows due to its small breeding range and secretive habits. Breeds in extensive tall grasslands; winters in similar grassy habitats.",
+    "imageCreditName": "Brian Sullivan",
+    "checklistUrl": "https://ebird.org/checklist/S57337572?view=photos",
+    "timestamp": "2026-01-25T07:13:56.690341",
+    "isBirdOfTheDay": true
   }
 ]
