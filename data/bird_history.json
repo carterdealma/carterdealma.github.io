@@ -1340,5 +1340,18 @@
     "checklistUrl": "https://ebird.org/checklist/S57337572?view=photos",
     "timestamp": "2026-01-25T07:13:56.690341",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "cocfan4",
+    "name": "White-gorgeted Fantail",
+    "scientificName": "Rhipidura coultasi",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/609091752/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/cocfan4?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Malaita (central solomon islands)",
+    "description": "Slender, with a long, often fanned tail. Dark above, with a white throat and belly, as well as a boldly white-streaked black chest.",
+    "imageCreditName": "Corey Callaghan",
+    "checklistUrl": "https://ebird.org/checklist/S49653449?view=photos",
+    "timestamp": "2026-01-26T07:19:56.176563",
+    "isBirdOfTheDay": true
   }
 ]
