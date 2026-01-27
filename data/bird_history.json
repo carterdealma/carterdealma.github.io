@@ -1353,5 +1353,18 @@
     "checklistUrl": "https://ebird.org/checklist/S49653449?view=photos",
     "timestamp": "2026-01-26T07:19:56.176563",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "pumstp1",
+    "name": "Pincoya Storm-Petrel",
+    "scientificName": "Oceanites pincoyae",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/113678341/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/pumstp1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Known only from waters near chilo\u00e9 island (reloncavi sound and the chacao channel), chile",
+    "description": "Very local in inshore marine waters near Puerto Montt, Chile, where it can be locally numerous. Similar to the common and widespread Wilson\u2019s Storm-Petrel (and may simply be a localized population of that species), but averages more white in plumage, especially on underwing and vent area.",
+    "imageCreditName": "Jay Huila Balvin",
+    "checklistUrl": "https://ebird.org/checklist/S41457230?view=photos",
+    "timestamp": "2026-01-27T07:19:12.823170",
+    "isBirdOfTheDay": true
   }
 ]
