@@ -1379,5 +1379,18 @@
     "checklistUrl": "https://ebird.org/checklist/S26910602?view=photos",
     "timestamp": "2026-01-28T07:17:37.135435",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "whghon1",
+    "name": "White-gaped Honeyeater",
+    "scientificName": "Stomiopera unicolor",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/623280723/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/whghon1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Northern australia (king sound, western australia to townsville, queensland)",
+    "description": "A medium to large honeyeater with a sooty brown plumage and a bright pale patch between its eye and bill. Much larger than the similarly colored Dusky Honeyeater.",
+    "imageCreditName": "Marco Valentini",
+    "checklistUrl": "https://ebird.org/checklist/S63120992?view=photos",
+    "timestamp": "2026-01-29T07:32:57.435664",
+    "isBirdOfTheDay": true
   }
 ]
