@@ -1392,5 +1392,18 @@
     "checklistUrl": "https://ebird.org/checklist/S63120992?view=photos",
     "timestamp": "2026-01-29T07:32:57.435664",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "ligpig1",
+    "name": "Little Green-Pigeon",
+    "scientificName": "Treron olax",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/219464861/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/ligpig1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Lowlands of southern thailand, malay peninsula, and greater sundas",
+    "description": "This aptly-named forest species is the smallest of the green-pigeons. Males are highly distinctive, with a blue-gray head and neck, orange chest, pinkish-maroon back, and green belly.",
+    "imageCreditName": "Francis Yap",
+    "checklistUrl": "https://ebird.org/checklist/S37084900?view=photos",
+    "timestamp": "2026-01-30T07:32:58.407292",
+    "isBirdOfTheDay": true
   }
 ]
