@@ -1405,5 +1405,18 @@
     "checklistUrl": "https://ebird.org/checklist/S37084900?view=photos",
     "timestamp": "2026-01-30T07:32:58.407292",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "rbwfin1",
+    "name": "Rufous-breasted Warbling Finch",
+    "scientificName": "Poospiza rubecula",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/231299351/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/rbwfin1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "West slope of andes of peru (la libertad to ica)",
+    "description": "Rare and endangered bird found at high elevations in the western Andes of northern and central Peru. Note the black mask and the reddish-orange eyebrows, throat, and breast.",
+    "imageCreditName": "Bernardo Roca-Rey Ross",
+    "checklistUrl": "https://ebird.org/checklist/S57275353?view=photos",
+    "timestamp": "2026-01-31T07:20:18.102494",
+    "isBirdOfTheDay": true
   }
 ]
