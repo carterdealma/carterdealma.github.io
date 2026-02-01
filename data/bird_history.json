@@ -1418,5 +1418,18 @@
     "checklistUrl": "https://ebird.org/checklist/S57275353?view=photos",
     "timestamp": "2026-01-31T07:20:18.102494",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "stelio1",
+    "name": "Taiwan Liocichla",
+    "scientificName": "Liocichla steerii",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/157503731/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/stelio1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Montane forest of taiwan",
+    "description": "The gloom of the forest may make this small songbird of dense montane forests and edges appear dark, but a bit of sunlight reveals a gloriously colorful plumage, with subtle patches of olive, blue, yellow, orange, and chestnut. Social, moving about in pairs or flocks, often emerging out into the open when gaps in the vegetation are present.",
+    "imageCreditName": "Anonymous",
+    "checklistUrl": "https://ebird.org/checklist/S43880336?view=photos",
+    "timestamp": "2026-02-01T07:29:50.137937",
+    "isBirdOfTheDay": true
   }
 ]
