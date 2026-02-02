@@ -1431,5 +1431,18 @@
     "checklistUrl": "https://ebird.org/checklist/S43880336?view=photos",
     "timestamp": "2026-02-01T07:29:50.137937",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "lowowl1",
+    "name": "Long-whiskered Owlet",
+    "scientificName": "Xenoglaux loweryi",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/210538191/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/lowowl1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Cloud forest of northern peru (amazonas and san mart\u00edn)",
+    "description": "Tiny owl known only from a small area in the eastern Andes of northern Peru. The long plumes around its eyes and bill are unique among owls.",
+    "imageCreditName": "Andrew Spencer",
+    "checklistUrl": "https://ebird.org/checklist/S30775028?view=photos",
+    "timestamp": "2026-02-02T07:42:21.493008",
+    "isBirdOfTheDay": true
   }
 ]
