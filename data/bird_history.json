@@ -1444,5 +1444,18 @@
     "checklistUrl": "https://ebird.org/checklist/S30775028?view=photos",
     "timestamp": "2026-02-02T07:42:21.493008",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "ltgsta1",
+    "name": "Long-tailed Glossy Starling",
+    "scientificName": "Lamprotornis caudatus",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/387744041/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/ltgsta1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Far southern mauritania to northern guinea eastward to southern sudan and northwestern south sudan",
+    "description": "A large, extremely long-tailed, dark and glossy starling. Sometimes looks black, but in good light shows iridescence that is mostly blue-green, with a purple belly and tail.",
+    "imageCreditName": "Fanis Theofanopoulos (ASalafa Deri) \ud83d\udc10",
+    "checklistUrl": "https://ebird.org/checklist/S50464650?view=photos",
+    "timestamp": "2026-02-03T07:34:45.026025",
+    "isBirdOfTheDay": true
   }
 ]
