@@ -1457,5 +1457,18 @@
     "checklistUrl": "https://ebird.org/checklist/S50464650?view=photos",
     "timestamp": "2026-02-03T07:34:45.026025",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "sinspa1",
+    "name": "Sind Sparrow",
+    "scientificName": "Passer pyrrhonotus",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/171614251/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/sinspa1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Far southeastern iran to pakistan and northwestern india",
+    "description": "A small, strikingly patterned sparrow which is extremely similar to the House Sparrow. The male has a bright chestnut eye-stripe, a gray crown and hindneck, a black patch restricted to the chin, a large white shoulder patch, and a black bill.",
+    "imageCreditName": "Madhu Gupta",
+    "checklistUrl": "https://ebird.org/checklist/S57333912?view=photos",
+    "timestamp": "2026-02-04T07:37:03.401120",
+    "isBirdOfTheDay": true
   }
 ]
