@@ -1470,5 +1470,18 @@
     "checklistUrl": "https://ebird.org/checklist/S57333912?view=photos",
     "timestamp": "2026-02-04T07:37:03.401120",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "grnwar1",
+    "name": "Green Warbler",
+    "scientificName": "Phylloscopus nitidus",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/150276381/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/grnwar1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Caucasus to northern t\u00fcrkiye, northern iran, and northwestern afghanistan; winters southern india",
+    "description": "Nondescript leaf warbler with two whitish wing bars (often only one visible), dull to bright greenish upperparts, a yellow wash usually restricted to the face, and a pale orange lower bill. Breeds in forest in the Caucasus mountains.",
+    "imageCreditName": "John C. Mittermeier",
+    "checklistUrl": "https://ebird.org/checklist/S30070914?view=photos",
+    "timestamp": "2026-02-05T07:42:17.157894",
+    "isBirdOfTheDay": true
   }
 ]
