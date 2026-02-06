@@ -1483,5 +1483,18 @@
     "checklistUrl": "https://ebird.org/checklist/S30070914?view=photos",
     "timestamp": "2026-02-05T07:42:17.157894",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "gyctet1",
+    "name": "Gray-crowned Tetraka",
+    "scientificName": "Xanthomixis cinereiceps",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/193708361/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/gyctet1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Rainforest of eastern madagascar",
+    "description": "Attractive, medium-sized tetraka. Green back, gray head, white throat, and yellowish underparts.",
+    "imageCreditName": "Peter Kaestner",
+    "checklistUrl": "https://ebird.org/checklist/S40131232?view=photos",
+    "timestamp": "2026-02-06T07:38:40.977075",
+    "isBirdOfTheDay": true
   }
 ]
