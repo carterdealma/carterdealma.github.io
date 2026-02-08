@@ -1509,5 +1509,18 @@
     "checklistUrl": "https://ebird.org/checklist/S4076172?view=photos",
     "timestamp": "2026-02-07T07:24:15.960525",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "towwar",
+    "name": "Townsend's Warbler",
+    "scientificName": "Setophaga townsendi",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/297064161/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/towwar?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Coniferous forest of western north america; winters to costa rica",
+    "description": "Brightly-colored warbler with a contrasting face pattern with dark cheeks and crown surrounded by bright yellow. Also shows olive back, bold white wingbars, and yellow on the breast.",
+    "imageCreditName": "Matt Brady",
+    "checklistUrl": "https://ebird.org/checklist/S6876042?view=photos",
+    "timestamp": "2026-02-08T07:31:28.782349",
+    "isBirdOfTheDay": true
   }
 ]
