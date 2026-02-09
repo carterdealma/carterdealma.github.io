@@ -1522,5 +1522,18 @@
     "checklistUrl": "https://ebird.org/checklist/S6876042?view=photos",
     "timestamp": "2026-02-08T07:31:28.782349",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "glthum1",
+    "name": "Glow-throated Hummingbird",
+    "scientificName": "Selasphorus ardens",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/609969678/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/glthum1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Mountains of western panama (chiriqu\u00ed and veraguas)",
+    "description": "Tiny, poorly-known hummingbird with extremely limited range in western Panama. Males are greenish above with rusty flanks, a pinkish-red throat, and a white collar.",
+    "imageCreditName": "Kees Groenendijk www.hotelheliconiapanama.com",
+    "checklistUrl": "https://ebird.org/checklist/S34329830?view=photos",
+    "timestamp": "2026-02-09T07:48:12.978766",
+    "isBirdOfTheDay": true
   }
 ]
