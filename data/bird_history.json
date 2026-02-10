@@ -1535,5 +1535,18 @@
     "checklistUrl": "https://ebird.org/checklist/S34329830?view=photos",
     "timestamp": "2026-02-09T07:48:12.978766",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "yenalb3",
+    "name": "Indian Yellow-nosed Albatross",
+    "scientificName": "Thalassarche carteri",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/609720985/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/yenalb3?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Breeds on southern indian ocean islands; ranges southern oceans",
+    "description": "Massive seabird, but relatively small and slender for an albatross. Breeds on islands in the Southern Indian ocean from Marion and Prince Edward to Amsterdam and St.",
+    "imageCreditName": "Kevin Bartram",
+    "checklistUrl": "https://ebird.org/checklist/S74556384?view=photos",
+    "timestamp": "2026-02-10T07:51:33.288305",
+    "isBirdOfTheDay": true
   }
 ]
