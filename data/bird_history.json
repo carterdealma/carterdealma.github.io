@@ -1548,5 +1548,18 @@
     "checklistUrl": "https://ebird.org/checklist/S74556384?view=photos",
     "timestamp": "2026-02-10T07:51:33.288305",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "easmog6",
+    "name": "Uluguru Mountain Greenbul",
+    "scientificName": "Arizelocichla neumanni",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/495667091/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/easmog6?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Northeastern tanzania (uluguru mountains)",
+    "description": "A medium-sized greenbul with a dark cap, an otherwise gray head and underparts, and an olive-green back. Uncommon, inconspicuous, and local in montane forest in the Uluguru Mountains of Tanzania.",
+    "imageCreditName": "Peter Steward",
+    "checklistUrl": "https://ebird.org/checklist/S99305182?view=photos",
+    "timestamp": "2026-02-11T07:45:30.938771",
+    "isBirdOfTheDay": true
   }
 ]
