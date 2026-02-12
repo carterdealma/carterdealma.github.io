@@ -1561,5 +1561,18 @@
     "checklistUrl": "https://ebird.org/checklist/S99305182?view=photos",
     "timestamp": "2026-02-11T07:45:30.938771",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "guipuf1",
+    "name": "Guianan Puffbird",
+    "scientificName": "Notharchus macrorhynchos",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/175879061/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/guipuf1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Eastern venezuela, northeastern brazil, and the guianas",
+    "description": "Chunky, large-billed bird of rainforest canopy; easily identified by black-and-white plumage, relatively large size, and staid demeanor. Most often seen perched high in bare branches, sometimes near arboreal termite nests, in which it digs its own nest cavities.",
+    "imageCreditName": "LUCIANO BERNARDES",
+    "checklistUrl": "https://ebird.org/checklist/S46486180?view=photos",
+    "timestamp": "2026-02-12T07:43:44.928660",
+    "isBirdOfTheDay": true
   }
 ]
