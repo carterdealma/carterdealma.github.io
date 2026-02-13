@@ -1574,5 +1574,18 @@
     "checklistUrl": "https://ebird.org/checklist/S46486180?view=photos",
     "timestamp": "2026-02-12T07:43:44.928660",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "swirai1",
+    "name": "Swinhoe's Rail",
+    "scientificName": "Coturnicops exquisitus",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/362367021/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/swirai1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Siberia and northern manchuria; winters to southern china and ryukyu islands (southern japan)",
+    "description": "This sparrow-sized rail moves like a ghost through grassy meadows and wetlands. Prefers to run instead of fly, but white wing patches are unmistakable if seen.",
+    "imageCreditName": "Cheng Qian",
+    "checklistUrl": "https://ebird.org/checklist/S90278187?view=photos",
+    "timestamp": "2026-02-13T07:41:59.389505",
+    "isBirdOfTheDay": true
   }
 ]
