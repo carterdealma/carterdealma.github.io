@@ -1587,5 +1587,18 @@
     "checklistUrl": "https://ebird.org/checklist/S90278187?view=photos",
     "timestamp": "2026-02-13T07:41:59.389505",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "jamman1",
+    "name": "Jamaican Mango",
+    "scientificName": "Anthracothorax mango",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/106849781/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/jamman1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Jamaica",
+    "description": "A large dark hummingbird of forest edges, plantations, and gardens. Its black underparts, iridescent red cheeks, and red-purple tail are unique within its range.",
+    "imageCreditName": "nancy boutin",
+    "checklistUrl": "https://ebird.org/checklist/S42310154?view=photos",
+    "timestamp": "2026-02-14T07:27:03.614372",
+    "isBirdOfTheDay": true
   }
 ]
