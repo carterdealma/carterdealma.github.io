@@ -1600,5 +1600,18 @@
     "checklistUrl": "https://ebird.org/checklist/S42310154?view=photos",
     "timestamp": "2026-02-14T07:27:03.614372",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "yebsee2",
+    "name": "Yellow-browed Seedeater",
+    "scientificName": "Crithagra whytii",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/255201761/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/yebsee2?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Highlands of southern tanzania to zambia and northern malawi",
+    "description": "A chunky medium-sized seedeater, brown above and pale below with heavy streaking. Patches of yellow appear on several parts of the body, including the eyebrows, breast, and edges of the wing and tail feathers.",
+    "imageCreditName": "Nik Borrow",
+    "checklistUrl": "https://ebird.org/checklist/S65120874?view=photos",
+    "timestamp": "2026-02-15T07:31:07.966132",
+    "isBirdOfTheDay": true
   }
 ]
