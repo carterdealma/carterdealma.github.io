@@ -1613,5 +1613,18 @@
     "checklistUrl": "https://ebird.org/checklist/S65120874?view=photos",
     "timestamp": "2026-02-15T07:31:07.966132",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "nebhea1",
+    "name": "Negros Bleeding-heart",
+    "scientificName": "Gallicolumba keayi",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/338625931/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/nebhea1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Negros and panay (west visayas; west-central philippines)",
+    "description": "A very rare medium-sized ground dove of foothill forest floor on Negros and Panay. Iridescent greenish-blue on the head and sides to the chest, scaled on the upper back, with brownish flight feathers.",
+    "imageCreditName": "Paul French",
+    "checklistUrl": "https://ebird.org/checklist/S81619294?view=photos",
+    "timestamp": "2026-02-16T07:44:41.159920",
+    "isBirdOfTheDay": true
   }
 ]
