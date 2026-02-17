@@ -1626,5 +1626,18 @@
     "checklistUrl": "https://ebird.org/checklist/S81619294?view=photos",
     "timestamp": "2026-02-16T07:44:41.159920",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "grefla3",
+    "name": "Greater Flamingo",
+    "scientificName": "Phoenicopterus roseus",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/54167691/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/grefla3?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Southern europe and mediterranean basin to southern africa and indian subcontinent",
+    "description": "Distributed from Africa and southern Europe through West Asia to South Asia. Very large, with long, ",
+    "imageCreditName": "Melvin Jaison",
+    "checklistUrl": "https://ebird.org/checklist/S35631190?view=photos",
+    "timestamp": "2026-02-17T07:41:59.350354",
+    "isBirdOfTheDay": true
   }
 ]
