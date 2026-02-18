@@ -1639,5 +1639,18 @@
     "checklistUrl": "https://ebird.org/checklist/S35631190?view=photos",
     "timestamp": "2026-02-17T07:41:59.350354",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "cicada4",
+    "name": "Palau Cicadabird",
+    "scientificName": "Edolisoma monacha",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/622728448/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/cicada4?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Palau (western caroline islands)",
+    "description": "Small cuckooshrike with a restricted range, found only on the Palau Archipelago. Males are mainly gray with a black patch on the face, black tail, and black on the wings.",
+    "imageCreditName": "Keith Barnes",
+    "checklistUrl": "https://ebird.org/checklist/S65002252?view=photos",
+    "timestamp": "2026-02-18T07:43:00.423837",
+    "isBirdOfTheDay": true
   }
 ]
