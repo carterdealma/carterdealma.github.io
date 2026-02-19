@@ -1652,5 +1652,18 @@
     "checklistUrl": "https://ebird.org/checklist/S65002252?view=photos",
     "timestamp": "2026-02-18T07:43:00.423837",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "putcot1",
+    "name": "Purple-throated Cotinga",
+    "scientificName": "Porphyrolaema porphyrolaema",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/565268541/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/putcot1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Tropical southeastern colombia to southeastern peru and western amazonian brazil",
+    "description": "Striking, ornately-colored cotinga. Male and female are uniquely beautiful: males are black above, white below, with a bright purple throat and breast; females are tawny yellowish with extensive black barring.",
+    "imageCreditName": "Du\u0161an Brinkhuizen",
+    "checklistUrl": "https://ebird.org/checklist/S135596323?view=photos",
+    "timestamp": "2026-02-19T07:41:43.480249",
+    "isBirdOfTheDay": true
   }
 ]
