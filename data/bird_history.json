@@ -1665,5 +1665,18 @@
     "checklistUrl": "https://ebird.org/checklist/S135596323?view=photos",
     "timestamp": "2026-02-19T07:41:43.480249",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "neimun1",
+    "name": "New Ireland Munia",
+    "scientificName": "Lonchura forbesi",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/609979846/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/neimun1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "New ireland (northeastern bismarck archipelago)",
+    "description": "A small grassland-loving finch with a light orange chest and belly. Richly brown above, with a black head.",
+    "imageCreditName": "Joshua Bergmark | Ornis Birding Expeditions",
+    "checklistUrl": "https://ebird.org/checklist/S120900316?view=photos",
+    "timestamp": "2026-02-20T07:40:07.156410",
+    "isBirdOfTheDay": true
   }
 ]
