@@ -1678,5 +1678,18 @@
     "checklistUrl": "https://ebird.org/checklist/S120900316?view=photos",
     "timestamp": "2026-02-20T07:40:07.156410",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "whclau1",
+    "name": "White-cheeked Laughingthrush",
+    "scientificName": "Pterorhinus vassali",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/238755231/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/whclau1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Montane forest of vietnam and southern laos",
+    "description": "A garrulous, sociable bird, often found in large flocks, both single-species and mixed. Warm brown with a gray crown, a broad black mask, and a luminously white cheek spot, and long white-tipped tail.",
+    "imageCreditName": "Deanna MacPhail",
+    "checklistUrl": "https://ebird.orghttps://macaulaylibrary.org/photo/222170251?view=photos",
+    "timestamp": "2026-02-21T07:23:54.880070",
+    "isBirdOfTheDay": true
   }
 ]
