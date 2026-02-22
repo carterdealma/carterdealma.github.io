@@ -1691,5 +1691,18 @@
     "checklistUrl": "https://ebird.orghttps://macaulaylibrary.org/photo/222170251?view=photos",
     "timestamp": "2026-02-21T07:23:54.880070",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "cosowl3",
+    "name": "Comoro Scops-Owl",
+    "scientificName": "Otus pauliani",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/364428371/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/cosowl3?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Mount karthala on grand comoro island (comoros)",
+    "description": "Small compact owl with very small ear tufts that are often invisible. Rufous-brown on the underparts and dark brown on the back.",
+    "imageCreditName": "Pete Morris (Birdquest)",
+    "checklistUrl": "https://ebird.org/checklist/S65144703?view=photos",
+    "timestamp": "2026-02-22T07:28:46.809039",
+    "isBirdOfTheDay": true
   }
 ]
