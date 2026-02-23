@@ -1704,5 +1704,18 @@
     "checklistUrl": "https://ebird.org/checklist/S65144703?view=photos",
     "timestamp": "2026-02-22T07:28:46.809039",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "larela1",
+    "name": "Large Elaenia",
+    "scientificName": "Elaenia spectabilis",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/95493951/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/larela1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Far southeastern colombia to northern argentina and brazil",
+    "description": "Medium-sized migratory flycatcher found at forest edges, in second growth, and along streams. As with other elaenia species, it has an olive-brown back and yellowish belly.",
+    "imageCreditName": "Luiz Carlos Ramassotti",
+    "checklistUrl": "https://ebird.org/checklist/S42105674?view=photos",
+    "timestamp": "2026-02-23T07:46:03.290015",
+    "isBirdOfTheDay": true
   }
 ]
