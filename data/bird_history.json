@@ -1717,5 +1717,18 @@
     "checklistUrl": "https://ebird.org/checklist/S42105674?view=photos",
     "timestamp": "2026-02-23T07:46:03.290015",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "duther1",
+    "name": "Dusky-throated Hermit",
+    "scientificName": "Phaethornis squalidus",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/76873911/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/duther1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Southeastern brazil (southern minas gerais and esp\u00edrito santo to santa catarina)",
+    "description": "Small understory hummingbird found in montane forest and dense second growth. Note its strongly curved bill and prominent dark mask and a pale eyebrow.",
+    "imageCreditName": "Claudia Brasileiro",
+    "checklistUrl": "https://ebird.org/checklist/S39509270?view=photos",
+    "timestamp": "2026-02-24T07:42:24.538428",
+    "isBirdOfTheDay": true
   }
 ]
