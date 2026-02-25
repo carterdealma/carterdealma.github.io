@@ -1730,5 +1730,18 @@
     "checklistUrl": "https://ebird.org/checklist/S39509270?view=photos",
     "timestamp": "2026-02-24T07:42:24.538428",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "giwrai1",
+    "name": "Giant Wood-Rail",
+    "scientificName": "Aramides ypecaha",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/181040401/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/giwrai1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Marshes of southeastern brazil to paraguay, uruguay, and northeastern argentina",
+    "description": "Easy to recognize by its gigantic size. Note the rusty neck and belly that help to distinguish it from similar smaller wood-rails.",
+    "imageCreditName": "Doris Ratchford",
+    "checklistUrl": "https://ebird.org/checklist/S32864007?view=photos",
+    "timestamp": "2026-02-25T07:43:45.246357",
+    "isBirdOfTheDay": true
   }
 ]
