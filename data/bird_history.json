@@ -1743,5 +1743,18 @@
     "checklistUrl": "https://ebird.org/checklist/S32864007?view=photos",
     "timestamp": "2026-02-25T07:43:45.246357",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "cresht2",
+    "name": "Western Shrike-tit",
+    "scientificName": "Falcunculus leucogaster",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/484329661/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/cresht2?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Southwestern western australia",
+    "description": "Small bird with short, heavy bill. Green above, with a mainly yellow front except for a broad white belly strip.",
+    "imageCreditName": "Gerald Allen",
+    "checklistUrl": "https://ebird.org/checklist/S76431918?view=photos",
+    "timestamp": "2026-02-26T07:43:00.886887",
+    "isBirdOfTheDay": true
   }
 ]
