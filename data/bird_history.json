@@ -1756,5 +1756,18 @@
     "checklistUrl": "https://ebird.org/checklist/S76431918?view=photos",
     "timestamp": "2026-02-26T07:43:00.886887",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "pinspi1",
+    "name": "Pinto's Spinetail",
+    "scientificName": "Synallaxis infuscata",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/185991261/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/pinspi1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Northeastern brazil (northeastern maranh\u00e3o, eastern pernambuco, and adjacent alagoas)",
+    "description": "Spinetail with a largely dark body contrasting with a rich rusty crown, wings, and tail. Note the streaked whitish throat.",
+    "imageCreditName": "Nick Athanas",
+    "checklistUrl": "https://ebird.org/checklist/S57972995?view=photos",
+    "timestamp": "2026-02-27T07:37:54.086441",
+    "isBirdOfTheDay": true
   }
 ]
