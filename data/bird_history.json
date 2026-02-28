@@ -1769,5 +1769,18 @@
     "checklistUrl": "https://ebird.org/checklist/S57972995?view=photos",
     "timestamp": "2026-02-27T07:37:54.086441",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "whbcon1",
+    "name": "White-browed Conebill",
+    "scientificName": "Conirostrum ferrugineiventre",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/211466141/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/whbcon1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Andes of eastern peru (san mart\u00edn) and western bolivia",
+    "description": "Tiny bicolored tanager with a sharp, pointed bill. Orangey red below and bluish gray above, with a strong white eyebrow.",
+    "imageCreditName": "Alfredo Cornejo",
+    "checklistUrl": "https://ebird.org/checklist/S59879501?view=photos",
+    "timestamp": "2026-02-28T07:18:52.008464",
+    "isBirdOfTheDay": true
   }
 ]
