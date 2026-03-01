@@ -1782,5 +1782,18 @@
     "checklistUrl": "https://ebird.org/checklist/S59879501?view=photos",
     "timestamp": "2026-02-28T07:18:52.008464",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "machon2",
+    "name": "Macleay's Honeyeater",
+    "scientificName": "Xanthotis macleayanus",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/125404321/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/machon2?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Rainforest of northeastern queensland (cooktown to townsville)",
+    "description": "Distinctive medium-sized rainforest honeyeater. Underparts are olive with white streaking.",
+    "imageCreditName": "James (Jim) Holmes",
+    "checklistUrl": "https://ebird.org/checklist/S30811383?view=photos",
+    "timestamp": "2026-03-01T07:25:17.466111",
+    "isBirdOfTheDay": true
   }
 ]
