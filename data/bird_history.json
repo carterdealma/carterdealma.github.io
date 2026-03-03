@@ -1808,5 +1808,18 @@
     "checklistUrl": "https://ebird.org/checklist/S21211419?view=photos",
     "timestamp": "2026-03-02T07:41:16.523928",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "fowthr1",
+    "name": "Taiwan Whistling-Thrush",
+    "scientificName": "Myophonus insularis",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/85755391/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/fowthr1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Mountain streams of taiwan",
+    "description": "Large songbird, blackish-blue with metallic sheen, appearing black from a distance and in poor lighting. Up close, a brighter blue patch on the shoulder and dark red irides are diagnostic.",
+    "imageCreditName": "Chengheng Hu",
+    "checklistUrl": "https://ebird.org/checklist/S41986744?view=photos",
+    "timestamp": "2026-03-03T07:34:52.159193",
+    "isBirdOfTheDay": true
   }
 ]
