@@ -1821,5 +1821,18 @@
     "checklistUrl": "https://ebird.org/checklist/S41986744?view=photos",
     "timestamp": "2026-03-03T07:34:52.159193",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "perpig2",
+    "name": "Peruvian Pigeon",
+    "scientificName": "Patagioenas oenops",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/207247041/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/perpig2?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Northern peru (subtropical mara\u00f1\u00f3n valley) and adjacent southern ecuador",
+    "description": "Large, rusty pigeon confined to the Mara\u00f1on drainage of northwestern Peru. Its range may extend to extreme southern Ecuador, but evidence is lacking.",
+    "imageCreditName": "Michel Turcot",
+    "checklistUrl": "https://ebird.org/checklist/S59989638?view=photos",
+    "timestamp": "2026-03-04T07:30:46.582564",
+    "isBirdOfTheDay": true
   }
 ]
