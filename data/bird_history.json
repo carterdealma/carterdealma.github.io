@@ -1834,5 +1834,18 @@
     "checklistUrl": "https://ebird.org/checklist/S59989638?view=photos",
     "timestamp": "2026-03-04T07:30:46.582564",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "goufin3",
+    "name": "Gouldian Finch",
+    "scientificName": "Chloebia gouldiae",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/123622501/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/goufin3?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Northern australia (kimberley division to western cape york peninsula)",
+    "description": "A brilliantly colorful, unmistakable bird with vivid green back, yellow belly, purple chest, blue nape, black throat, and very pale bill; face may be red, yellow or black. Juvenile dull olive above, pale below, with paler bill than most other small finch-like birds.",
+    "imageCreditName": "Marc Gardner",
+    "checklistUrl": "https://ebird.org/checklist/S44921045?view=photos",
+    "timestamp": "2026-03-05T07:34:42.701352",
+    "isBirdOfTheDay": true
   }
 ]
