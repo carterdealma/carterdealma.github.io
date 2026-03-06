@@ -1847,5 +1847,18 @@
     "checklistUrl": "https://ebird.org/checklist/S44921045?view=photos",
     "timestamp": "2026-03-05T07:34:42.701352",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "wemcha1",
+    "name": "West Mexican Chachalaca",
+    "scientificName": "Ortalis poliocephala",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/615918662/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/wemcha1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Semiarid western mexico (central jalisco and michoac\u00e1n to chiapas)",
+    "description": "Noisy, long-tailed game bird of tropical forest and edge, usually found in small groups. Most often detected by its raucous song, which carries well.",
+    "imageCreditName": "Ad Konings",
+    "checklistUrl": "https://ebird.org/checklist/S126706393?view=photos",
+    "timestamp": "2026-03-06T07:31:37.961599",
+    "isBirdOfTheDay": true
   }
 ]
