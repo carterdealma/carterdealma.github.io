@@ -1860,5 +1860,18 @@
     "checklistUrl": "https://ebird.org/checklist/S126706393?view=photos",
     "timestamp": "2026-03-06T07:31:37.961599",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "vibsun2",
+    "name": "Violet-breasted Sunbird",
+    "scientificName": "Cinnyris chalcomelas",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/625833305/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/vibsun2?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Savanna of southern somalia and eastern kenya",
+    "description": "Male is iridescent-green above, with a dark belly and a purple band across the breast. Female is nondescript, with a pale eyebrow and blurry streaking across the pale yellowish underparts.",
+    "imageCreditName": "Jonathan Slifkin",
+    "checklistUrl": "https://ebird.org/checklist/S150978879?view=photos",
+    "timestamp": "2026-03-07T07:21:00.867171",
+    "isBirdOfTheDay": true
   }
 ]
