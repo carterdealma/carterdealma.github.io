@@ -1873,5 +1873,18 @@
     "checklistUrl": "https://ebird.org/checklist/S150978879?view=photos",
     "timestamp": "2026-03-07T07:21:00.867171",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "indcou1",
+    "name": "Indian Courser",
+    "scientificName": "Cursorius coromandelicus",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/143013481/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/indcou1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Patchily distributed pakistan to india and sri lanka",
+    "description": "Elegant and stately large plover-like bird. Note typically erect posture, strong black-and-white brow pattern, orange-suffused crown and chest, and slightly downcurved dark bill.",
+    "imageCreditName": "Aravind Amirtharaj",
+    "checklistUrl": "https://ebird.org/checklist/S42332851?view=photos",
+    "timestamp": "2026-03-08T07:23:39.714699",
+    "isBirdOfTheDay": true
   }
 ]
