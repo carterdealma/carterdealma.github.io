@@ -1886,5 +1886,18 @@
     "checklistUrl": "https://ebird.org/checklist/S42332851?view=photos",
     "timestamp": "2026-03-08T07:23:39.714699",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "ciqthr1",
+    "name": "Cinnamon Quail-thrush",
+    "scientificName": "Cinclosoma cinnamomeum",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/623001429/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/ciqthr1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Southeastern queensland to northwestern new south wales, central and northeastern south australia, and southeastern northern territory",
+    "description": "Heavily patterned terrestrial bird of central Australia. Both sexes have pale eyebrow, pale brown back, speckled undertail, and black-and-white markings on wing.",
+    "imageCreditName": "Andreas Heikaus",
+    "checklistUrl": "https://ebird.org/checklist/S184689843?view=photos",
+    "timestamp": "2026-03-09T07:42:52.268767",
+    "isBirdOfTheDay": true
   }
 ]
