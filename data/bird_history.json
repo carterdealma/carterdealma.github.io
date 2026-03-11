@@ -1912,5 +1912,18 @@
     "checklistUrl": "https://ebird.org/checklist/S26910602?view=photos",
     "timestamp": "2026-03-10T07:33:29.881680",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "vebtyr2",
+    "name": "Venezuelan Bristle-Tyrant",
+    "scientificName": "Pogonotriccus venezuelanus",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/241496771/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/vebtyr2?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Coastal cordillera of northern venezuela (carabobo to distrito federal)",
+    "description": "Small olive-yellow flycatcher with black ear patch, gray crown, pinkish lower mandible, and bold, contrasting yellowish wing bars. Sexes similar.",
+    "imageCreditName": "Andres Pacheco",
+    "checklistUrl": "https://ebird.org/checklist/S65884199?view=photos",
+    "timestamp": "2026-03-11T07:36:17.439070",
+    "isBirdOfTheDay": true
   }
 ]
