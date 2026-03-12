@@ -1925,5 +1925,18 @@
     "checklistUrl": "https://ebird.org/checklist/S65884199?view=photos",
     "timestamp": "2026-03-11T07:36:17.439070",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "yetfin1",
+    "name": "Yellow-thighed Brushfinch",
+    "scientificName": "Atlapetes tibialis",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/243549991/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/yetfin1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Humid montane forest of costa rica and western panama",
+    "description": "Unique sooty-gray bird with odd yellow tufts of feathers at the base of each leg. Darker black on head and wings.",
+    "imageCreditName": "Blair Dudeck",
+    "checklistUrl": "https://ebird.org/checklist/S50137370?view=photos",
+    "timestamp": "2026-03-12T07:38:44.881738",
+    "isBirdOfTheDay": true
   }
 ]
