@@ -1938,5 +1938,18 @@
     "checklistUrl": "https://ebird.org/checklist/S50137370?view=photos",
     "timestamp": "2026-03-12T07:38:44.881738",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "cretre1",
+    "name": "Crested Treeswift",
+    "scientificName": "Hemiprocne coronata",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/142857991/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/cretre1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "India to southwestern china, myanmar, and indochina",
+    "description": "A medium-sized swift-like bird with long tail-streamers. Adult has a dark greenish-blue crest visible while it perches, mostly on trees.",
+    "imageCreditName": "Doug Gochfeld",
+    "checklistUrl": "https://ebird.org/checklist/S43020753?view=photos",
+    "timestamp": "2026-03-13T07:37:33.169710",
+    "isBirdOfTheDay": true
   }
 ]
