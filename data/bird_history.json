@@ -1951,5 +1951,18 @@
     "checklistUrl": "https://ebird.org/checklist/S43020753?view=photos",
     "timestamp": "2026-03-13T07:37:33.169710",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "blcsis1",
+    "name": "Black-capped Siskin",
+    "scientificName": "Spinus atriceps",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/615745700/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/blcsis1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Coniferous forest of southern mexico (chiapas) and western guatemala",
+    "description": "Scarce and local small finch of highlands in Chiapas and Guatemala. Favors pine-oak forests, edges, and adjacent clearings, especially with alders.",
+    "imageCreditName": "Esteban Mat\u00edas (birding guide) Sierra de los Cuchumatanes Huehuetenango esteban.matias@hotmail.com +502 53810540",
+    "checklistUrl": "https://ebird.org/checklist/S96129200?view=photos",
+    "timestamp": "2026-03-14T07:27:55.296562",
+    "isBirdOfTheDay": true
   }
 ]
