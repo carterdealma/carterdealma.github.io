@@ -1964,5 +1964,18 @@
     "checklistUrl": "https://ebird.org/checklist/S96129200?view=photos",
     "timestamp": "2026-03-14T07:27:55.296562",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "subpar1",
+    "name": "Sulphur-breasted Parakeet",
+    "scientificName": "Aratinga maculata",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/181382561/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/subpar1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Brazil (north bank of lower amazon river in par\u00e1)",
+    "description": "A medium-sized, colorful parakeet of eastern Amazonia, local but often fairly common. Plumage is generally yellowish, with greenish upperparts, wings, and tail.",
+    "imageCreditName": "Alexander Lees",
+    "checklistUrl": "https://ebird.org/checklist/S53701668?view=photos",
+    "timestamp": "2026-03-15T07:37:35.214217",
+    "isBirdOfTheDay": true
   }
 ]
