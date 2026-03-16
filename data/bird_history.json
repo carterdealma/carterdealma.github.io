@@ -1977,5 +1977,18 @@
     "checklistUrl": "https://ebird.org/checklist/S53701668?view=photos",
     "timestamp": "2026-03-15T07:37:35.214217",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "scathr4",
+    "name": "Nilgiri Thrush",
+    "scientificName": "Zoothera neilgherriensis",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/618568526/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/scathr4?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Southern peninsular india (mysore, madras, and kerala)",
+    "description": "Chunky brown thrush with a long bill and \u201cscaled\u201d plumage; very similar to other members of the Scaly Thrush complex, but ranges do not overlap. Forages on the ground singly in dense shaded foothill forest, usually in wet areas such as near streams or gullies.",
+    "imageCreditName": "Udaya Kumar Balasubramanian",
+    "checklistUrl": "https://ebird.org/checklist/S134244282?view=photos",
+    "timestamp": "2026-03-16T08:01:02.015670",
+    "isBirdOfTheDay": true
   }
 ]
