@@ -1990,5 +1990,18 @@
     "checklistUrl": "https://ebird.org/checklist/S134244282?view=photos",
     "timestamp": "2026-03-16T08:01:02.015670",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "bocwea1",
+    "name": "Bocage's Weaver",
+    "scientificName": "Ploceus temporalis",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/614155965/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/bocwea1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Riparian grassland of angola to southeastern democratic republic of the congo and northwestern zambia",
+    "description": "A fairly large weaver with a long thin pointed bill. The male has a pale eye, and during the breeding season a brownish wash to the ear.",
+    "imageCreditName": "Paul Ashley",
+    "checklistUrl": "https://ebird.org/checklist/S117348347?view=photos",
+    "timestamp": "2026-03-17T07:46:46.263193",
+    "isBirdOfTheDay": true
   }
 ]
