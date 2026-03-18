@@ -2003,5 +2003,18 @@
     "checklistUrl": "https://ebird.org/checklist/S117348347?view=photos",
     "timestamp": "2026-03-17T07:46:46.263193",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "ceghor1",
+    "name": "Sri Lanka Gray Hornbill",
+    "scientificName": "Ocyceros gingalensis",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/252001781/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/ceghor1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Moist deciduous forest of sri lanka",
+    "description": "Small hornbill with gray upperside and whitish underparts. Bill has no casque, and is pale in males, dark in females.",
+    "imageCreditName": "Joao Quental JQuental",
+    "checklistUrl": "https://ebird.org/checklist/S52045517?view=photos",
+    "timestamp": "2026-03-18T07:44:23.975961",
+    "isBirdOfTheDay": true
   }
 ]
