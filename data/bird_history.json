@@ -2029,5 +2029,18 @@
     "checklistUrl": "https://ebird.org/checklist/S35710340?view=photos",
     "timestamp": "2026-03-19T07:39:15.166813",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "categr1",
+    "name": "Western Cattle-Egret",
+    "scientificName": "Ardea ibis",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/304971031/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/categr1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Southern europe eastward to iran, and africa, madagascar, and islands in western indian ocean (seychelles, aldabra, comoros, and mauritius); colonized the new world in the 20th century, now widespread in north and south america; introduced to the hawaiian islands; partially migratory in north america and southern africa",
+    "description": "Small, compact white heron with relatively short yellow bill. More frequently seen in dry habitats than other egrets.",
+    "imageCreditName": "Brandon Nidiffer",
+    "checklistUrl": "https://ebird.org/checklist/S78237502?view=photos",
+    "timestamp": "2026-03-20T07:38:20.896326",
+    "isBirdOfTheDay": true
   }
 ]
