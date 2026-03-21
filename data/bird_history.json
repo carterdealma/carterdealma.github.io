@@ -2042,5 +2042,18 @@
     "checklistUrl": "https://ebird.org/checklist/S78237502?view=photos",
     "timestamp": "2026-03-20T07:38:20.896326",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "helwoo1",
+    "name": "Helmeted Woodpecker",
+    "scientificName": "Celeus galeatus",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/88523561/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/helwoo1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Humid forest of southeastern brazil to eastern paraguay and northeastern argentina",
+    "description": "Fairly large woodpecker. A usually rare inhabitant of extensive humid forests.",
+    "imageCreditName": "Silvia F\ud83e\udeb6 Linhares",
+    "checklistUrl": "https://ebird.org/checklist/S33320016?view=photos",
+    "timestamp": "2026-03-21T07:25:37.216130",
+    "isBirdOfTheDay": true
   }
 ]
