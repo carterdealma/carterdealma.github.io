@@ -2055,5 +2055,18 @@
     "checklistUrl": "https://ebird.org/checklist/S33320016?view=photos",
     "timestamp": "2026-03-21T07:25:37.216130",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "plawre3",
+    "name": "Canebrake Wren",
+    "scientificName": "Cantorchilus zeledoni",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/245027281/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/plawre3?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Eastern nicaragua to eastern costa rica and northwestern panama (western bocas del toro)",
+    "description": "Small, skulking wren of foothills and lowlands along the Caribbean slope from Nicaragua south to western Panama. Found in forest edges, second-growth thickets, and brushy fields with cane grass.",
+    "imageCreditName": "Fernando Burgalin Sequeria",
+    "checklistUrl": "https://ebird.org/checklist/S60640660?view=photos",
+    "timestamp": "2026-03-22T07:31:30.979503",
+    "isBirdOfTheDay": true
   }
 ]
