@@ -2094,5 +2094,18 @@
     "checklistUrl": "https://ebird.org/checklist/S21525198?view=photos",
     "timestamp": "2026-03-24T07:45:54.846038",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "bubtan1",
+    "name": "Buff-bellied Tanager",
+    "scientificName": "Thlypopsis inornata",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/207271291/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/bubtan1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Andes of northwestern peru; recently recorded in adjacent southern ecuador",
+    "description": "A small, odd, orange-headed bird with a restricted range in the Mara\u00f1on drainage of northern Peru and far southern Ecuador. Small and warbler-like; combination of orange head, gray back, buffy underparts, and pale face is unique in its range.",
+    "imageCreditName": "John Bruin",
+    "checklistUrl": "https://ebird.org/checklist/S60476443?view=photos",
+    "timestamp": "2026-03-25T07:44:52.574489",
+    "isBirdOfTheDay": true
   }
 ]
