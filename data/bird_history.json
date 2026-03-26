@@ -2107,5 +2107,18 @@
     "checklistUrl": "https://ebird.org/checklist/S60476443?view=photos",
     "timestamp": "2026-03-25T07:44:52.574489",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "rebhor1",
+    "name": "Northern Red-billed Hornbill",
+    "scientificName": "Tockus erythrorhynchus",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/245589921/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/rebhor1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Sierra leone to somalia and southward to tanzania",
+    "description": "A fairly small, slim, long-tailed hornbill. Note the red bill, the pink or red bare facial skin, and the heavily spotted back.",
+    "imageCreditName": "Tadeusz Rosinski",
+    "checklistUrl": "https://ebird.org/checklist/S64954199?view=photos",
+    "timestamp": "2026-03-26T07:53:43.195637",
+    "isBirdOfTheDay": true
   }
 ]
