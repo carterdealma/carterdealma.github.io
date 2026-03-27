@@ -2120,5 +2120,18 @@
     "checklistUrl": "https://ebird.org/checklist/S64954199?view=photos",
     "timestamp": "2026-03-26T07:53:43.195637",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "oricus1",
+    "name": "Oriole Cuckooshrike",
+    "scientificName": "Lobotos oriolinus",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/375716811/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/oricus1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Southern cameroon to southwestern central african republic, eastern democratic republic of the congo, and gabon",
+    "description": "A spectacular cuckooshrike that resembles an oriole, with a yellow-green back, wings and tail, yellow underparts, a dark head and bill, and large fleshy orange wattles under the eyes. The sexes differ slightly: the head of the male is jet black and the female has a less contrasting brownish head.",
+    "imageCreditName": "Mathias D'haen",
+    "checklistUrl": "https://ebird.org/checklist/S75657178?view=photos",
+    "timestamp": "2026-03-27T07:52:26.118137",
+    "isBirdOfTheDay": true
   }
 ]
