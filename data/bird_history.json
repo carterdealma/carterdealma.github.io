@@ -2133,5 +2133,18 @@
     "checklistUrl": "https://ebird.org/checklist/S75657178?view=photos",
     "timestamp": "2026-03-27T07:52:26.118137",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "jaweye2",
+    "name": "Javan White-eye",
+    "scientificName": "Zosterops flavus",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/275405711/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/jaweye2?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Mangroves and bamboo belt of coastal northwestern java and southeastern borneo",
+    "description": "Little bright yellow bird found in southern Borneo and northern Java. Entirely yellow coloration (no dark lores or gray belly) distinguishes this species from other white-eyes within its range.",
+    "imageCreditName": "Lukman Nurdini",
+    "checklistUrl": "https://ebird.orghttps://macaulaylibrary.org/photo/204742091?view=photos",
+    "timestamp": "2026-03-28T07:37:08.874666",
+    "isBirdOfTheDay": true
   }
 ]
