@@ -2146,5 +2146,18 @@
     "checklistUrl": "https://ebird.orghttps://macaulaylibrary.org/photo/204742091?view=photos",
     "timestamp": "2026-03-28T07:37:08.874666",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "auspas1",
+    "name": "Australian Painted-Snipe",
+    "scientificName": "Rostratula australis",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/622332533/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/auspas1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Eastern and northern australia; vagrant to tasmania",
+    "description": "Cryptic wader with long, slightly decurved greenish-yellow bill. Bright white underparts, dark brown head and neck, and streaked olive upperparts, with distinctive curved white line extending from breast through the back.",
+    "imageCreditName": "Brett Mezen",
+    "checklistUrl": "https://ebird.org/checklist/S152959662?view=photos",
+    "timestamp": "2026-03-29T07:44:08.430714",
+    "isBirdOfTheDay": true
   }
 ]
