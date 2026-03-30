@@ -2159,5 +2159,18 @@
     "checklistUrl": "https://ebird.org/checklist/S152959662?view=photos",
     "timestamp": "2026-03-29T07:44:08.430714",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "prbbar1",
+    "name": "Prong-billed Barbet",
+    "scientificName": "Semnornis frantzii",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/41448111/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/prbbar1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Humid montane forest of costa rica and western panama",
+    "description": "Strange brownish-yellow bird with thick silver bill and chunky body. Face and neck warm ochre; flanks silvery-gray.",
+    "imageCreditName": "David Hollie",
+    "checklistUrl": "https://ebird.org/checklist/S19492335?view=photos",
+    "timestamp": "2026-03-30T08:15:07.202107",
+    "isBirdOfTheDay": true
   }
 ]
