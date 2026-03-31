@@ -2172,5 +2172,18 @@
     "checklistUrl": "https://ebird.org/checklist/S19492335?view=photos",
     "timestamp": "2026-03-30T08:15:07.202107",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "blftyr1",
+    "name": "Black-fronted Tyrannulet",
+    "scientificName": "Phylloscartes nigrifrons",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/608658196/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/blftyr1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Tepuis of southern venezuela (southern bol\u00edvar and amazonas)",
+    "description": "Small flycatcher of humid tepui forests. Best field marks are grizzled black-and-white face, dark lores, and gray crown.",
+    "imageCreditName": "Iv\u00e1n Lau",
+    "checklistUrl": "https://ebird.org/checklist/S138918775?view=photos",
+    "timestamp": "2026-03-31T08:00:18.475703",
+    "isBirdOfTheDay": true
   }
 ]
