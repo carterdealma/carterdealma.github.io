@@ -2185,5 +2185,18 @@
     "checklistUrl": "https://ebird.org/checklist/S138918775?view=photos",
     "timestamp": "2026-03-31T08:00:18.475703",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "buchor1",
+    "name": "Bushy-crested Hornbill",
+    "scientificName": "Anorrhinus galeritus",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/220451161/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/buchor1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Southern myanmar, malay peninsula, sumatra, borneo, and penang island",
+    "description": "Plain, medium-sized dark hornbill. Glossy black with a bicolored tail and pale patches of bare facial skin.",
+    "imageCreditName": "Ayuwat Jearwattanakanok",
+    "checklistUrl": "https://ebird.org/checklist/S58952883?view=photos",
+    "timestamp": "2026-04-01T08:08:02.550092",
+    "isBirdOfTheDay": true
   }
 ]
