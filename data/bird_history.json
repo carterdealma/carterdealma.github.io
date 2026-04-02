@@ -2198,5 +2198,18 @@
     "checklistUrl": "https://ebird.org/checklist/S58952883?view=photos",
     "timestamp": "2026-04-01T08:08:02.550092",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "whlori1",
+    "name": "White-lored Oriole",
+    "scientificName": "Oriolus albiloris",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/377653701/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/whlori1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Northern philippines (montane forest of luzon)",
+    "description": "A medium-sized bird of lowland forest and edge in the lowlands and lower mountains on Luzon. Overall yellow in color, slightly darker on the wings and tail, with a reddish bill and a white mark between the bill and the brown eye.",
+    "imageCreditName": "Bradley Hacker \ud83e\udd9c",
+    "checklistUrl": "https://ebird.org/checklist/S64630547?view=photos",
+    "timestamp": "2026-04-02T07:57:55.307675",
+    "isBirdOfTheDay": true
   }
 ]
