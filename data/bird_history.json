@@ -2211,5 +2211,18 @@
     "checklistUrl": "https://ebird.org/checklist/S64630547?view=photos",
     "timestamp": "2026-04-02T07:57:55.307675",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "cocant1",
+    "name": "Cocha Antshrike",
+    "scientificName": "Thamnophilus praecox",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/207255761/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/cocant1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Northeastern ecuador (locally along the r\u00edo napo and its tributaries in eastern napo and eastern sucumb\u00edos) and adjacent colombia (locally in putumayo and southwestern caqueta); disjunctly in northern peru (on the canal de puinahua, in south-central loreto)",
+    "description": "Rare antbird nearly endemic to the lowlands of eastern Ecuador. It was recently found in neighboring Colombia, and is likely to occur over the border in Peru as well.",
+    "imageCreditName": "Nick Athanas",
+    "checklistUrl": "https://ebird.org/checklist/S49546942?view=photos",
+    "timestamp": "2026-04-03T07:55:10.981456",
+    "isBirdOfTheDay": true
   }
 ]
