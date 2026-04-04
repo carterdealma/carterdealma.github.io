@@ -2224,5 +2224,18 @@
     "checklistUrl": "https://ebird.org/checklist/S49546942?view=photos",
     "timestamp": "2026-04-03T07:55:10.981456",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "socsun2",
+    "name": "Socotra Sunbird",
+    "scientificName": "Chalcomitra balfouri",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/261375731/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/socsun2?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Socotra island and abd el kuri (off northeastern somalia)",
+    "description": "Odd and distinctive sunbird in which both sexes have a female-like plumage. Shows brown upperparts, pale underparts with black scaling and streaking, a black throat, and white whiskers.",
+    "imageCreditName": "Marco Valentini",
+    "checklistUrl": "https://ebird.org/checklist/S64994927?view=photos",
+    "timestamp": "2026-04-04T07:41:04.678017",
+    "isBirdOfTheDay": true
   }
 ]
