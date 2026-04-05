@@ -2237,5 +2237,18 @@
     "checklistUrl": "https://ebird.org/checklist/S64994927?view=photos",
     "timestamp": "2026-04-04T07:41:04.678017",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "ausbit1",
+    "name": "Australasian Bittern",
+    "scientificName": "Botaurus poiciloptilus",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/116593321/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/ausbit1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Far southwestern western australia, southeastern queensland to southeastern south australia including tasmania (southwestern and southeastern australia), north, south, and stewart islands (new zealand), grande terre (new caledonia; rare) and ouvea (loyalty islands)",
+    "description": "Large, stocky, strongly patterned heron with broad neck and yellow-green legs. Upperparts dark brown, underparts streaked.",
+    "imageCreditName": "Ken Crawley",
+    "checklistUrl": "https://ebird.org/checklist/S46850675?view=photos",
+    "timestamp": "2026-04-05T07:47:52.732012",
+    "isBirdOfTheDay": true
   }
 ]
