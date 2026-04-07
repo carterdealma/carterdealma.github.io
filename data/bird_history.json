@@ -2263,5 +2263,18 @@
     "checklistUrl": "https://ebird.org/checklist/S64973427?view=photos",
     "timestamp": "2026-04-06T08:16:28.766261",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "jacsni",
+    "name": "Jack Snipe",
+    "scientificName": "Lymnocryptes minimus",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/46322631/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/jacsni?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Scandinavia to siberia; winters tropical africa and southeastern asia",
+    "description": "A small snipe, with stripy and cryptic plumage. Similar in appearance to Common Snipe, but note shorter bill, dark crown without pale stripe down middle, and wide golden stripes or ",
+    "imageCreditName": "Volker Hesse",
+    "checklistUrl": "https://ebird.org/checklist/S20646432?view=photos",
+    "timestamp": "2026-04-07T08:04:28.888778",
+    "isBirdOfTheDay": true
   }
 ]
