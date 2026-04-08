@@ -2276,5 +2276,18 @@
     "checklistUrl": "https://ebird.org/checklist/S20646432?view=photos",
     "timestamp": "2026-04-07T08:04:28.888778",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "rimrew1",
+    "name": "Rimatara Reed Warbler",
+    "scientificName": "Acrocephalus rimitarae",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/386749371/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/rimrew1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Rimatara (tubuai islands)",
+    "description": "A large warbler with a yellowish eyebrow and a dark eye-stripe. Crown and upperparts warm olive-brown.",
+    "imageCreditName": "Rick Schaefer",
+    "checklistUrl": "https://ebird.org/checklist/S77716467?view=photos",
+    "timestamp": "2026-04-08T08:05:09.027049",
+    "isBirdOfTheDay": true
   }
 ]
