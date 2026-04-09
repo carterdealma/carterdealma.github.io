@@ -2289,5 +2289,18 @@
     "checklistUrl": "https://ebird.org/checklist/S77716467?view=photos",
     "timestamp": "2026-04-08T08:05:09.027049",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "linsee1",
+    "name": "Lined Seedeater",
+    "scientificName": "Sporophila lineola",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/83295371/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/linsee1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Breeds in northeastern brazil, migrating to venezuela, the guianas, and northeastern amazonian brazil; also breeds from southern bolivia to southern brazil, southward to paraguay and northern argentina; migrating to amazonia; seasonal status (migrant or resident) in some regions not clear",
+    "description": "Very small finchlike bird with a short stubby bill. Males are mostly black with a white belly.",
+    "imageCreditName": "Luiz Carlos Ramassotti",
+    "checklistUrl": "https://ebird.org/checklist/S41008698?view=photos",
+    "timestamp": "2026-04-09T08:10:16.707245",
+    "isBirdOfTheDay": true
   }
 ]
