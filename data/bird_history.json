@@ -2302,5 +2302,18 @@
     "checklistUrl": "https://ebird.org/checklist/S41008698?view=photos",
     "timestamp": "2026-04-09T08:10:16.707245",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "soumar",
+    "name": "Southern Martin",
+    "scientificName": "Progne elegans",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/174248091/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/soumar?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Bolivia to uruguay and argentina; winters to north to colombia",
+    "description": "Large swallow with pointed wings and slightly forked tail. Males are deep iridescent purple; females are also entirely dark, but are brownish below, with faint scaling.",
+    "imageCreditName": "Miguel Ansenuza",
+    "checklistUrl": "https://ebird.org/checklist/S41577949?view=photos",
+    "timestamp": "2026-04-10T08:14:52.382066",
+    "isBirdOfTheDay": true
   }
 ]
