@@ -2315,5 +2315,18 @@
     "checklistUrl": "https://ebird.org/checklist/S41577949?view=photos",
     "timestamp": "2026-04-10T08:14:52.382066",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "chbthr2",
+    "name": "Chestnut-bellied Thrush",
+    "scientificName": "Turdus fulviventris",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/178811291/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/chbthr2?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Eastern andes of colombia to northwestern venezuela and far northern peru",
+    "description": "Handsome cloud forest thrush found mainly along the east slope of the Andes. Visitors from North America may be struck by its similarity to American Robin.",
+    "imageCreditName": "Mark Scheuerman",
+    "checklistUrl": "https://ebird.org/checklist/S50582326?view=photos",
+    "timestamp": "2026-04-11T07:41:53.827756",
+    "isBirdOfTheDay": true
   }
 ]
