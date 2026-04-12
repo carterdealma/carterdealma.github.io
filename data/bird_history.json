@@ -2328,5 +2328,18 @@
     "checklistUrl": "https://ebird.org/checklist/S50582326?view=photos",
     "timestamp": "2026-04-11T07:41:53.827756",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "afrmar2",
+    "name": "African River Martin",
+    "scientificName": "Pseudochelidon eurystomina",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/386932201/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/afrmar2?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Large rivers of democratic republic of the congo; winters to coastal gabon",
+    "description": "Enigmatic and distinctive, this compact all-dark martin has striking red eyes and a bright orange-red bill. Juvenile is duller.",
+    "imageCreditName": "Niall D Perrins",
+    "checklistUrl": "https://ebird.org/checklist/S67127348?view=photos",
+    "timestamp": "2026-04-12T07:56:39.535870",
+    "isBirdOfTheDay": true
   }
 ]
