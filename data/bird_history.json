@@ -2341,5 +2341,18 @@
     "checklistUrl": "https://ebird.org/checklist/S67127348?view=photos",
     "timestamp": "2026-04-12T07:56:39.535870",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "fujnil1",
+    "name": "Fujian Niltava",
+    "scientificName": "Niltava davidi",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/181341731/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/fujnil1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Central and southern china; winters to southeastern thailand and indochina",
+    "description": "A large flycatcher of tropical and subtropical forests. Male is bright blue above with a black face and orange breast and belly which becomes paler toward the vent.",
+    "imageCreditName": "Vincent Wang",
+    "checklistUrl": "https://ebird.org/checklist/S40143413?view=photos",
+    "timestamp": "2026-04-13T08:57:09.662662",
+    "isBirdOfTheDay": true
   }
 ]
