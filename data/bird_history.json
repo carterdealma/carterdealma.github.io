@@ -2354,5 +2354,18 @@
     "checklistUrl": "https://ebird.org/checklist/S40143413?view=photos",
     "timestamp": "2026-04-13T08:57:09.662662",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "feonig1",
+    "name": "Feline Owlet-nightjar",
+    "scientificName": "Aegotheles insignis",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/262094841/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/feonig1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Mountains of new guinea (bird's head peninsula to southeastern new guinea)",
+    "description": "A large owlet-nightjar of montane rainforest interior. Outlandish and unique appearance.",
+    "imageCreditName": "John C. Mittermeier",
+    "checklistUrl": "https://ebird.org/checklist/S16314875?view=photos",
+    "timestamp": "2026-04-14T08:19:32.712238",
+    "isBirdOfTheDay": true
   }
 ]
