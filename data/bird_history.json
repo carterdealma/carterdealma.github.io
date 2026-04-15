@@ -2367,5 +2367,18 @@
     "checklistUrl": "https://ebird.org/checklist/S16314875?view=photos",
     "timestamp": "2026-04-14T08:19:32.712238",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "gnttow",
+    "name": "Green-tailed Towhee",
+    "scientificName": "Pipilo chlorurus",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/299675281/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/gnttow?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Highlands of western usa; winters to central mexico",
+    "description": "Large, long-tailed sparrow with unique color pattern: gray body, fairly bright greenish wings and tail, rufous crown, and white throat. Favors disturbed areas in montane forest and open slopes for breeding.",
+    "imageCreditName": "Ian Davies",
+    "checklistUrl": "https://ebird.org/checklist/S69700323?view=photos",
+    "timestamp": "2026-04-15T08:20:46.987525",
+    "isBirdOfTheDay": true
   }
 ]
