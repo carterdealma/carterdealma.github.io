@@ -2393,5 +2393,18 @@
     "checklistUrl": "https://ebird.org/checklist/S120936155?view=photos",
     "timestamp": "2026-04-16T08:20:51.503418",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "norvir1",
+    "name": "Noronha Vireo",
+    "scientificName": "Vireo gracilirostris",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/187764461/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/norvir1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Ilha fernando de noronha (off coastal northeastern brazil)",
+    "description": "Endemic to the island of Fernando de Noronha, where it is one of only two native songbirds. Has an olive-gray back and buffy-white underparts, recalling the reed warblers of the Old World.",
+    "imageCreditName": "Carlos Ot\u00e1vio Gussoni",
+    "checklistUrl": "https://ebird.org/checklist/S49123768?view=photos",
+    "timestamp": "2026-04-17T08:19:53.128840",
+    "isBirdOfTheDay": true
   }
 ]
