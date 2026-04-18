@@ -2406,5 +2406,18 @@
     "checklistUrl": "https://ebird.org/checklist/S49123768?view=photos",
     "timestamp": "2026-04-17T08:19:53.128840",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "karapa2",
+    "name": "Karamoja Apalis",
+    "scientificName": "Apalis karamojae",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/622456249/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/karapa2?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Mountains of northern uganda",
+    "description": "A slender ash-gray apalis with a diagnostic striking white panel on the folded wing and two pairs of white outer tail feathers which are usually obvious on the dark tail. Upperparts are darker than underparts.",
+    "imageCreditName": "Fanis Theofanopoulos (ASalafa Deri) \ud83d\udc10",
+    "checklistUrl": "https://ebird.org/checklist/S151459009?view=photos",
+    "timestamp": "2026-04-18T07:52:29.219711",
+    "isBirdOfTheDay": true
   }
 ]
