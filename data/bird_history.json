@@ -2419,5 +2419,18 @@
     "checklistUrl": "https://ebird.org/checklist/S151459009?view=photos",
     "timestamp": "2026-04-18T07:52:29.219711",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "artspi1",
+    "name": "Araucaria Tit-Spinetail",
+    "scientificName": "Leptasthenura setaria",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/95492161/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/artspi1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Southeastern brazil (rio de janeiro to rio grande do sul) to northeastern argentina",
+    "description": "Very distinctive, small crested spinetail with a streaky head, a very long forked tail, a rusty-brown back, and buffy underparts. Restricted to Araucaria forests, where pairs are mostly found high in the canopy moving very actively.",
+    "imageCreditName": "Martjan Lammertink",
+    "checklistUrl": "https://ebird.org/checklist/S24911617?view=photos",
+    "timestamp": "2026-04-19T07:59:29.834786",
+    "isBirdOfTheDay": true
   }
 ]
