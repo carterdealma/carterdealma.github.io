@@ -2432,5 +2432,18 @@
     "checklistUrl": "https://ebird.org/checklist/S24911617?view=photos",
     "timestamp": "2026-04-19T07:59:29.834786",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "rubeup1",
+    "name": "Rufous-bellied Euphonia",
+    "scientificName": "Euphonia rufiventris",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/174370451/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/rubeup1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Southeastern colombia to southern venezuela, northern bolivia (to western and northern santa cruz), and western amazonian brazil",
+    "description": "Small finch-like bird of lowland rainforest. Male is glossy navy blue with a deep red-orange belly, fairly distinctive in its range; female is golden with gray wash on the head, back, and belly, and orange-red undertail coverts.",
+    "imageCreditName": "Ed Harper",
+    "checklistUrl": "https://ebird.org/checklist/S48408303?view=photos",
+    "timestamp": "2026-04-20T09:03:04.981905",
+    "isBirdOfTheDay": true
   }
 ]
