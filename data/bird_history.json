@@ -2445,5 +2445,18 @@
     "checklistUrl": "https://ebird.org/checklist/S48408303?view=photos",
     "timestamp": "2026-04-20T09:03:04.981905",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "chcyuh1",
+    "name": "Chestnut-crested Yuhina",
+    "scientificName": "Staphida everetti",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/610042253/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/chcyuh1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Montane forest of northern borneo",
+    "description": "This sprightly and social little bird is the only yuhina in Borneo, where it can be found in forested areas within the island\u2019s central highlands. Gray back, clean white underparts, and ginger-orange crest and face create a clean color palette.",
+    "imageCreditName": "Wai Loon Wong",
+    "checklistUrl": "https://ebird.org/checklist/S124734624?view=photos",
+    "timestamp": "2026-04-21T08:25:34.767827",
+    "isBirdOfTheDay": true
   }
 ]
