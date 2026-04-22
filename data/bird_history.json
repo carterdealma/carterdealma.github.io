@@ -2458,5 +2458,18 @@
     "checklistUrl": "https://ebird.org/checklist/S124734624?view=photos",
     "timestamp": "2026-04-21T08:25:34.767827",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "yermar1",
+    "name": "Yellow-rumped Marshbird",
+    "scientificName": "Pseudoleistes guirahuro",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/651752436/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/yermar1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Eastern paraguay to southern brazil, uruguay, and northern argentina",
+    "description": "Large blackbird with a long, thin bill found in marshes and wetlands. Mostly dark brown with a yellow belly, rump, and shoulders.",
+    "imageCreditName": "ADRIAN GRILLI",
+    "checklistUrl": "https://ebird.org/checklist/S93246712?view=photos",
+    "timestamp": "2026-04-22T08:23:26.516923",
+    "isBirdOfTheDay": true
   }
 ]
