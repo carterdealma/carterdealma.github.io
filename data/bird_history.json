@@ -2471,5 +2471,18 @@
     "checklistUrl": "https://ebird.org/checklist/S93246712?view=photos",
     "timestamp": "2026-04-22T08:23:26.516923",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "norwhe3",
+    "name": "Atlas Wheatear",
+    "scientificName": "Oenanthe seebohmi",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/486139591/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/norwhe3?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Morocco to northeastern algeria; winters to mauritania",
+    "description": "Small thrush-like bird with distinctive black-and-white tail pattern that is striking in flight. Breeding male has a black face, throat and wing, gray back and crown, and white underparts.",
+    "imageCreditName": "Gil Ewing",
+    "checklistUrl": "https://ebird.org/checklist/S45623814?view=photos",
+    "timestamp": "2026-04-23T08:27:29.552020",
+    "isBirdOfTheDay": true
   }
 ]
