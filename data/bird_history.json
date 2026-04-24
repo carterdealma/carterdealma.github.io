@@ -2484,5 +2484,18 @@
     "checklistUrl": "https://ebird.org/checklist/S45623814?view=photos",
     "timestamp": "2026-04-23T08:27:29.552020",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "satwea1",
+    "name": "Sao Tome Weaver",
+    "scientificName": "Ploceus sanctithomae",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/394247991/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/satwea1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Highlands of s\u00e3o tom\u00e9 (gulf of guinea)",
+    "description": "A medium-sized weaver with white wingbars, endemic to S\u00e3o Tom\u00e9. Sexes look quite different: the male has olive-brown upperparts and a burnt-orange face and upper breast, while the female is more washed-out dull brown above and buff-white below.",
+    "imageCreditName": "Lars Petersson | My World of Bird Photography",
+    "checklistUrl": "https://ebird.org/checklist/S65190329?view=photos",
+    "timestamp": "2026-04-24T08:54:30.849810",
+    "isBirdOfTheDay": true
   }
 ]
