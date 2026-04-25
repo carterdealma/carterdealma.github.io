@@ -2497,5 +2497,18 @@
     "checklistUrl": "https://ebird.org/checklist/S65190329?view=photos",
     "timestamp": "2026-04-24T08:54:30.849810",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "borwht1",
+    "name": "Bornean Whistling-Thrush",
+    "scientificName": "Myophonus borneensis",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/239020871/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/borwht1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Foothill and montane forest of borneo",
+    "description": "Dark thrush-like bird of rocky streams and gullies in mountains and foothills. Male shows faint blue gloss in good lighting, while female is entirely dark brown.",
+    "imageCreditName": "Alex Berryman",
+    "checklistUrl": "https://ebird.org/checklist/S46651261?view=photos",
+    "timestamp": "2026-04-25T07:58:39.145445",
+    "isBirdOfTheDay": true
   }
 ]
