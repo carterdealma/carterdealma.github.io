@@ -2510,5 +2510,18 @@
     "checklistUrl": "https://ebird.org/checklist/S46651261?view=photos",
     "timestamp": "2026-04-25T07:58:39.145445",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "brcwea1",
+    "name": "Brown-capped Weaver",
+    "scientificName": "Ploceus insignis",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/240575251/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/brcwea1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Southeastern nigeria, southwestern cameroon, and bioko; western angola; far southern south sudan, eastern democratic republic of the congo, western and eastern uganda, western kenya, western rwanda, western burundi, and western tanzania",
+    "description": "Unusual and attractive black-and-yellow weaver. Males show a brown cap and females a black one.",
+    "imageCreditName": "Nick Athanas",
+    "checklistUrl": "https://ebird.org/checklist/S64752305?view=photos",
+    "timestamp": "2026-04-26T08:10:22.007951",
+    "isBirdOfTheDay": true
   }
 ]
