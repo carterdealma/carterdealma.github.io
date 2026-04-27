@@ -2523,5 +2523,18 @@
     "checklistUrl": "https://ebird.org/checklist/S64752305?view=photos",
     "timestamp": "2026-04-26T08:10:22.007951",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "kalgra1",
+    "name": "Kalkadoon Grasswren",
+    "scientificName": "Amytornis ballarae",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/623071523/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/kalgra1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Spinifex stony hills of selwyn range (northwestern queensland)",
+    "description": "Small rusty-brown bird with finely streaked plumage and long cocked tail, found in rocky areas and gorges with spinifex clumps in the Mount Isa region of northwestern Queensland. Upperparts dark gray-brown, underparts rich gray, adult female with rich reddish-brown flanks, male with gray flanks.",
+    "imageCreditName": "Luke Seitz",
+    "checklistUrl": "https://ebird.org/checklist/S30291693?view=photos",
+    "timestamp": "2026-04-27T09:11:58.722831",
+    "isBirdOfTheDay": true
   }
 ]
