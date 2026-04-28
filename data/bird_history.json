@@ -2536,5 +2536,18 @@
     "checklistUrl": "https://ebird.org/checklist/S30291693?view=photos",
     "timestamp": "2026-04-27T09:11:58.722831",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "jampew1",
+    "name": "Jamaican Pewee",
+    "scientificName": "Contopus pallidus",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/105644101/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/jampew1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Jamaica",
+    "description": "A small, plain woodland species often found flycatching from exposed perches at middle levels in the forest; often flicks tail once upon landing. Note that this species has relatively inconspicuous wingbars and no eyering.",
+    "imageCreditName": "Graham Ekins",
+    "checklistUrl": "https://ebird.org/checklist/S43816076?view=photos",
+    "timestamp": "2026-04-28T09:13:13.626325",
+    "isBirdOfTheDay": true
   }
 ]
