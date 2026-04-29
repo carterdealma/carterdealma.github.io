@@ -2549,5 +2549,18 @@
     "checklistUrl": "https://ebird.org/checklist/S43816076?view=photos",
     "timestamp": "2026-04-28T09:13:13.626325",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "soocha1",
+    "name": "Sooty Chat",
+    "scientificName": "Myrmecocichla nigra",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/240384411/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/soocha1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Patchily distributed from southeastern nigeria to southern angola and southern zambia, eastward to southern south sudan, southwestern kenya, and eastern tanzania",
+    "description": "Chunky, dark robin-like bird. Males are black with a white shoulder patch, while females are solidly dark gray.",
+    "imageCreditName": "Julien Lamouroux",
+    "checklistUrl": "https://ebird.org/checklist/S61099470?view=photos",
+    "timestamp": "2026-04-29T09:04:04.121259",
+    "isBirdOfTheDay": true
   }
 ]
