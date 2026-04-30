@@ -2562,5 +2562,18 @@
     "checklistUrl": "https://ebird.org/checklist/S61099470?view=photos",
     "timestamp": "2026-04-29T09:04:04.121259",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "saugul2",
+    "name": "Saunders's Gull",
+    "scientificName": "Saundersilarus saundersi",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/203704301/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/saugul2?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Coastal eastern china; winters south korea and southern japan to northern vietnam",
+    "description": "Elegant, dark-hooded gull, restricted to coastal East Asia. Small but stout-bodied and long-winged, with a dark bill in all plumages.",
+    "imageCreditName": "Stuart Price",
+    "checklistUrl": "https://ebird.org/checklist/S45816213?view=photos",
+    "timestamp": "2026-04-30T09:06:16.963016",
+    "isBirdOfTheDay": true
   }
 ]
