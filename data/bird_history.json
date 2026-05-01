@@ -2575,5 +2575,18 @@
     "checklistUrl": "https://ebird.org/checklist/S45816213?view=photos",
     "timestamp": "2026-04-30T09:06:16.963016",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "srldro1",
+    "name": "Sri Lanka Drongo",
+    "scientificName": "Dicrurus lophorinus",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/252002641/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/srldro1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Western sri lanka",
+    "description": "Large, upright, blackish bird with a long, deeply-forked tail and tuft of feathers on the forehead. Typically found in pairs, often in mixed flocks, within the understory of humid forests in the lowlands and foothills of Sri Lanka\u2019s Wet Zone.",
+    "imageCreditName": "Iroshan Rupasinghe",
+    "checklistUrl": "https://ebird.org/checklist/S67363471?view=photos",
+    "timestamp": "2026-05-01T08:52:47.693150",
+    "isBirdOfTheDay": true
   }
 ]
