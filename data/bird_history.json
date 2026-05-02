@@ -2588,5 +2588,18 @@
     "checklistUrl": "https://ebird.org/checklist/S67363471?view=photos",
     "timestamp": "2026-05-01T08:52:47.693150",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "wtbfly1",
+    "name": "White-tailed Blue Flycatcher",
+    "scientificName": "Elminia albicauda",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/240357761/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/wtbfly1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Angola to southwestern uganda, tanzania, and northern mozambique",
+    "description": "Slim, slightly crested flycatcher with a long tail that is often fanned. The back is blue, the underparts pale gray, and the outer tail white.",
+    "imageCreditName": "Ian Davies",
+    "checklistUrl": "https://ebird.org/checklist/S47521190?view=photos",
+    "timestamp": "2026-05-02T08:16:28.833592",
+    "isBirdOfTheDay": true
   }
 ]
