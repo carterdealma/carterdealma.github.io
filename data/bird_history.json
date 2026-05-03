@@ -2601,5 +2601,18 @@
     "checklistUrl": "https://ebird.org/checklist/S47521190?view=photos",
     "timestamp": "2026-05-02T08:16:28.833592",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "rossta2",
+    "name": "Rosy Starling",
+    "scientificName": "Pastor roseus",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/133936271/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/rossta2?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "South-central europe; winters primarily india and southeastern arabian peninsula",
+    "description": "Adult is unique, a vision in glossy black and pale pink. Juvenile is brown with an orange bill.",
+    "imageCreditName": "Craig Brelsford",
+    "checklistUrl": "https://ebird.org/checklist/S33558998?view=photos",
+    "timestamp": "2026-05-03T08:29:00.816647",
+    "isBirdOfTheDay": true
   }
 ]
