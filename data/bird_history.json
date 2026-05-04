@@ -2614,5 +2614,18 @@
     "checklistUrl": "https://ebird.org/checklist/S33558998?view=photos",
     "timestamp": "2026-05-03T08:29:00.816647",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "smbtyr1",
+    "name": "Santa Marta Bush-Tyrant",
+    "scientificName": "Myiotheretes pernix",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/241658901/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/smbtyr1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Santa marta mountains (northeastern colombia)",
+    "description": "Scarce flycatcher found only at higher elevations in Colombia\u2019s Santa Marta Mountains. Quite similar to the more widespread Streak-throated Bush-Tyrant, but can be distinguished by the indistinct and less extensive streaking on the throat and lack of cinnamon at the base of the underside of the tail; whistled calls are shorter, clearer, and descend more in pitch.",
+    "imageCreditName": "Du\u0161an Brinkhuizen",
+    "checklistUrl": "https://ebird.org/checklist/S64750579?view=photos",
+    "timestamp": "2026-05-04T09:10:23.013189",
+    "isBirdOfTheDay": true
   }
 ]
