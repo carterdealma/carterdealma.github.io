@@ -2627,5 +2627,18 @@
     "checklistUrl": "https://ebird.org/checklist/S64750579?view=photos",
     "timestamp": "2026-05-04T09:10:23.013189",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "lbwbab1",
+    "name": "Long-billed Wren-Babbler",
+    "scientificName": "Napothera malacoptila",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/170657751/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/lbwbab1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Eastern himalayas (sikkim to eastern assam and northeastern myanmar)",
+    "description": "Streaky, short-tailed brown bird with a long, slightly decurved bill; the only wren-babbler in its range to have a long bill. Long pale streaks all over the body give it a slick-feathered appearance.",
+    "imageCreditName": "Christoph Moning",
+    "checklistUrl": "https://ebird.org/checklist/S13999914?view=photos",
+    "timestamp": "2026-05-05T09:02:56.760555",
+    "isBirdOfTheDay": true
   }
 ]
