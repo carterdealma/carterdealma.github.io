@@ -2640,5 +2640,18 @@
     "checklistUrl": "https://ebird.org/checklist/S13999914?view=photos",
     "timestamp": "2026-05-05T09:02:56.760555",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "solboo2",
+    "name": "Guadalcanal Owl",
+    "scientificName": "Athene granti",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/479938851/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/solboo2?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Guadalcanal (southeastern solomon islands)",
+    "description": "A rather small owl with lightly spotted brown upperparts and creamy underparts thickly barred with reddish brown. Inhabits forests from lowlands up into the highlands.",
+    "imageCreditName": "Lars Petersson | My World of Bird Photography",
+    "checklistUrl": "https://ebird.org/checklist/S65189255?view=photos",
+    "timestamp": "2026-05-06T09:14:03.245450",
+    "isBirdOfTheDay": true
   }
 ]
