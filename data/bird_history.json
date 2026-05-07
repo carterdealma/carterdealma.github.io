@@ -2653,5 +2653,18 @@
     "checklistUrl": "https://ebird.org/checklist/S65189255?view=photos",
     "timestamp": "2026-05-06T09:14:03.245450",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "wespar1",
+    "name": "Western Parotia",
+    "scientificName": "Parotia sefilata",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/274926241/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/wespar1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Western new guinea (arfak, tamrau, and wondiwoi mountains)",
+    "description": "A large bird of mid-montane forest canopy. Male is mainly black with a white patch on the forehead, bronzy-scaled chest and 6 antennalike feathers projecting from the back of the head.",
+    "imageCreditName": "Anonymous",
+    "checklistUrl": "https://ebird.org/checklist/S61548175?view=photos",
+    "timestamp": "2026-05-07T09:24:18.087192",
+    "isBirdOfTheDay": true
   }
 ]
