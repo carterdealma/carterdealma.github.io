@@ -2666,5 +2666,18 @@
     "checklistUrl": "https://ebird.org/checklist/S61548175?view=photos",
     "timestamp": "2026-05-07T09:24:18.087192",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "marsan",
+    "name": "Marsh Sandpiper",
+    "scientificName": "Tringa stagnatilis",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/253688191/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/marsan?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Palearctic; winters to southern africa, southern asia, and australasia",
+    "description": "Slender pale sandpiper with a fine, needle-like bill. Note the overall slim and elegant shape, with very long and slender greenish legs: suggests a much smaller Greenshank that\u2019s been to ballet school.",
+    "imageCreditName": "Abhiram Sankar",
+    "checklistUrl": "https://ebird.org/checklist/S44245486?view=photos",
+    "timestamp": "2026-05-08T08:16:40.482740",
+    "isBirdOfTheDay": true
   }
 ]
