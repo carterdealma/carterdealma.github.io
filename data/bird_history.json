@@ -2679,5 +2679,18 @@
     "checklistUrl": "https://ebird.org/checklist/S44245486?view=photos",
     "timestamp": "2026-05-08T08:16:40.482740",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "carcar1",
+    "name": "Carunculated Caracara",
+    "scientificName": "Daptrius carunculatus",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/159803091/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/carcar1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "P\u00e1ramo of southwestern colombia and ecuador",
+    "description": "Strikingly patterned raptor of the high Andes in Ecuador and southern Colombia. Note pied plumage pattern, white streaks on black breast, and orange face.",
+    "imageCreditName": "Michael Smith",
+    "checklistUrl": "https://ebird.org/checklist/S30509910?view=photos",
+    "timestamp": "2026-05-09T08:22:57.463801",
+    "isBirdOfTheDay": true
   }
 ]
