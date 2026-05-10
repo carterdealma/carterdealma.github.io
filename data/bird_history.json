@@ -2692,5 +2692,18 @@
     "checklistUrl": "https://ebird.org/checklist/S30509910?view=photos",
     "timestamp": "2026-05-09T08:22:57.463801",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "norfli1",
+    "name": "Guatemalan Flicker",
+    "scientificName": "Colaptes mexicanoides",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/622237894/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/norfli1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Highlands of southeastern mexico east of the isthmus of tehuantepec from western chiapas eastward to northwestern nicaragua",
+    "description": "Large, brownish woodpecker with black barring on the back and black spots on the belly. Easily recognized in flight by its bright white rump.",
+    "imageCreditName": "Esteban Mat\u00edas (birding guide) Sierra de los Cuchumatanes Huehuetenango esteban.matias@hotmail.com +502 53810540",
+    "checklistUrl": "https://ebird.org/checklist/S66218422?view=photos",
+    "timestamp": "2026-05-10T08:47:29.100230",
+    "isBirdOfTheDay": true
   }
 ]
