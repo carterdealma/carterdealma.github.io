@@ -2705,5 +2705,18 @@
     "checklistUrl": "https://ebird.org/checklist/S66218422?view=photos",
     "timestamp": "2026-05-10T08:47:29.100230",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "beslar1",
+    "name": "Black-eared Sparrow-Lark",
+    "scientificName": "Eremopterix australis",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/202406501/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/beslar1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Grassy plains of southern namibia to southern botswana and northern south africa",
+    "description": "A small, compact finch-like sociable lark that is nomadic, and often irrupts in large numbers after good rains. The sexes differ in plumage: the distinctive male is mostly black, including under the wings, with chestnut-sprinkled upperparts; the female is reddish-brown above and streaked underneath.",
+    "imageCreditName": "Bruce Ward-Smith",
+    "checklistUrl": "https://ebird.org/checklist/S35753065?view=photos",
+    "timestamp": "2026-05-11T10:26:33.447990",
+    "isBirdOfTheDay": true
   }
 ]
