@@ -2718,5 +2718,18 @@
     "checklistUrl": "https://ebird.org/checklist/S35753065?view=photos",
     "timestamp": "2026-05-11T10:26:33.447990",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "plwduc1",
+    "name": "Plumed Whistling-Duck",
+    "scientificName": "Dendrocygna eytoni",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/116455151/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/plwduc1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Lowlands of northern and eastern australia",
+    "description": "Large, pale duck with protruding cream-colored plumes on flanks. Stands tall and proud in large flocks around the edges of lakes, ponds, dams, or in nearby agricultural land.",
+    "imageCreditName": "Len and Chris Ezzy",
+    "checklistUrl": "https://ebird.org/checklist/S33593963?view=photos",
+    "timestamp": "2026-05-12T09:28:16.030192",
+    "isBirdOfTheDay": true
   }
 ]
