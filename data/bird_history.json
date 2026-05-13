@@ -2731,5 +2731,18 @@
     "checklistUrl": "https://ebird.org/checklist/S33593963?view=photos",
     "timestamp": "2026-05-12T09:28:16.030192",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "pedtit1",
+    "name": "Pere David's Tit",
+    "scientificName": "Poecile davidi",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/177983701/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/pedtit1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Mountains of western china (hubei to shaanxi, gansu, and sichuan)",
+    "description": "Like a Marsh Tit with a bright orange belly, this lively social bird is restricted to the mid-altitude mixed forests of central China. Usually moves about at middle levels in pairs or small flocks.",
+    "imageCreditName": "Ian Davies",
+    "checklistUrl": "https://ebird.org/checklist/S29915045?view=photos",
+    "timestamp": "2026-05-13T09:33:31.043614",
+    "isBirdOfTheDay": true
   }
 ]
