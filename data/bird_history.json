@@ -2744,5 +2744,18 @@
     "checklistUrl": "https://ebird.org/checklist/S29915045?view=photos",
     "timestamp": "2026-05-13T09:33:31.043614",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "rornig1",
+    "name": "Roraiman Nightjar",
+    "scientificName": "Tepuiornis whitelyi",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/239541701/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/rornig1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Tepuis of southeastern venezuela, adjacent northern brazil, and guyana",
+    "description": "A medium-sized, dark nightjar of tepui highlands, difficult to identify by plumage alone. Cryptically patterned with dark brown and gray accented with buffy and whitish bars and spots.",
+    "imageCreditName": "Jhonathan Miranda - Wandering Venezuela Birding Expeditions",
+    "checklistUrl": "https://ebird.org/checklist/S55884647?view=photos",
+    "timestamp": "2026-05-14T09:25:09.031468",
+    "isBirdOfTheDay": true
   }
 ]
