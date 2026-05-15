@@ -2757,5 +2757,18 @@
     "checklistUrl": "https://ebird.org/checklist/S55884647?view=photos",
     "timestamp": "2026-05-14T09:25:09.031468",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "chesee1",
+    "name": "Chestnut Seedeater",
+    "scientificName": "Sporophila cinnamomea",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/187784081/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/chesee1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Paraguay to south-central brazil, uruguay, and northeastern argentina",
+    "description": "Handsome seedeater. Males are mostly chestnut with a gray cap, wings, and tail, while females are sandy-colored and difficult to separate from other female seedeaters.",
+    "imageCreditName": "Luiz Carlos Ramassotti",
+    "checklistUrl": "https://ebird.org/checklist/S32344138?view=photos",
+    "timestamp": "2026-05-15T09:36:56.110831",
+    "isBirdOfTheDay": true
   }
 ]
