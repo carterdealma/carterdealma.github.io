@@ -2770,5 +2770,18 @@
     "checklistUrl": "https://ebird.org/checklist/S32344138?view=photos",
     "timestamp": "2026-05-15T09:36:56.110831",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "ltpwhy1",
+    "name": "Exclamatory Paradise-Whydah",
+    "scientificName": "Vidua interjecta",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/248113191/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/ltpwhy1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Senegal and gambia east through southern mali, northern ivory coast, and northern nigeria to the central african republic, northeastern democratic republic of the congo, south sudan, and ethiopia",
+    "description": "A nest parasite that lays its eggs in the nests of pytilias. As with other whydahs, breeding males are spectacular and bizarre, whereas non-breeding males and females are drab and inconspicuous.",
+    "imageCreditName": "Geert Bouke Kortleve",
+    "checklistUrl": "https://ebird.org/checklist/S59828899?view=photos",
+    "timestamp": "2026-05-16T08:29:52.979633",
+    "isBirdOfTheDay": true
   }
 ]
