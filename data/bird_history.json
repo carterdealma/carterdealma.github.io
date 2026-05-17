@@ -2783,5 +2783,18 @@
     "checklistUrl": "https://ebird.org/checklist/S59828899?view=photos",
     "timestamp": "2026-05-16T08:29:52.979633",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "chvtyr2",
+    "name": "Chocolate-vented Tyrant",
+    "scientificName": "Neoxolmis rufiventris",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/113803331/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/chvtyr2?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Far southern argentina and chile; winters northward to far southeastern brazil",
+    "description": "Wonderfully (if poorly) named large terrestrial flycatcher of open windswept habitats in Patagonia, especially bunch grass and open shrub-steppe with grassy patches; migrates north in winter. Usually seen as singles or pairs, perched on roadside fences or flying low over the ground, when flashy and distinctive wing pattern is striking: broad white trailing edge contrasts with bright rusty panel in center of wing.",
+    "imageCreditName": "Fabio Olmos",
+    "checklistUrl": "https://ebird.org/checklist/S44396091?view=photos",
+    "timestamp": "2026-05-17T08:56:46.101792",
+    "isBirdOfTheDay": true
   }
 ]
