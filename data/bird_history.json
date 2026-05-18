@@ -2796,5 +2796,18 @@
     "checklistUrl": "https://ebird.org/checklist/S44396091?view=photos",
     "timestamp": "2026-05-17T08:56:46.101792",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "crbfla1",
+    "name": "Crimson-backed Flameback",
+    "scientificName": "Chrysocolaptes stricklandi",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/252002101/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/crbfla1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Sri lanka",
+    "description": "Large, spectacular woodpecker with crimson upperparts, black-scaled pale underparts, and a crested head. Males have a red crest, females a black crest with fine white markings.",
+    "imageCreditName": "Tommy Pedersen",
+    "checklistUrl": "https://ebird.org/checklist/S15692963?view=photos",
+    "timestamp": "2026-05-18T10:55:16.585453",
+    "isBirdOfTheDay": true
   }
 ]
