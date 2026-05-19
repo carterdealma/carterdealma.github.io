@@ -2809,5 +2809,18 @@
     "checklistUrl": "https://ebird.org/checklist/S15692963?view=photos",
     "timestamp": "2026-05-18T10:55:16.585453",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "soofal1",
+    "name": "Sooty Falcon",
+    "scientificName": "Falco concolor",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/140166101/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/soofal1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Rocky areas of northeastern africa; winters to southern africa and madagascar",
+    "description": "Slim, long-winged, long-tailed falcon that is built for long-distance migration. Adults are all gray, while juveniles have pale, spotted underparts.",
+    "imageCreditName": "Christoph Moning",
+    "checklistUrl": "https://ebird.org/checklist/S11875073?view=photos",
+    "timestamp": "2026-05-19T10:30:22.298950",
+    "isBirdOfTheDay": true
   }
 ]
