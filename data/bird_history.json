@@ -2822,5 +2822,18 @@
     "checklistUrl": "https://ebird.org/checklist/S11875073?view=photos",
     "timestamp": "2026-05-19T10:30:22.298950",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "urityr1",
+    "name": "Urich's Tyrannulet",
+    "scientificName": "Phyllomyias urichi",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/546120131/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/urityr1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Far northeastern venezuela (sucre, monagas, and anzo\u00e1tegui)",
+    "description": "Poorly known, this small, yellow-green flycatcher is short-billed and long-tailed, with a pinkish lower mandible, whitish lores, and yellowish wingbars. Olive green above and yellow below.",
+    "imageCreditName": "Jhonathan Miranda - Wandering Venezuela Birding Expeditions",
+    "checklistUrl": "https://ebird.org/checklist/S128334099?view=photos",
+    "timestamp": "2026-05-20T10:16:28.444897",
+    "isBirdOfTheDay": true
   }
 ]
