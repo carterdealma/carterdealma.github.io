@@ -2835,5 +2835,18 @@
     "checklistUrl": "https://ebird.org/checklist/S128334099?view=photos",
     "timestamp": "2026-05-20T10:16:28.444897",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "chblau1",
+    "name": "Chestnut-backed Laughingthrush",
+    "scientificName": "Pterorhinus nuchalis",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/203850541/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/chblau1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Lowlands of northeastern india (arunachal pradesh) to northern myanmar",
+    "description": "A myna-sized bird with a large white cheek patch and a black forehead, chin, and throat. Note the gray belly, the reddish back, and a small white patch on the forehead.",
+    "imageCreditName": "Garima Bhatia",
+    "checklistUrl": "https://ebird.org/checklist/S50330555?view=photos",
+    "timestamp": "2026-05-21T10:28:57.123279",
+    "isBirdOfTheDay": true
   }
 ]
