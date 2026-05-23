@@ -2861,5 +2861,18 @@
     "checklistUrl": "https://ebird.org/checklist/S144788230?view=photos",
     "timestamp": "2026-05-22T10:13:45.545178",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "marwar4",
+    "name": "Martens's Warbler",
+    "scientificName": "Phylloscopus omeiensis",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/180122181/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/marwar4?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Mountains of western china (sichuan) and myanmar",
+    "description": "A bright and attractive small warbler with many virtually identical relatives. Breeds in foothill and montane forests, where it favors areas with a dense understory.",
+    "imageCreditName": "Natthaphat Chotjuckdikul",
+    "checklistUrl": "https://ebird.org/checklist/S35487171?view=photos",
+    "timestamp": "2026-05-23T08:56:04.094832",
+    "isBirdOfTheDay": true
   }
 ]
