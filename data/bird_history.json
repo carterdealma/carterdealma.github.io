@@ -2874,5 +2874,18 @@
     "checklistUrl": "https://ebird.org/checklist/S35487171?view=photos",
     "timestamp": "2026-05-23T08:56:04.094832",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "heswoo1",
+    "name": "Heart-spotted Woodpecker",
+    "scientificName": "Hemicircus canente",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/146497481/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/heswoo1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Humid forest of peninsular india, myanmar, thailand, and indochina",
+    "description": "Small and unique black-and-cream woodpecker with an oversized crested head and short tail. Male has a dark forehead, whereas female has a white one.",
+    "imageCreditName": "Binu Piraroor",
+    "checklistUrl": "https://ebird.org/checklist/S40885045?view=photos",
+    "timestamp": "2026-05-24T09:12:28.251624",
+    "isBirdOfTheDay": true
   }
 ]
