@@ -2887,5 +2887,18 @@
     "checklistUrl": "https://ebird.org/checklist/S40885045?view=photos",
     "timestamp": "2026-05-24T09:12:28.251624",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "fospar1",
+    "name": "Forty-spotted Pardalote",
+    "scientificName": "Pardalotus quadragintus",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/125521951/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/fospar1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Drier sclerophyll forest of eastern tasmania and flinders island",
+    "description": "Tiny greenish bird restricted to a small range in Tasmania. Primarily greenish-gray.",
+    "imageCreditName": "Scott Baker",
+    "checklistUrl": "https://ebird.org/checklist/S36381414?view=photos",
+    "timestamp": "2026-05-25T11:02:57.278170",
+    "isBirdOfTheDay": true
   }
 ]
