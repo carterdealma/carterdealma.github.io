@@ -23,9 +23,146 @@
     </aside>
 
     <main class="page-content">
-        <section class="about-hero" aria-labelledby="my_name">
-            <p class="about-intro">Hi, my name is</p>
-            <h1 id="my_name" class="about-title">Carter Ma.</h1>
+        <section class="panel about-panel" aria-labelledby="my_name">
+            <header class="about-hero">
+                <div class="about-hero-copy">
+                    <p class="about-intro">Hello my name is</p>
+                    <h1 id="my_name" class="about-title">Carter Ma</h1>
+                    <p class="about-summary">I’m a CS student at the University of Utah interested in networking, environmental sensing, and large-scale computing. I enjoy birdwatching, hiking, and video games.</p>
+                </div>
+
+                <figure class="about-portrait">
+                    <img src="images/profile-picture.JPG" class="about-portrait-image" alt="Portrait of Carter Ma">
+                </figure>
+            </header>
+
+            <div class="about-grid">
+                <section class="about-section about-section-education" aria-labelledby="education_heading">
+                    <h2 id="education_heading" class="about-section-title">Education</h2>
+                    <div class="education-card">
+                        <div class="about-stack">
+                            <div class="education-school">
+                                <p class="about-emphasis">University of Utah</p>
+                                <img src="icons/BlockU_favicon32.png" class="education-inline-icon" alt="">
+                            </div>
+                            <div class="education-details">
+                                <p class="education-degree">B.S. in Computer Science</p>
+                                <p class="about-muted">Expected December 2026</p>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <section class="about-section about-section-work" aria-labelledby="current_work_heading">
+                    <h2 id="current_work_heading" class="about-section-title">Current work</h2>
+                    <div class="about-stack">
+                        <p>At the University of Utah’s Center for High Performance Computing (CHPC), I build monitoring dashboards and network visualizations to help track system and network performance.</p>
+                        <p>I am also contributing to the WildWEST project, helping develop systems for environmental data collection and connectivity in remote areas across the western United States.</p>
+                    </div>
+                </section>
+
+                <section class="about-section about-section-tools" aria-labelledby="current_tools_heading">
+                    <h2 id="current_tools_heading" class="about-section-title">Current tools</h2>
+                    <ul class="tool-list" aria-label="Tools I currently use">
+                        <li class="tool-chip">
+                            <span class="tool-icon-wrap"><img class="tool-icon" src="https://cdn.simpleicons.org/grafana/F46800" alt="Grafana icon" loading="lazy"></span>
+                            <span>Grafana</span>
+                        </li>
+                        <li class="tool-chip">
+                            <span class="tool-icon-wrap"><img class="tool-icon" src="https://cdn.simpleicons.org/prometheus/E6522C" alt="Prometheus icon" loading="lazy"></span>
+                            <span>Prometheus</span>
+                        </li>
+                        <li class="tool-chip">
+                            <span class="tool-icon-wrap"><img class="tool-icon" src="https://cdn.simpleicons.org/victoriametrics/621773" alt="VictoriaMetrics icon" loading="lazy"></span>
+                            <span>VictoriaMetrics</span>
+                        </li>
+                        <li class="tool-chip">
+                            <span class="tool-icon-wrap"><img class="tool-icon" src="https://cdn.simpleicons.org/mqtt/660066" alt="MQTT icon" loading="lazy"></span>
+                            <span>MQTT</span>
+                        </li>
+                        <li class="tool-chip">
+                            <span class="tool-icon-wrap"><img class="tool-icon" src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker icon" loading="lazy"></span>
+                            <span>Docker</span>
+                        </li>
+                        <li class="tool-chip">
+                            <span class="tool-icon-wrap"><img class="tool-icon" src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL icon" loading="lazy"></span>
+                            <span>PostgreSQL</span>
+                        </li>
+                    </ul>
+                </section>
+
+                <section class="about-section about-section-experience" aria-labelledby="experience_heading">
+                    <h2 id="experience_heading" class="about-section-title">Work experience</h2>
+                    <ul class="experience-list">
+                        <li class="experience-item">
+                            <div class="experience-copy">
+                                <div class="experience-heading">
+                                    <p class="experience-role">Technical Assistant</p>
+                                    <p class="experience-company">Center for High Performance Computing at the University of Utah</p>
+                                </div>
+                                <ul class="experience-highlights">
+                                    <li>Building interactive Grafana dashboards to visualize network performance using Prometheus and VictoriaMetrics.</li>
+                                    <li>Designing and developing a bird audio monitoring station for environmental data collection and analysis.</li>
+                                    <li>Developing JavaScript-based network topology visualizations using Apache ECharts for CHPC infrastructure.</li>
+                                </ul>
+                            </div>
+                            <p class="experience-date">October 2025 - Current</p>
+                        </li>
+                        <li class="experience-item">
+                            <div class="experience-copy">
+                                <div class="experience-heading">
+                                    <p class="experience-role">Digital Sign Technician</p>
+                                    <p class="experience-company">Auxiliary Business Development at the University of Utah</p>
+                                </div>
+                                <ul class="experience-highlights">
+                                    <li>Installed and maintained digital signage devices across campus, supporting a fleet of 200+ screens.</li>
+                                    <li>Implemented remote-desktop functionality to Windows &amp; Android digital sign devices.</li>
+                                    <li>Managed device inventory and data using Excel and Airtable.</li>
+                                </ul>
+                            </div>
+                            <p class="experience-date">Aug 2023 - Feb 2025</p>
+                        </li>
+                        <li class="experience-item">
+                            <div class="experience-copy">
+                                <div class="experience-heading">
+                                    <p class="experience-role">Network Intern</p>
+                                    <p class="experience-company">Canyons School District</p>
+                                </div>
+                                <ul class="experience-highlights">
+                                    <li>Installed and configured Cisco network hardware and Wi-Fi access points across district facilities.</li>
+                                    <li>Imaged, deployed, and maintained PCs and peripherals for students and faculty.</li>
+                                    <li>Responded to helpdesk tickets and troubleshot hardware, software, and network connectivity issues.</li>
+                                </ul>
+                            </div>
+                            <p class="experience-date">Oct 2021 - Aug 2022</p>
+                        </li>
+                    </ul>
+                </section>
+
+                <section class="about-section about-section-contact" aria-labelledby="contact_heading">
+                    <div class="contact-bar">
+                        <div class="contact-bar-copy">
+                            <h2 id="contact_heading" class="about-section-title">Contact</h2>
+                            <p class="contact-bar-text">Reach out or find me online.</p>
+                        </div>
+
+                        <nav class="contact-nav" aria-label="Contact links">
+                            <a class="contact-link" href="mailto:carter.ma@utah.edu" aria-label="Email Carter Ma">
+                                <img src="icons/contact-email.svg" class="contact-icon" alt="" aria-hidden="true">
+                                <span class="contact-link-label">Email</span>
+                            </a>
+                            <a class="contact-link" href="https://www.linkedin.com/in/carter-ma-bb8934241/" target="_blank" rel="noreferrer" aria-label="Open Carter Ma LinkedIn profile">
+                                <img src="icons/contact-linkedin.svg" class="contact-icon" alt="" aria-hidden="true">
+                                <span class="contact-link-label">LinkedIn</span>
+                            </a>
+                            <a class="contact-link" href="https://github.com/carterdealma" target="_blank" rel="noreferrer" aria-label="Open Carter Ma GitHub profile">
+                                <img src="icons/contact-github.svg" class="contact-icon" alt="" aria-hidden="true">
+                                <span class="contact-link-label">GitHub</span>
+                            </a>
+                        </nav>
+                    </div>
+                </section>
+            </div>
         </section>
     </main>
 
