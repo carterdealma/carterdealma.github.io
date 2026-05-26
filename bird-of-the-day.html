@@ -13,52 +13,53 @@
     <link rel="dns-prefetch" href="https://ebird.org">
     <link rel="dns-prefetch" href="https://embed.ebird.org">
 </head>
-<body>
-    <div class="sidebar" id="sidebar">
-        <a href="index.html" id="about-link" class="sidebar-link">
-            <img src="icons/about-me-icon.png" class="icon" alt="About Me icon">
-            <span class="label">About Me</span>
-        </a>
-        <a href="bird-of-the-day.html" class="sidebar-link active">
-            <img src="icons/bird-icon.png" class="icon" alt="Bird icon">
-            <span class="label">Bird of the Day</span>
-        </a>
-        <!-- <a href="pegasus-project.html" class="sidebar-link">
-            <img src="icons/pegasus-icon.png" class="icon" alt="Pegasus icon">
-            <span class="label">Mapping the Pegasus Project</span>
-        </a> -->
-    </div>
+<body class="bird-page">
+    <aside class="sidebar" id="sidebar">
+        <nav class="sidebar-nav" aria-label="Primary">
+            <a href="index.html" class="sidebar-link">
+                <img src="icons/about-me-icon.png" class="icon" alt="About Me icon">
+                <span class="label">About Me</span>
+            </a>
+            <a href="bird-of-the-day.html" class="sidebar-link" aria-current="page">
+                <img src="icons/bird-icon.png" class="icon" alt="Bird icon">
+                <span class="label">Bird of the Day</span>
+            </a>
+        </nav>
+    </aside>
 
-    <main class="content">
-        <div class="container">
-            <h1>
-                <span id="bird_title" class="subtitle" aria-live="polite"></span>
-                <span id="bird_name"></span>
-            </h1>
-            <h2 id="bird_scientific_name"></h2>
-            
+    <main class="page-content">
+        <section class="panel bird-panel" aria-labelledby="bird_name">
+            <header class="bird-header">
+                <h1 class="bird-heading">
+                    <span id="bird_title" class="bird-title-prefix" aria-live="polite"></span>
+                    <span id="bird_name" class="bird-title-name"></span>
+                </h1>
+                <p id="bird_scientific_name" class="bird-scientific-name"></p>
+            </header>
+
             <div class="bird-info">
-                <div class="bird-photo-section">
-                    <img id="bird_photo" class="bird-photo" alt="Photo of bird">
-                    <a id="image_credit"></a>
+                <section class="bird-detail" aria-label="Bird photo and description">
+                    <figure class="bird-figure">
+                        <img id="bird_photo" class="bird-photo" alt="Photo of bird">
+                        <p id="image_credit" class="image-credit"></p>
+                    </figure>
                     <p id="bird_description"></p>
-                </div>
-                <div class="bird-map-section">
-                    <iframe id="bird_map" class="bird-map" loading="lazy"></iframe>
+                </section>
+
+                <section class="bird-detail" aria-label="Bird range map and range description">
+                    <iframe id="bird_map" class="bird-map" loading="lazy" title="Bird range map"></iframe>
                     <p id="range_description"></p>
-                </div>
+                </section>
             </div>
 
             <div class="button-container">
-                <div class="button-left">
-                    <button id="back_button">&larr; Bird of the Day</button>
-                </div>
+                <button id="back_button" type="button">&larr; Bird of the Day</button>
                 <div class="button-with-loader">
-                    <button id="new_bird_button">Spot a new bird!</button>
-                    <span id="loader" class="loader"></span>
+                    <button id="new_bird_button" type="button">Spot a new bird!</button>
+                    <span id="loader" class="loader" aria-hidden="true"></span>
                 </div>
             </div>
-        </div>
+        </section>
     </main>
 
     <!-- JavaScript -->

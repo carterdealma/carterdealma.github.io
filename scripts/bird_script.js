@@ -28,7 +28,6 @@ function updateBirdDisplay(birdData) {
     link.target = "_blank";
     link.rel = "noopener noreferrer";
     creditElement.appendChild(link);
-    creditElement.style.display = 'inline';
 
     // Bird type title + back button toggle
     if (birdData.isBirdOfTheDay) {

@@ -8,59 +8,26 @@
     <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;600;700;800&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
 </head>
-<body>
-    <div class="sidebar" id="sidebar">
-        <a href="index.html" id="about-link" class="sidebar-link">
-            <img src="icons/about-me-icon.png" class="icon" alt="About Me icon">
-            <span class="label">About Me</span>
-        </a>
-        <a href="bird-of-the-day.html" class="sidebar-link active">
-            <img src="icons/bird-icon.png" class="icon" alt="Bird icon">
-            <span class="label">Bird of the Day</span>
-        </a>
-        <!-- <a href="pegasus-project.html" class="sidebar-link">
-            <img src="icons/pegasus-icon.png" class="icon" alt="Pegasus icon">
-            <span class="label">Mapping the Pegasus Project</span>
-        </a> -->
-    </div>
+<body class="about-page">
+    <aside class="sidebar" id="sidebar">
+        <nav class="sidebar-nav" aria-label="Primary">
+            <a href="index.html" class="sidebar-link" aria-current="page">
+                <img src="icons/about-me-icon.png" class="icon" alt="About Me icon">
+                <span class="label">About Me</span>
+            </a>
+            <a href="bird-of-the-day.html" class="sidebar-link">
+                <img src="icons/bird-icon.png" class="icon" alt="Bird icon">
+                <span class="label">Bird of the Day</span>
+            </a>
+        </nav>
+    </aside>
 
-    <main class="content" id="about-me-content">
-        <div class="about-me">
-            <div class="name-column">
-                <h1 id="hi_text">Hi, my name is</h1>
-                <h1 id="my_name">Carter Ma.</h1>
-            </div>
-            <div class="picture-column">
-                <pre style="color: var(--anti-flash-white);">
-                    ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-                    ⠀⠀⠀⠀⠀⠀⠀⠀⣠⣴⡶⣿⣿⣿⣿⣿⣿⣿⣿⣶⣦⣀⠀⠀⠀⠀⠀⠀
-                    ⠀⠀⠀⠀⠀⠀⡠⠊⠀⠀⠀⠀⠀⠀⠉⠻⣿⣿⣿⣿⣿⣿⣷⣄⠀⠀⠀⠀
-                    ⠀⠀⠀⠀⠀⡜⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢻⣿⣿⣿⣿⣿⣿⣧⠀⠀⠀
-                    ⠀⠀⠀⡠⢺⣦⣄⠀⠀⠀⠀⢀⠤⠒⣦⣄⠀⠀⢿⣿⣿⣿⣿⣿⣿⣇⠀⠀
-                    ⠀⠀⢸⣤⣼⣿⣿⣆⣀⠀⠀⣇⣀⣴⣿⣿⡆⠀⢸⣿⣿⣿⣿⣿⣿⣿⠀⠀
-                    ⠀⣤⡐⠛⠉⠉⠁⠀⠀⠸⠀⠙⠿⣿⡿⠟⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⡇⠀
-                    ⠀⠀⠀⠉⠉⠉⠉⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣷⠀
-                    ⠀⠀⠀⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⠀
-                    ⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⡇
-                    ⠀⠀⣼⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⡇
-                    ⠀⣸⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⣿⣿⣿⣿⣿⣿⣿⣿⣧
-                    ⢠⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-                    ⣸⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-                    ⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-                    ⢿⣿⠟⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-                    ⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-                    ⠀⠀⠀⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿
-                    ⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇
-                    ⠀⠀⠀⠈⢇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⡟⠀
-                    ⠀⠀⠀⠀⠈⠲⠤⢄⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⢻⣿⣿⣿⠿⠟⠋⠀⠀
-                    ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠉⠉⠉⠉⠉⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-                </pre>
-            </div>
-        </div>
+    <main class="page-content">
+        <section class="about-hero" aria-labelledby="my_name">
+            <p class="about-intro">Hi, my name is</p>
+            <h1 id="my_name" class="about-title">Carter Ma.</h1>
+        </section>
     </main>
-
-    <footer>
-    </footer>
 
     <!-- JavaScript -->
     <script src="scripts/sidebar.js" defer></script>
