@@ -2900,5 +2900,18 @@
     "checklistUrl": "https://ebird.org/checklist/S36381414?view=photos",
     "timestamp": "2026-05-25T11:02:57.278170",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "banmyn1",
+    "name": "Bank Myna",
+    "scientificName": "Acridotheres ginginianus",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/156750621/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/banmyn1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Foothills of eastern pakistan to northern nepal and north-central india",
+    "description": "Dapper inhabitant of cities, towns, and farmland. Combination of gray body, dark head and wings, and bright orange face and bill are unique.",
+    "imageCreditName": "Ting-Wei (\u5ef7\u7dad) HUNG (\u6d2a)",
+    "checklistUrl": "https://ebird.org/checklist/S27441908?view=photos",
+    "timestamp": "2026-05-26T10:39:09.143777",
+    "isBirdOfTheDay": true
   }
 ]
