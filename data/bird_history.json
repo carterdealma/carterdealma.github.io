@@ -2913,5 +2913,18 @@
     "checklistUrl": "https://ebird.org/checklist/S27441908?view=photos",
     "timestamp": "2026-05-26T10:39:09.143777",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "blasol1",
+    "name": "Black Solitaire",
+    "scientificName": "Entomodestes coracinus",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/618059393/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/blasol1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "West slope of western andes of colombia (choc\u00f3) and northwestern ecuador",
+    "description": "This striking thrush is unmistakable if seen well: mostly jet black with a white cheek, white tuft under the shoulder, and white outer tail feathers (easily visible from below). Also note red eye and orange lower mandible.",
+    "imageCreditName": "Andres Vasquez Noboa",
+    "checklistUrl": "https://ebird.org/checklist/S170637698?view=photos",
+    "timestamp": "2026-05-27T10:44:32.369347",
+    "isBirdOfTheDay": true
   }
 ]
