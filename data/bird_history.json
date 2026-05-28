@@ -2926,5 +2926,18 @@
     "checklistUrl": "https://ebird.org/checklist/S170637698?view=photos",
     "timestamp": "2026-05-27T10:44:32.369347",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "fernwr1",
+    "name": "Fernwren",
+    "scientificName": "Oreoscopus gutturalis",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/174277381/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/fernwr1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Montane wet tropical zone of northeastern queensland",
+    "description": "Small scrubwren-like bird found in wet rainforests at higher elevations in the Atherton Tablelands of far northern Queensland. Adult entirely brown except for white throat, black bib, and faint pale supercilium.",
+    "imageCreditName": "Luke Seitz",
+    "checklistUrl": "https://ebird.org/checklist/S30974547?view=photos",
+    "timestamp": "2026-05-28T10:42:33.306095",
+    "isBirdOfTheDay": true
   }
 ]
