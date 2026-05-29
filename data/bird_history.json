@@ -2939,5 +2939,18 @@
     "checklistUrl": "https://ebird.org/checklist/S30974547?view=photos",
     "timestamp": "2026-05-28T10:42:33.306095",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "varsol1",
+    "name": "Varied Solitaire",
+    "scientificName": "Myadestes coloratus",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/57730851/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/varsol1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Highlands of far eastern panama (dari\u00e9n) and adjacent northwestern colombia",
+    "description": "Medium-sized thrush with extremely limited range at the border of Panama and Colombia. Unlikely to be mistaken\u2014gray head and underparts with black face and brown back are unique.",
+    "imageCreditName": "Andrew Spencer",
+    "checklistUrl": "https://ebird.org/checklist/S27831221?view=photos",
+    "timestamp": "2026-05-29T10:36:43.904315",
+    "isBirdOfTheDay": true
   }
 ]
