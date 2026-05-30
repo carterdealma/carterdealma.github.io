@@ -2952,5 +2952,18 @@
     "checklistUrl": "https://ebird.org/checklist/S27831221?view=photos",
     "timestamp": "2026-05-29T10:36:43.904315",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "istwre1",
+    "name": "Isthmian Wren",
+    "scientificName": "Cantorchilus elutus",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/613415229/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/istwre1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Southwestern costa rica and pacific slope of panama (eastward to panama province); also caribbean slope of central panama",
+    "description": "Small, skulking wren of foothills and lowlands in southwestern Costa Rica south into Panama. Found in forest edges, second-growth thickets, and brushy fields with cane grass.",
+    "imageCreditName": "Leo Damrow",
+    "checklistUrl": "https://ebird.org/checklist/S122220142?view=photos",
+    "timestamp": "2026-05-30T09:07:38.911173",
+    "isBirdOfTheDay": true
   }
 ]
