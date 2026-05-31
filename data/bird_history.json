@@ -2965,5 +2965,18 @@
     "checklistUrl": "https://ebird.org/checklist/S122220142?view=photos",
     "timestamp": "2026-05-30T09:07:38.911173",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "madbut1",
+    "name": "Madagascar Buttonquail",
+    "scientificName": "Turnix nigricollis",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/211866751/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/madbut1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Madagascar; introduced (?) mauritius, r\u00e9union, and glorieuses",
+    "description": "Tiny, complexly patterned quail-like bird. Female has rufous sides, gray underparts, and black facial markings.",
+    "imageCreditName": "Michelle Schreder",
+    "checklistUrl": "https://ebird.org/checklist/S46750753?view=photos",
+    "timestamp": "2026-05-31T09:40:58.770106",
+    "isBirdOfTheDay": true
   }
 ]
