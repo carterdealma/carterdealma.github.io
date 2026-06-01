@@ -2978,5 +2978,18 @@
     "checklistUrl": "https://ebird.org/checklist/S46750753?view=photos",
     "timestamp": "2026-05-31T09:40:58.770106",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "whbmin3",
+    "name": "White-bellied Minivet",
+    "scientificName": "Pericrocotus erythropygius",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/231540231/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/whbmin3?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Peninsular india (punjab and rajasthan to bihar and mysore)",
+    "description": "A beautiful minivet inhabiting open, dry scrub and savanna with scattered acacia (Prosopis) growth. The male has a glossy black upper body, face, and neck.",
+    "imageCreditName": "Abhijeet Rasal",
+    "checklistUrl": "https://ebird.org/checklist/S38956762?view=photos",
+    "timestamp": "2026-06-01T12:27:13.877237",
+    "isBirdOfTheDay": true
   }
 ]
