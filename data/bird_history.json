@@ -2991,5 +2991,18 @@
     "checklistUrl": "https://ebird.org/checklist/S38956762?view=photos",
     "timestamp": "2026-06-01T12:27:13.877237",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "blcwoo3",
+    "name": "Blood-colored Woodpecker",
+    "scientificName": "Dryobates sanguineus",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/177454951/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/blcwoo3?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Humid coastal lowlands of the guianas",
+    "description": "Small woodpecker of coastal forests, including mangroves, overgrown plantations, and urban areas. Unmistakable in its limited range.",
+    "imageCreditName": "Michael Collins",
+    "checklistUrl": "https://ebird.org/checklist/S59442630?view=photos",
+    "timestamp": "2026-06-02T11:10:04.128782",
+    "isBirdOfTheDay": true
   }
 ]
