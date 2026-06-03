@@ -3004,5 +3004,18 @@
     "checklistUrl": "https://ebird.org/checklist/S59442630?view=photos",
     "timestamp": "2026-06-02T11:10:04.128782",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "dwajay1",
+    "name": "Dwarf Jay",
+    "scientificName": "Cyanolyca nanus",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/242620021/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/dwajay1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Oak-pine forest of southwestern mexico (veracruz, puebla, and oaxaca)",
+    "description": "Small, overall blue jay. Very local and endemic to humid pine-evergreen forest of mountains in southeastern Mexico.",
+    "imageCreditName": "Phil Chaon \u2022 Your Ad Here",
+    "checklistUrl": "https://ebird.org/checklist/S61522707?view=photos",
+    "timestamp": "2026-06-03T11:48:41.294992",
+    "isBirdOfTheDay": true
   }
 ]
