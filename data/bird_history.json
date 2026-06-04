@@ -3017,5 +3017,18 @@
     "checklistUrl": "https://ebird.org/checklist/S61522707?view=photos",
     "timestamp": "2026-06-03T11:48:41.294992",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "toghao1",
+    "name": "Togian Boobook",
+    "scientificName": "Ninox burhani",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/271409531/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/toghao1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Togian islands (off sulawesi)",
+    "description": "A medium-sized brown owl with piercing yellow eyes, confined to the Togian Islands. Cryptically patterned, with a mottled breast, an unmarked pale lower belly, indistinct white eyebrows, and widely scattered white markings on wings.",
+    "imageCreditName": "James Eaton / Birdtour Asia",
+    "checklistUrl": "https://ebird.org/checklist/S65142116?view=photos",
+    "timestamp": "2026-06-04T10:31:42.638786",
+    "isBirdOfTheDay": true
   }
 ]
