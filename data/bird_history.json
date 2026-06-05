@@ -3030,5 +3030,18 @@
     "checklistUrl": "https://ebird.org/checklist/S65142116?view=photos",
     "timestamp": "2026-06-04T10:31:42.638786",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "puwrol1",
+    "name": "Purple-winged Roller",
+    "scientificName": "Coracias temminckii",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/272495701/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/puwrol1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Sulawesi region, including lembeh, bangka, and manterawu (off northeast), and muna and buton islands (off southeast)",
+    "description": "A distinctive big-billed bird that is entirely deep purple in color except for a conspicuous sky-blue cap and rump. Juvenile has a duller cap and browner underparts.",
+    "imageCreditName": "Pete Morris (Birdquest)",
+    "checklistUrl": "https://ebird.org/checklist/S65144866?view=photos",
+    "timestamp": "2026-06-05T10:39:08.924018",
+    "isBirdOfTheDay": true
   }
 ]
