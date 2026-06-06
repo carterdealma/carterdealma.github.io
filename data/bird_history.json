@@ -3043,5 +3043,18 @@
     "checklistUrl": "https://ebird.org/checklist/S65144866?view=photos",
     "timestamp": "2026-06-05T10:39:08.924018",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "brbtan1",
+    "name": "Brassy-breasted Tanager",
+    "scientificName": "Tangara desmaresti",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/617571896/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/brbtan1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Coastal mountains of southeastern brazil (esp\u00edrito santo to eastern paran\u00e1)",
+    "description": "Small, restless and colorful tanager of montane forests that often joins mixed-species flocks. Mostly greenish yellow, but note the blue forehead and eyering.",
+    "imageCreditName": "Ian Davies",
+    "checklistUrl": "https://ebird.org/checklist/S50970014?view=photos",
+    "timestamp": "2026-06-06T09:16:49.746380",
+    "isBirdOfTheDay": true
   }
 ]
