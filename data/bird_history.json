@@ -3069,5 +3069,18 @@
     "checklistUrl": "https://ebird.org/checklist/S17258338?view=photos",
     "timestamp": "2026-06-07T09:54:22.818402",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "bluebo4",
+    "name": "Naretha Bluebonnet",
+    "scientificName": "Northiella narethae",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/173145691/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/bluebo4?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Southeastern western australia to southwestern south australia",
+    "description": "Brown parrot with yellow belly, red undertail, and blue face, found in dry woodland habitats of the extreme southeastern part of Western Australia, on the western fringe of the Nullarbor Plain. In flight, the blue wings and red shoulders contrast with pale brown back; lacks the bright green back of other desert parrots.",
+    "imageCreditName": "Ian Davies",
+    "checklistUrl": "https://ebird.org/checklist/S48536605?view=photos",
+    "timestamp": "2026-06-08T11:47:39.936385",
+    "isBirdOfTheDay": true
   }
 ]
