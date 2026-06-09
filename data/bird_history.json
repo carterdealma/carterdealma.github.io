@@ -3082,5 +3082,18 @@
     "checklistUrl": "https://ebird.org/checklist/S48536605?view=photos",
     "timestamp": "2026-06-08T11:47:39.936385",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "paltit2",
+    "name": "Palawan Tit",
+    "scientificName": "Periparus amabilis",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/385863831/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/paltit2?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Southwestern philippines (balabac, calauit, and palawan)",
+    "description": "A small bird of wooded areas on Palawan and neighboring islands, with a full black hood, yellow underparts, a black wing with two white wing-bars and edges, and a black tail with a white tip and outer tail feathers. Back is bright yellow in males and olive in females.",
+    "imageCreditName": "Djop Tabaranza",
+    "checklistUrl": "https://ebird.org/checklist/S65133268?view=photos",
+    "timestamp": "2026-06-09T10:26:04.000614",
+    "isBirdOfTheDay": true
   }
 ]
