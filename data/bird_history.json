@@ -3095,5 +3095,18 @@
     "checklistUrl": "https://ebird.org/checklist/S65133268?view=photos",
     "timestamp": "2026-06-09T10:26:04.000614",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "salwar1",
+    "name": "Sakhalin Leaf Warbler",
+    "scientificName": "Phylloscopus borealoides",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/158482481/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/salwar1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Sakhalin, kuril islands, and hokkaido (northern japan)",
+    "description": "Small songbird, virtually identical in plumage to Pale-legged Leaf Warbler, of which it was formerly considered a subspecies. Vertical tail pumping distinguishes this species from most others in its range except Pale-legged.",
+    "imageCreditName": "Craig Brelsford",
+    "checklistUrl": "https://ebird.org/checklist/S39237942?view=photos",
+    "timestamp": "2026-06-10T10:46:49.927254",
+    "isBirdOfTheDay": true
   }
 ]
