@@ -3108,5 +3108,18 @@
     "checklistUrl": "https://ebird.org/checklist/S39237942?view=photos",
     "timestamp": "2026-06-10T10:46:49.927254",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "yechor1",
+    "name": "Yellow-casqued Hornbill",
+    "scientificName": "Ceratogymna elata",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/365224601/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/yechor1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Patchily distributed forest of senegambia to cameroon",
+    "description": "Huge, spectacular, mostly black hornbill. Males have a large cream-and-white bill, and females a much smaller horn-colored one.",
+    "imageCreditName": "Charles Davies",
+    "checklistUrl": "https://ebird.org/checklist/S34898117?view=photos",
+    "timestamp": "2026-06-11T11:16:11.784055",
+    "isBirdOfTheDay": true
   }
 ]
