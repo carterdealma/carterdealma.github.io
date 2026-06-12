@@ -3121,5 +3121,18 @@
     "checklistUrl": "https://ebird.org/checklist/S34898117?view=photos",
     "timestamp": "2026-06-11T11:16:11.784055",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "jamowl1",
+    "name": "Jamaican Owl",
+    "scientificName": "Asio grammicus",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/614194382/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/jamowl1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Woodland of jamaica",
+    "description": "A somewhat large nocturnal inhabitant of wooded areas including gardens and parks; roosts in tree cavities or dense foliage during the day. The Barn Owl is of similar size, but it is much paler and lacks the Jamaican Owl\u2019s prominent ear tufts.",
+    "imageCreditName": "Gary Rosenberg",
+    "checklistUrl": "https://ebird.org/checklist/S124864964?view=photos",
+    "timestamp": "2026-06-12T10:55:20.196886",
+    "isBirdOfTheDay": true
   }
 ]
