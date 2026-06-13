@@ -3134,5 +3134,18 @@
     "checklistUrl": "https://ebird.org/checklist/S124864964?view=photos",
     "timestamp": "2026-06-12T10:55:20.196886",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "cregui3",
+    "name": "Eastern Crested Guineafowl",
+    "scientificName": "Guttera pucherani",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/476201871/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/cregui3?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Somalia to tanzania, zanzibar, and tumbatu island",
+    "description": "A large-bodied, small-headed, black gamebird perfectly lined with rows of hundreds of bluish-white spots. It has a ridiculous-looking plumed \u201ctoupee\u201d above the naked face, which features a distinctive ivory-colored bill and a blood-red eye.",
+    "imageCreditName": "Maurizio Ravasini",
+    "checklistUrl": "https://ebird.org/checklist/S64977242?view=photos",
+    "timestamp": "2026-06-13T09:49:06.734633",
+    "isBirdOfTheDay": true
   }
 ]
