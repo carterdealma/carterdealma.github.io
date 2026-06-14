@@ -3147,5 +3147,18 @@
     "checklistUrl": "https://ebird.org/checklist/S64977242?view=photos",
     "timestamp": "2026-06-13T09:49:06.734633",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "btttyr2",
+    "name": "Buff-throated Tody-Tyrant",
+    "scientificName": "Hemitriccus rufigularis",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/157472861/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/btttyr2?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Foothills on east slope of andes in ecuador, peru, and western bolivia",
+    "description": "Small and rather scarce flycatcher found inside tall, undisturbed cloud forest along the east slope of the Andes. Note olive back and wings, buffy head and breast, and pale gray belly.",
+    "imageCreditName": "Nick Athanas",
+    "checklistUrl": "https://ebird.org/checklist/S49084966?view=photos",
+    "timestamp": "2026-06-14T10:18:03.721854",
+    "isBirdOfTheDay": true
   }
 ]
