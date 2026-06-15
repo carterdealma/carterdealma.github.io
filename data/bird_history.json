@@ -3160,5 +3160,18 @@
     "checklistUrl": "https://ebird.org/checklist/S49084966?view=photos",
     "timestamp": "2026-06-14T10:18:03.721854",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "andcon1",
+    "name": "Andean Condor",
+    "scientificName": "Vultur gryphus",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/115347711/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/andcon1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Andes and coasts of colombia to tierra del fuego",
+    "description": "Huge, wide-ranging vulture of the Andes, but also ranges into lowlands in southern Chile and Tierra del Fuego. Locally fairly common in Chile and adjacent Argentina, less numerous northward.",
+    "imageCreditName": "Eduardo Quintanilla",
+    "checklistUrl": "https://ebird.org/checklist/S33375758?view=photos",
+    "timestamp": "2026-06-15T12:55:27.081349",
+    "isBirdOfTheDay": true
   }
 ]
