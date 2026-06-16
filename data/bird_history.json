@@ -3173,5 +3173,18 @@
     "checklistUrl": "https://ebird.org/checklist/S33375758?view=photos",
     "timestamp": "2026-06-15T12:55:27.081349",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "whrhaw1",
+    "name": "White-rumped Hawk",
+    "scientificName": "Parabuteo leucorrhous",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/69427821/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/whrhaw1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Forest of venezuela to northern argentina and southern brazil",
+    "description": "Small raptor of montane forest in the Andes from Venezuela to Argentina, with a disjunct population in southeastern South America. Adults are black with a piercing yellow eye.",
+    "imageCreditName": "Fabio Olmos",
+    "checklistUrl": "https://ebird.org/checklist/S31978347?view=photos",
+    "timestamp": "2026-06-16T12:01:06.625976",
+    "isBirdOfTheDay": true
   }
 ]
