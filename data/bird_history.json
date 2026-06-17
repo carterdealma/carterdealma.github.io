@@ -3186,5 +3186,18 @@
     "checklistUrl": "https://ebird.org/checklist/S31978347?view=photos",
     "timestamp": "2026-06-16T12:01:06.625976",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "cubgra",
+    "name": "Cuban Grassquit",
+    "scientificName": "Phonipara canora",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/613264770/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/cubgra?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Cuba including isla de la juventud (isle of pines; south of western cuba); introduced isla provid\u00e9ncia",
+    "description": "A small flocking bird of scrub and grasslands. Note the dark face (black in males and gray in females) that is surrounded by a swirl of yellow from behind each eye, down the sides of the neck, and across the chest.",
+    "imageCreditName": "Peter Kondrashov",
+    "checklistUrl": "https://ebird.org/checklist/S64421865?view=photos",
+    "timestamp": "2026-06-17T08:42:13.897076",
+    "isBirdOfTheDay": true
   }
 ]
