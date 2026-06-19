@@ -3212,5 +3212,18 @@
     "checklistUrl": "https://ebird.org/checklist/S41008698?view=photos",
     "timestamp": "2026-06-18T08:31:16.120971",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "sulhae1",
+    "name": "Sulawesi Hawk-Eagle",
+    "scientificName": "Nisaetus lanceolatus",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/271280191/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/sulhae1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Sulawesi region, including togian, banggai, and sula islands (off east), and muna and buton (off southeast)",
+    "description": "Adult shows a dark brown crested head, a white throat with central streak, a rufous breast with bold streaking, a densely barred belly, and feathered thighs. In flight, note densely barred body and forewings, sparse bars on outer wing, and evenly barred tail.",
+    "imageCreditName": "Peter Ericsson",
+    "checklistUrl": "https://ebird.org/checklist/S57803687?view=photos",
+    "timestamp": "2026-06-19T08:44:31.175674",
+    "isBirdOfTheDay": true
   }
 ]
