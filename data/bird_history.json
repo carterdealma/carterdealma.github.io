@@ -3225,5 +3225,18 @@
     "checklistUrl": "https://ebird.org/checklist/S57803687?view=photos",
     "timestamp": "2026-06-19T08:44:31.175674",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "refcoo1",
+    "name": "Red-fronted Coot",
+    "scientificName": "Fulica rufifrons",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/115452661/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/refcoo1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Paraguay to uruguay, southeastern brazil, southern peru, and tierra del fuego",
+    "description": "Fairly common coot of lowlands. Found on fresh to brackish ponds and lakes; also marshy wetlands with little open water.",
+    "imageCreditName": "Pio Marshall",
+    "checklistUrl": "https://ebird.org/checklist/S41507770?view=photos",
+    "timestamp": "2026-06-20T08:07:07.946689",
+    "isBirdOfTheDay": true
   }
 ]
