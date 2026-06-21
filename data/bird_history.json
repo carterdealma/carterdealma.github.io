@@ -3238,5 +3238,18 @@
     "checklistUrl": "https://ebird.org/checklist/S41507770?view=photos",
     "timestamp": "2026-06-20T08:07:07.946689",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "tawlar1",
+    "name": "Tawny Lark",
+    "scientificName": "Galerida deva",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/149052661/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/tawlar1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Semiarid central plateau of india",
+    "description": "A pale yellowish-brown lark with a long, spiky crest and a thick, short bill. The heavy streaking on the upperparts contrasts strongly with the rest of the plumage.",
+    "imageCreditName": "Harsha NR",
+    "checklistUrl": "https://ebird.org/checklist/S41077421?view=photos",
+    "timestamp": "2026-06-21T08:29:16.786384",
+    "isBirdOfTheDay": true
   }
 ]
