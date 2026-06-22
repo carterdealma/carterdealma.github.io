@@ -3251,5 +3251,18 @@
     "checklistUrl": "https://ebird.org/checklist/S41077421?view=photos",
     "timestamp": "2026-06-21T08:29:16.786384",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "versco2",
+    "name": "Choco Screech-Owl",
+    "scientificName": "Megascops centralis",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/116587161/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/versco2?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Central panama to northern colombia and western ecuador",
+    "description": "Small, cryptically patterned, yellow-eyed owl of tropical lowland forest from Panama to Ecuador. Tends to stay well hidden in the understory.",
+    "imageCreditName": "Tim Forrester",
+    "checklistUrl": "https://ebird.org/checklist/S35776120?view=photos",
+    "timestamp": "2026-06-22T08:59:33.882775",
+    "isBirdOfTheDay": true
   }
 ]
