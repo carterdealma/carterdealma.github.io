@@ -3264,5 +3264,18 @@
     "checklistUrl": "https://ebird.org/checklist/S35776120?view=photos",
     "timestamp": "2026-06-22T08:59:33.882775",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "brhant1",
+    "name": "Brownish-headed Antbird",
+    "scientificName": "Myrmelastes brunneiceps",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/538425821/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/brhant1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Southern peru (cusco, madre de dios, and puno) and far west-central bolivia",
+    "description": "Dull-plumaged antbird with a restricted range in the Andean foothills. Males are grayish brown with small white wing spots; females are similar, but are paler tan below.",
+    "imageCreditName": "Edwin Antony Calderon Noa",
+    "checklistUrl": "https://ebird.org/checklist/S117646629?view=photos",
+    "timestamp": "2026-06-23T08:09:46.529304",
+    "isBirdOfTheDay": true
   }
 ]
