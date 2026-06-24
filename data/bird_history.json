@@ -3277,5 +3277,18 @@
     "checklistUrl": "https://ebird.org/checklist/S117646629?view=photos",
     "timestamp": "2026-06-23T08:09:46.529304",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "reccar2",
+    "name": "Red-cowled Cardinal",
+    "scientificName": "Paroaria dominicana",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/96245371/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/reccar2?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Forest of northeastern brazil (maranh\u00e3o to minas gerais)",
+    "description": "A conspicuous inhabitant of woodland in the Brazilian caatinga, but it is also found in scrubby areas and urban parks where it forages on the ground in pairs or small groups. Note the red head and throat, mostly gray back, black wings, and black tail that is white below.",
+    "imageCreditName": "Luiz Matos",
+    "checklistUrl": "https://ebird.org/checklist/S43070264?view=photos",
+    "timestamp": "2026-06-24T08:06:36.328894",
+    "isBirdOfTheDay": true
   }
 ]
