@@ -3290,5 +3290,18 @@
     "checklistUrl": "https://ebird.org/checklist/S43070264?view=photos",
     "timestamp": "2026-06-24T08:06:36.328894",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "sltgna1",
+    "name": "Slate-throated Gnatcatcher",
+    "scientificName": "Polioptila schistaceigula",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/203865701/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/sltgna1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Tropical forest of eastern panama to northwestern ecuador",
+    "description": "Uncommon from extreme eastern Panama to northwest Ecuador. Typical gnatcatcher shape: small and long-tailed.",
+    "imageCreditName": "Matthew Grube",
+    "checklistUrl": "https://ebird.org/checklist/S38612153?view=photos",
+    "timestamp": "2026-06-25T08:06:15.975812",
+    "isBirdOfTheDay": true
   }
 ]
