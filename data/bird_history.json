@@ -3316,5 +3316,18 @@
     "checklistUrl": "https://ebird.org/checklist/S21706423?view=photos",
     "timestamp": "2026-06-26T08:10:39.268738",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "hoomer",
+    "name": "Hooded Merganser",
+    "scientificName": "Lophodytes cucullatus",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/302071781/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/hoomer?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Breeds northern north america; winters to mexico and west indies",
+    "description": "Small diving duck with thin serrated bill. Breeding males have showy black-and-white crest, a couple zebra stripes on the white breast, and cinnamon-colored sides.",
+    "imageCreditName": "Allan Bigras",
+    "checklistUrl": "https://ebird.org/checklist/S74625195?view=photos",
+    "timestamp": "2026-06-27T07:56:19.811040",
+    "isBirdOfTheDay": true
   }
 ]
