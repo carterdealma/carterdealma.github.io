@@ -3329,5 +3329,18 @@
     "checklistUrl": "https://ebird.org/checklist/S74625195?view=photos",
     "timestamp": "2026-06-27T07:56:19.811040",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "runwre3",
+    "name": "Russet-naped Wren",
+    "scientificName": "Campylorhynchus humilis",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/622095516/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/runwre3?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Arid lowlands of southwestern mexico (colima and southern jalisco to western chiapas)",
+    "description": "Large wren usually found in small groups, less often in pairs. Mainly found in thorn forest and dry scrubby habitats.",
+    "imageCreditName": "Dubi Shapiro",
+    "checklistUrl": "https://ebird.org/checklist/S106613836?view=photos",
+    "timestamp": "2026-06-28T08:05:46.888765",
+    "isBirdOfTheDay": true
   }
 ]
