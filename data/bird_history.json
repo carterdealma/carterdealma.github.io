@@ -3342,5 +3342,18 @@
     "checklistUrl": "https://ebird.org/checklist/S106613836?view=photos",
     "timestamp": "2026-06-28T08:05:46.888765",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "gamfly1",
+    "name": "Gambaga Flycatcher",
+    "scientificName": "Muscicapa gambagae",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/247101331/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/gamfly1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Semiarid southern mali to ghana, kenya, somalia, and southwestern arabia",
+    "description": "A drab flycatcher that is uncommon and localized across its range. Some of the key features include vague and blurry streaking on the breast and crown, short wings, and a bill that is dark above and pale below.",
+    "imageCreditName": "Peter Steward",
+    "checklistUrl": "https://ebird.org/checklist/S65175150?view=photos",
+    "timestamp": "2026-06-29T08:36:04.022598",
+    "isBirdOfTheDay": true
   }
 ]
