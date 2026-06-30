@@ -3355,5 +3355,18 @@
     "checklistUrl": "https://ebird.org/checklist/S65175150?view=photos",
     "timestamp": "2026-06-29T08:36:04.022598",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "orfplu2",
+    "name": "Orange-fronted Plushcrown",
+    "scientificName": "Metopothrix aurantiaca",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/173358241/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/orfplu2?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Tropical southeastern colombia to northern bolivia and western amazonian brazil",
+    "description": "Small, yellowish-tan bird. Orange face is unique, but sometimes difficult to see; a more obvious field mark is its bright orange legs.",
+    "imageCreditName": "Edwin Munera",
+    "checklistUrl": "https://ebird.org/checklist/S40027109?view=photos",
+    "timestamp": "2026-06-30T08:09:45.339818",
+    "isBirdOfTheDay": true
   }
 ]
