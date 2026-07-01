@@ -3368,5 +3368,18 @@
     "checklistUrl": "https://ebird.org/checklist/S40027109?view=photos",
     "timestamp": "2026-06-30T08:09:45.339818",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "pygant1",
+    "name": "Pygmy Antwren",
+    "scientificName": "Myrmotherula brachyura",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/165011121/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/pygant1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Eastern colombia to the guianas, amazonian brazil, and northern bolivia",
+    "description": "Tiny, very short-tailed antwren of rainforest midstory and lower canopy. Males are yellow with white head and wing bars, and extensive black streaking on the head and back; females are similar to males, but have a red-orange wash on the head and more extensive streaking in the breast.",
+    "imageCreditName": "Alexander Lees",
+    "checklistUrl": "https://ebird.org/checklist/S31273023?view=photos",
+    "timestamp": "2026-07-01T08:22:10.801343",
+    "isBirdOfTheDay": true
   }
 ]
