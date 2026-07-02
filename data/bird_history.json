@@ -3381,5 +3381,18 @@
     "checklistUrl": "https://ebird.org/checklist/S31273023?view=photos",
     "timestamp": "2026-07-01T08:22:10.801343",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "plapar1",
+    "name": "Plain Parakeet",
+    "scientificName": "Brotogeris tirica",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/88528641/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/plapar1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Eastern brazil (bahia and southern goi\u00e1s to rio grande do sul)",
+    "description": "Small and uniformly green parakeet with a long pointed tail and a pinkish bill and feet. In flight, the blue outer wing feathers and tail tips are visible.",
+    "imageCreditName": "Luiz Matos",
+    "checklistUrl": "https://ebird.org/checklist/S37536825?view=photos",
+    "timestamp": "2026-07-02T08:00:45.818856",
+    "isBirdOfTheDay": true
   }
 ]
