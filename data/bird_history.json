@@ -3394,5 +3394,18 @@
     "checklistUrl": "https://ebird.org/checklist/S37536825?view=photos",
     "timestamp": "2026-07-02T08:00:45.818856",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "crfgle1",
+    "name": "Cinnamon-rumped Foliage-gleaner",
+    "scientificName": "Philydor pyrrhodes",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/593453571/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/crfgle1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Southeastern colombia to southern venezuela, the guianas, northern bolivia, and eastern amazonian brazil",
+    "description": "Medium-sized, richly-colored bird of swampy forests. Mostly rufous brown with a dark brown crown and back and a bright rufous-orange tail.",
+    "imageCreditName": "Thibaud Aronson",
+    "checklistUrl": "https://ebird.org/checklist/S122791526?view=photos",
+    "timestamp": "2026-07-03T08:00:19.884041",
+    "isBirdOfTheDay": true
   }
 ]
