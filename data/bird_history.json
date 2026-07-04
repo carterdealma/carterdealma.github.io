@@ -3407,5 +3407,18 @@
     "checklistUrl": "https://ebird.org/checklist/S122791526?view=photos",
     "timestamp": "2026-07-03T08:00:19.884041",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "pacant",
+    "name": "Pacific Antwren",
+    "scientificName": "Myrmotherula pacifica",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/547597651/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/pacant?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Panama (veraguas) to coastal pacific colombia and western ecuador",
+    "description": "A small, short-tailed antwren found from western Panama to Ecuador. Male is entirely streaked black and white, with two white wingbars.",
+    "imageCreditName": "Andres Vasquez Noboa",
+    "checklistUrl": "https://ebird.org/checklist/S130942443?view=photos",
+    "timestamp": "2026-07-04T07:55:54.061372",
+    "isBirdOfTheDay": true
   }
 ]
