@@ -3420,5 +3420,18 @@
     "checklistUrl": "https://ebird.org/checklist/S130942443?view=photos",
     "timestamp": "2026-07-04T07:55:54.061372",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "batsee2",
+    "name": "Black-and-tawny Seedeater",
+    "scientificName": "Sporophila nigrorufa",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/187783431/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/batsee2?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Far eastern bolivia and southwestern brazil (mato grosso)",
+    "description": "Small seedeater with a short thick bill. Males are black and cinnamon-colored; note the cinnamon rump.",
+    "imageCreditName": "Fabio Olmos",
+    "checklistUrl": "https://ebird.org/checklist/S37951356?view=photos",
+    "timestamp": "2026-07-05T07:58:26.563874",
+    "isBirdOfTheDay": true
   }
 ]
