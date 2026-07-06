@@ -3433,5 +3433,18 @@
     "checklistUrl": "https://ebird.org/checklist/S37951356?view=photos",
     "timestamp": "2026-07-05T07:58:26.563874",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "yetgre2",
+    "name": "Yellow-gorgeted Greenbul",
+    "scientificName": "Atimastillas flavicollis",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/623003400/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/yetgre2?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Senegal to eastern nigeria and northern cameroon",
+    "description": "Fairly large, long-tailed, olive-green greenbul with a yellow throat. Found in forest, thick woodland, scrub, and rank cultivation.",
+    "imageCreditName": "James Kennerley",
+    "checklistUrl": "https://ebird.org/checklist/S51504731?view=photos",
+    "timestamp": "2026-07-06T08:28:15.943375",
+    "isBirdOfTheDay": true
   }
 ]
