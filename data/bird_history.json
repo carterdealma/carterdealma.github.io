@@ -3446,5 +3446,18 @@
     "checklistUrl": "https://ebird.org/checklist/S51504731?view=photos",
     "timestamp": "2026-07-06T08:28:15.943375",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "ceywop1",
+    "name": "Sri Lanka Wood-Pigeon",
+    "scientificName": "Columba torringtoniae",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/252000901/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/ceywop1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Sri lanka",
+    "description": "Large, plain gray pigeon with conspicuous black-and-white stripes on the nape. Underparts flushed mauve.",
+    "imageCreditName": "Ajith Gamage",
+    "checklistUrl": "https://ebird.org/checklist/S62737574?view=photos",
+    "timestamp": "2026-07-07T08:04:26.608038",
+    "isBirdOfTheDay": true
   }
 ]
