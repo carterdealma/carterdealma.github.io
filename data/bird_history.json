@@ -3459,5 +3459,18 @@
     "checklistUrl": "https://ebird.org/checklist/S62737574?view=photos",
     "timestamp": "2026-07-07T08:04:26.608038",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "bopphe1",
+    "name": "Bornean Peacock-Pheasant",
+    "scientificName": "Polyplectron schleiermacheri",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/616582037/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/bopphe1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Lowland primary forest of borneo",
+    "description": "With his iridescent pale blue crest, bright orange facial skin patch, and luminous blue spots along his wings and broad fan-shaped tail, the eccentric-looking male is unmistakable if seen well. Female is less eye-catching: warm brown all over with smaller, darker spots.",
+    "imageCreditName": "Dubi Shapiro",
+    "checklistUrl": "https://ebird.orghttps://macaulaylibrary.org/photo/613042675?view=photos",
+    "timestamp": "2026-07-08T07:45:18.801634",
+    "isBirdOfTheDay": true
   }
 ]
