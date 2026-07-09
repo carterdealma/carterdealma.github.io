@@ -3472,5 +3472,18 @@
     "checklistUrl": "https://ebird.orghttps://macaulaylibrary.org/photo/613042675?view=photos",
     "timestamp": "2026-07-08T07:45:18.801634",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "prhlau1",
+    "name": "Prince Henry's Laughingthrush",
+    "scientificName": "Trochalopteron henrici",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/181023051/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/prhlau1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Semiarid montane scrub of western china (southwestern xinjiang and southeastern tibet)",
+    "description": "Handsome laughingthrush endemic to the southeastern Qinghai-Tibetan Plateau and its adjacent Himalayan foothills. Gray overall, with a dark rust-colored face, slate-blue-and-orange wing panels, and a bright white \u201cmoustache.\u201d An adaptable species, occurring in and around human habitation, as well as naturally-occurring brushy and scrubby areas such as forest edges and gulches.",
+    "imageCreditName": "Vincent Wang",
+    "checklistUrl": "https://ebird.org/checklist/S41260449?view=photos",
+    "timestamp": "2026-07-09T08:07:18.578140",
+    "isBirdOfTheDay": true
   }
 ]
