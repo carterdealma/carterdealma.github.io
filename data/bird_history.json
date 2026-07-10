@@ -3485,5 +3485,18 @@
     "checklistUrl": "https://ebird.org/checklist/S41260449?view=photos",
     "timestamp": "2026-07-09T08:07:18.578140",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "limwrb3",
+    "name": "Variable Limestone Babbler",
+    "scientificName": "Gypsophila crispifrons",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/224276881/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/limwrb3?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Limestone hills of northern thailand to southern myanmar",
+    "description": "A large, chunky, scraggly-looking babbler found in limestone hills covered with forest. Gray and brown overall with heavy streaking on the head, back, and throat.",
+    "imageCreditName": "Ayuwat Jearwattanakanok",
+    "checklistUrl": "https://ebird.org/checklist/S43106436?view=photos",
+    "timestamp": "2026-07-10T08:05:36.243360",
+    "isBirdOfTheDay": true
   }
 ]
