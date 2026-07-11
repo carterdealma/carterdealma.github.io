@@ -3498,5 +3498,18 @@
     "checklistUrl": "https://ebird.org/checklist/S43106436?view=photos",
     "timestamp": "2026-07-10T08:05:36.243360",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "sinsta1",
+    "name": "Singing Starling",
+    "scientificName": "Aplonis cantoroides",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/175196241/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/sinsta1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "New guinea, including aru islands (off southwestern new guinea) to bismarck archipelago and solomon islands",
+    "description": "Large songbird of New Guinea and Solomon Islands, also on Boigu Island in the northern Torres Strait. Adult glossy black with strong metallic green/blue sheen and bright red eye.",
+    "imageCreditName": "Christian Cholette",
+    "checklistUrl": "https://ebird.org/checklist/S52530671?view=photos",
+    "timestamp": "2026-07-11T07:30:57.133652",
+    "isBirdOfTheDay": true
   }
 ]
