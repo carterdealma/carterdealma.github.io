@@ -3511,5 +3511,18 @@
     "checklistUrl": "https://ebird.org/checklist/S52530671?view=photos",
     "timestamp": "2026-07-11T07:30:57.133652",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "olisis1",
+    "name": "Olivaceous Siskin",
+    "scientificName": "Spinus olivaceus",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/141581641/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/olisis1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "East slope of andes of southeastern ecuador to peru and western bolivia (la paz and cochabamba)",
+    "description": "Small, yellow finch found in cloud forest along the east slope of the Andes. Note yellow patches in wings and tail.",
+    "imageCreditName": "Jay McGowan",
+    "checklistUrl": "https://ebird.org/checklist/S27755844?view=photos",
+    "timestamp": "2026-07-12T07:42:05.010206",
+    "isBirdOfTheDay": true
   }
 ]
