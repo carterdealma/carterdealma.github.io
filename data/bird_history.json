@@ -3537,5 +3537,18 @@
     "checklistUrl": "https://ebird.org/checklist/S58529655?view=photos",
     "timestamp": "2026-07-13T08:01:22.685702",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "knywoo1",
+    "name": "Knysna Woodpecker",
+    "scientificName": "Campethera notata",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/208807291/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/knywoo1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Coastal southern south africa (western cape eastward to far southern kwazulu-natal)",
+    "description": "A furtive woodpecker with densely spotted underparts and face. The male has a reddish crown and moustache; the female has a faint dark moustache and dark crown marked red only toward the back of the head.",
+    "imageCreditName": "Bruce Ward-Smith",
+    "checklistUrl": "https://ebird.org/checklist/S56837579?view=photos",
+    "timestamp": "2026-07-14T07:31:41.761800",
+    "isBirdOfTheDay": true
   }
 ]
