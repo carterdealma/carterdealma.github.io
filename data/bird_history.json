@@ -3550,5 +3550,18 @@
     "checklistUrl": "https://ebird.org/checklist/S56837579?view=photos",
     "timestamp": "2026-07-14T07:31:41.761800",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "gybhaw1",
+    "name": "Gray-bellied Hawk",
+    "scientificName": "Accipiter poliogaster",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/624191235/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/gybhaw1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Locally in humid forest of south america east of the andes",
+    "description": "Rare, unobtrusive, and robust forest hawk. Dark above and pale below with gleaming white underwings.",
+    "imageCreditName": "JIAJIE Sun",
+    "checklistUrl": "https://ebird.org/checklist/S56168578?view=photos",
+    "timestamp": "2026-07-15T07:33:52.854284",
+    "isBirdOfTheDay": true
   }
 ]
