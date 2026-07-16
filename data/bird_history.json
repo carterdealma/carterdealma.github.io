@@ -3563,5 +3563,18 @@
     "checklistUrl": "https://ebird.org/checklist/S56168578?view=photos",
     "timestamp": "2026-07-15T07:33:52.854284",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "ou",
+    "name": "Ou",
+    "scientificName": "Psittirostra psittacea",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/25241211/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/ou?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Humid montane forest of hawaiian islands (hawaii and kauai), last reported in the late 1980s; also formerly oahu, molokai, lanai, and maui",
+    "description": "Learn about Ou: explore photos, sounds, and observations collected by birders around the world.",
+    "imageCreditName": "Mike Scott",
+    "checklistUrl": "https://ebird.org/checklist/S27677511?view=photos",
+    "timestamp": "2026-07-16T07:38:58.725472",
+    "isBirdOfTheDay": true
   }
 ]
