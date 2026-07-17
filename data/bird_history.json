@@ -3576,5 +3576,18 @@
     "checklistUrl": "https://ebird.org/checklist/S27677511?view=photos",
     "timestamp": "2026-07-16T07:38:58.725472",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "flobro1",
+    "name": "Flock Bronzewing",
+    "scientificName": "Phaps histrionica",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/172296231/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/flobro1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Northwestern australia to western queensland and northwestern new south wales",
+    "description": "Large desert pigeon, typically observed as fast-flying flocks coming in to drink in the morning or evening in arid and semi-arid inland Northern Australia. Plain brown above, plain gray below.",
+    "imageCreditName": "Scott Baker",
+    "checklistUrl": "https://ebird.org/checklist/S39575907?view=photos",
+    "timestamp": "2026-07-17T07:37:09.629719",
+    "isBirdOfTheDay": true
   }
 ]
