@@ -3589,5 +3589,18 @@
     "checklistUrl": "https://ebird.org/checklist/S39575907?view=photos",
     "timestamp": "2026-07-17T07:37:09.629719",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "miskit",
+    "name": "Mississippi Kite",
+    "scientificName": "Ictinia mississippiensis",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/305526961/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/miskit?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Southern usa (arizona to florida); winters in south america",
+    "description": "Long-winged raptor with narrow, pointed wings that help it maneuver to catch insects in flight. Gray overall with whitish head, white secondaries on upperside of wing, and black tail.",
+    "imageCreditName": "Don Danko",
+    "checklistUrl": "https://ebird.org/checklist/S56467955?view=photos",
+    "timestamp": "2026-07-18T07:30:20.530082",
+    "isBirdOfTheDay": true
   }
 ]
