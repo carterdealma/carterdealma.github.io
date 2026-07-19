@@ -3602,5 +3602,18 @@
     "checklistUrl": "https://ebird.org/checklist/S56467955?view=photos",
     "timestamp": "2026-07-18T07:30:20.530082",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "grkwhe1",
+    "name": "Kai Besar White-eye",
+    "scientificName": "Zosterops grayi",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/459466071/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/grkwhe1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Kai besar (kai islands)",
+    "description": "A small green songbird with a bold white eye-ring and a primarily white underside, except for a yellow throat and base to undertail. Usually found in pairs or singly, roaming through forest, woods, and gardens in lowlands and lower hills.",
+    "imageCreditName": "Gil Ewing",
+    "checklistUrl": "https://ebird.org/checklist/S39605037?view=photos",
+    "timestamp": "2026-07-19T07:40:51.444818",
+    "isBirdOfTheDay": true
   }
 ]
