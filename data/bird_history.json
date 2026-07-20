@@ -3615,5 +3615,18 @@
     "checklistUrl": "https://ebird.org/checklist/S39605037?view=photos",
     "timestamp": "2026-07-19T07:40:51.444818",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "spepet1",
+    "name": "Spectacled Petrel",
+    "scientificName": "Procellaria conspicillata",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/188302751/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/spepet1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Inaccessible island (tristan da cunha)",
+    "description": "Large, stocky, dark petrel. Look for the diagnostic pattern of white \u201cspectacles\u201d on the face.",
+    "imageCreditName": "Patrick MONNEY",
+    "checklistUrl": "https://ebird.org/checklist/S50568066?view=photos",
+    "timestamp": "2026-07-20T07:58:49.175603",
+    "isBirdOfTheDay": true
   }
 ]
