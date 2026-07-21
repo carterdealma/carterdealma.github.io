@@ -3628,5 +3628,18 @@
     "checklistUrl": "https://ebird.org/checklist/S50568066?view=photos",
     "timestamp": "2026-07-20T07:58:49.175603",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "ryumin1",
+    "name": "Ryukyu Minivet",
+    "scientificName": "Pericrocotus tegimae",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/158482611/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/ryumin1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Southern kyushu and ryukyu islands (southern japan)",
+    "description": "Medium-sized, slender songbird, dark above, white below; rather large for a minivet. Male has white forecrown and brow, lacking in female.",
+    "imageCreditName": "Andrew Spencer",
+    "checklistUrl": "https://ebird.org/checklist/S26147409?view=photos",
+    "timestamp": "2026-07-21T07:45:47.455415",
+    "isBirdOfTheDay": true
   }
 ]
