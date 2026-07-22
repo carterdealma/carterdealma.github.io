@@ -3641,5 +3641,18 @@
     "checklistUrl": "https://ebird.org/checklist/S26147409?view=photos",
     "timestamp": "2026-07-21T07:45:47.455415",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "earpit1",
+    "name": "Eared Pitta",
+    "scientificName": "Hydrornis phayrei",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/374215351/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/earpit1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Bangladesh to myanmar, thailand, southern china, southern cambodia, and central annam",
+    "description": "This handsome pitta is about the color of a chocolate chip cookie. Only the warmer-colored male is \u201ceared\u201d, possessing the speckled silvery tufts on either side of the head.",
+    "imageCreditName": "Ayuwat Jearwattanakanok",
+    "checklistUrl": "https://ebird.org/checklist/S66192018?view=photos",
+    "timestamp": "2026-07-22T07:45:43.750936",
+    "isBirdOfTheDay": true
   }
 ]
