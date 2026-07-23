@@ -3654,5 +3654,18 @@
     "checklistUrl": "https://ebird.org/checklist/S66192018?view=photos",
     "timestamp": "2026-07-22T07:45:43.750936",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "lazkin1",
+    "name": "Lazuli Kingfisher",
+    "scientificName": "Todiramphus lazuli",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/272493411/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/lazkin1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Southern moluccas (ambon, seram, and haruku)",
+    "description": "A stunning blue-and-white kingfisher with entirely blue upperparts in both sexes. Female has white throat and pale blue breast and belly, but male shows more white, with pale blue confined to belly.",
+    "imageCreditName": "Phillip Edwards",
+    "checklistUrl": "https://ebird.org/checklist/S65011145?view=photos",
+    "timestamp": "2026-07-23T07:46:27.725127",
+    "isBirdOfTheDay": true
   }
 ]
