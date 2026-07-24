@@ -3667,5 +3667,18 @@
     "checklistUrl": "https://ebird.org/checklist/S65011145?view=photos",
     "timestamp": "2026-07-23T07:46:27.725127",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "rutsap1",
+    "name": "Rufous-throated Sapphire",
+    "scientificName": "Hylocharis sapphirina",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/188297811/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/rutsap1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Eastern colombia to the guianas, southern venezuela, southeastern brazil, and northeastern argentina",
+    "description": "A small hummingbird with a straight red bill with a black tip. Males have a green back with iridescent violet-blue underparts, a coppery tail, and a fluffy white vent.",
+    "imageCreditName": "Saturnino Llactahuaman / amazonbirdingperu@gmail.com",
+    "checklistUrl": "https://ebird.org/checklist/S56841667?view=photos",
+    "timestamp": "2026-07-24T07:45:18.138557",
+    "isBirdOfTheDay": true
   }
 ]
