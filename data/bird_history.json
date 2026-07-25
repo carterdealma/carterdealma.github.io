@@ -3680,5 +3680,18 @@
     "checklistUrl": "https://ebird.org/checklist/S56841667?view=photos",
     "timestamp": "2026-07-24T07:45:18.138557",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "yelbun1",
+    "name": "Yellow Bunting",
+    "scientificName": "Emberiza sulphurata",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/157492761/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/yelbun1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Honshu (japan); winters to eastern china, northern philippines, and taiwan",
+    "description": "Adult has yellow-green head and breast; both sexes have brown wings, yellow bellies, whitish vents, narrow white wingbars, and white eyering. Male is brighter in plumage, with small black patch between eye and bill.",
+    "imageCreditName": "Lin bb",
+    "checklistUrl": "https://ebird.org/checklist/S40739505?view=photos",
+    "timestamp": "2026-07-25T07:37:03.366391",
+    "isBirdOfTheDay": true
   }
 ]
