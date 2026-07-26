@@ -3693,5 +3693,18 @@
     "checklistUrl": "https://ebird.org/checklist/S40739505?view=photos",
     "timestamp": "2026-07-25T07:37:03.366391",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "tonwhi1",
+    "name": "Tongan Whistler",
+    "scientificName": "Pachycephala jacquinoti",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/377121371/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/tonwhi1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Vava\u2019u group (\u2018uta vava\u2019u, kapa, pangaimotu, \u2018euakafa, \u2018utungake, a\u2019a) and late island, in northern tonga",
+    "description": "Male striking, with bright golden underparts and neck, olive wings, and a deep black head, chest, and tail. Female mostly olive-yellow with a grayish cap and a pale throat.",
+    "imageCreditName": "Lisle Gwynn",
+    "checklistUrl": "https://ebird.org/checklist/S75933062?view=photos",
+    "timestamp": "2026-07-26T07:47:27.933810",
+    "isBirdOfTheDay": true
   }
 ]
