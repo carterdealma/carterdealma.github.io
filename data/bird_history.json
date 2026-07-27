@@ -3706,5 +3706,18 @@
     "checklistUrl": "https://ebird.org/checklist/S75933062?view=photos",
     "timestamp": "2026-07-26T07:47:27.933810",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "pabpig1",
+    "name": "Yellow-eyed Pigeon",
+    "scientificName": "Columba eversmanni",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/593116691/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/pabpig1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Northeastern iran to siberia, northwestern india, and far western china",
+    "description": "Nondescript brownish-gray pigeon with a bright yellow eye-ring. Wing pattern noticeably weaker than that of larger Hill Pigeons and wild-type Rock Doves.",
+    "imageCreditName": "Rajkumar Das",
+    "checklistUrl": "https://ebird.org/checklist/S93363792?view=photos",
+    "timestamp": "2026-07-27T08:07:38.921860",
+    "isBirdOfTheDay": true
   }
 ]
