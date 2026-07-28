@@ -3719,5 +3719,18 @@
     "checklistUrl": "https://ebird.org/checklist/S93363792?view=photos",
     "timestamp": "2026-07-27T08:07:38.921860",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "reccot1",
+    "name": "Red-crested Cotinga",
+    "scientificName": "Ampelion rubrocristatus",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/70258021/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/reccot1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Andes of colombia to western venezuela and western bolivia",
+    "description": "This plump gray bird is a regular sight atop patches of trees from the temperate forest zone to above treeline in the Andes from Venezuela to Bolivia. The plumage is unremarkable at first glance: both sexes are medium gray with a darker face, blackish wings, and a white band on the tail (visible in flight).",
+    "imageCreditName": "Jorge Mu\u00f1oz Garc\u00eda CAQUETA BIRDING",
+    "checklistUrl": "https://ebird.org/checklist/S38752554?view=photos",
+    "timestamp": "2026-07-28T07:49:15.019764",
+    "isBirdOfTheDay": true
   }
 ]
