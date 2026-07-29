@@ -3732,5 +3732,18 @@
     "checklistUrl": "https://ebird.org/checklist/S38752554?view=photos",
     "timestamp": "2026-07-28T07:49:15.019764",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "amasun2",
+    "name": "Amani Sunbird",
+    "scientificName": "Hedydipna pallidigaster",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/257699981/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/amasun2?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Coastal southeastern kenya (sokoke forest) and northeastern tanzania (rare)",
+    "description": "A small sunbird with a short, slightly curved bill. Males are dark above and bright white below with an iridescent blue-green head and chest.",
+    "imageCreditName": "Nick Athanas",
+    "checklistUrl": "https://ebird.org/checklist/S58516957?view=photos",
+    "timestamp": "2026-07-29T07:52:20.938598",
+    "isBirdOfTheDay": true
   }
 ]
