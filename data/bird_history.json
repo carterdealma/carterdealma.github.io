@@ -3745,5 +3745,18 @@
     "checklistUrl": "https://ebird.org/checklist/S58516957?view=photos",
     "timestamp": "2026-07-29T07:52:20.938598",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "hotbut3",
+    "name": "Black-rumped Buttonquail",
+    "scientificName": "Turnix nanus",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/629092928/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/hotbut3?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Ghana to kenya, uganda, and southeastern cape province",
+    "description": "Small, brownish quail-like bird. Generally rare and elusive species that is unlikely to be seen by those not expressly looking for it.",
+    "imageCreditName": "Marc Cronje- Nature Travel Birding",
+    "checklistUrl": "https://ebird.org/checklist/S140994836?view=photos",
+    "timestamp": "2026-07-30T07:45:17.771371",
+    "isBirdOfTheDay": true
   }
 ]
