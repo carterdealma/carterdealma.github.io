@@ -3758,5 +3758,18 @@
     "checklistUrl": "https://ebird.org/checklist/S140994836?view=photos",
     "timestamp": "2026-07-30T07:45:17.771371",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "slbcro5",
+    "name": "Sierra Madre Crow",
+    "scientificName": "Corvus sierramadrensis",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/624685834/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/slbcro5?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Northern philippines (sierra madre mountains of luzon)",
+    "description": "Uncommon small black crow. Plumage has an iridescent dark blue sheen when seen up close.",
+    "imageCreditName": "Robert Hutchinson / Birdtour Asia",
+    "checklistUrl": "https://ebird.org/checklist/S100015831?view=photos",
+    "timestamp": "2026-07-31T07:57:35.724491",
+    "isBirdOfTheDay": true
   }
 ]
