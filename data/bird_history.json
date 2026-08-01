@@ -3771,5 +3771,18 @@
     "checklistUrl": "https://ebird.org/checklist/S100015831?view=photos",
     "timestamp": "2026-07-31T07:57:35.724491",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "silkta2",
+    "name": "Taveuni Silktail",
+    "scientificName": "Lamprolia victoriae",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/608952125/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/silkta2?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Fiji (mountains of taveuni)",
+    "description": "Small and stub-tailed, appearing mostly dark. Shows vivid electric-blue speckling on chest, back, and head, brilliant blue in direct light.",
+    "imageCreditName": "Chris Venetz | Ornis Birding Expeditions",
+    "checklistUrl": "https://ebird.org/checklist/S147142202?view=photos",
+    "timestamp": "2026-08-01T07:42:41.940731",
+    "isBirdOfTheDay": true
   }
 ]
