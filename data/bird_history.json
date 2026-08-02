@@ -3784,5 +3784,18 @@
     "checklistUrl": "https://ebird.org/checklist/S147142202?view=photos",
     "timestamp": "2026-08-01T07:42:41.940731",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "btnhen1",
+    "name": "Black-tailed Nativehen",
+    "scientificName": "Tribonyx ventralis",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/122301771/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/btnhen1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Aquatic habitats of australia (except northern and eastern coastal areas)",
+    "description": "Small waterhen with an erect black tail (no white edges) resembling that of a domestic chicken. Note pale green base to the bill with a yellow tip and a red spot, bright red-pink legs, and pale spots on flanks.",
+    "imageCreditName": "Hayley Alexander",
+    "checklistUrl": "https://ebird.org/checklist/S44454943?view=photos",
+    "timestamp": "2026-08-02T07:43:49.342446",
+    "isBirdOfTheDay": true
   }
 ]
