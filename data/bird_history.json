@@ -3810,5 +3810,18 @@
     "checklistUrl": "https://ebird.org/checklist/S42334113?view=photos",
     "timestamp": "2026-08-03T08:06:21.072171",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "whbsee2",
+    "name": "White-bellied Seedsnipe",
+    "scientificName": "Attagis malouinus",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/107154771/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/whbsee2?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Breeds from southwestern argentina (southward from western r\u00edo negro) and southern chile (magallanes) to cape horn; winters to lower elevations in southern patagonia, tierra del fuego, and staten island",
+    "description": "Chunky, generally scarce, rather grouselike bird of bleak moorland, bogs, and rocky slopes above timberline; in winter, sometimes descends to lowland Patagonian steppe, when it can be seen along roadsides. Found in pairs or small groups.",
+    "imageCreditName": "Luke Seitz",
+    "checklistUrl": "https://ebird.org/checklist/S31519629?view=photos",
+    "timestamp": "2026-08-04T07:49:24.898044",
+    "isBirdOfTheDay": true
   }
 ]
