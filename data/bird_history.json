@@ -3823,5 +3823,18 @@
     "checklistUrl": "https://ebird.org/checklist/S31519629?view=photos",
     "timestamp": "2026-08-04T07:49:24.898044",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "scamin3",
+    "name": "Orange Minivet",
+    "scientificName": "Pericrocotus flammeus",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/133931231/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/scamin3?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Western peninsular india (southeastern gujarat southward through the western ghats, and southwestern eastern ghats in tamil nadu), and sri lanka",
+    "description": "Brightly-colored forest bird with a long tail. Male is decked out in black and orange-red, female in gray and yellow.",
+    "imageCreditName": "Aravind AM",
+    "checklistUrl": "https://ebird.org/checklist/S42179940?view=photos",
+    "timestamp": "2026-08-05T07:50:16.287333",
+    "isBirdOfTheDay": true
   }
 ]
