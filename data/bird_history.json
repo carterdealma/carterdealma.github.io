@@ -3836,5 +3836,18 @@
     "checklistUrl": "https://ebird.org/checklist/S42179940?view=photos",
     "timestamp": "2026-08-05T07:50:16.287333",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "lothaw1",
+    "name": "Long-tailed Hawk",
+    "scientificName": "Urotriorchis macrourus",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/250596861/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/lothaw1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Liberia to western uganda and southern democratic republic of the congo",
+    "description": "An aptly named hawk of lowland African forest, identifiable by its distinctive profile as it flies through open areas. This species\u2019 long, black-and-white striped tail contrasts with its white vent and rump.",
+    "imageCreditName": "Niall D Perrins",
+    "checklistUrl": "https://ebird.org/checklist/S67121259?view=photos",
+    "timestamp": "2026-08-06T09:33:14.618868",
+    "isBirdOfTheDay": true
   }
 ]
