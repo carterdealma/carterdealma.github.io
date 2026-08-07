@@ -3849,5 +3849,18 @@
     "checklistUrl": "https://ebird.org/checklist/S67121259?view=photos",
     "timestamp": "2026-08-06T09:33:14.618868",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "impeag1",
+    "name": "Imperial Eagle",
+    "scientificName": "Aquila heliaca",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/254925601/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/impeag1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Central europe to mongolia; winters to africa, northern india, and china",
+    "description": "Very large; dark-brown body of adult contrasts with pale head and nape. Similar to Golden Eagle but with a shorter tail and white shoulders that can be hard to spot.",
+    "imageCreditName": "Jens Eriksen",
+    "checklistUrl": "https://ebird.org/checklist/S38248070?view=photos",
+    "timestamp": "2026-08-07T08:04:27.470510",
+    "isBirdOfTheDay": true
   }
 ]
