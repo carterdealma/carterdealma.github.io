@@ -3862,5 +3862,18 @@
     "checklistUrl": "https://ebird.org/checklist/S38248070?view=photos",
     "timestamp": "2026-08-07T08:04:27.470510",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "shtsan",
+    "name": "Sharp-tailed Sandpiper",
+    "scientificName": "Calidris acuminata",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/625365182/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/shtsan?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Breeds northeastern siberia; winters in australasia and polynesia",
+    "description": "Medium-sized sandpiper with distinct cap. Breeding adults are heavily marked with chevrons and spots on the underparts and have a rich chestnut cap and white eyeing.",
+    "imageCreditName": "\u0421\u0435\u0440\u0433\u0435\u0439 \u041a\u0443\u043a\u0443\u0435\u0432",
+    "checklistUrl": "https://ebird.org/checklist/S176674374?view=photos",
+    "timestamp": "2026-08-08T07:39:05.977672",
+    "isBirdOfTheDay": true
   }
 ]
