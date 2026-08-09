@@ -3875,5 +3875,18 @@
     "checklistUrl": "https://ebird.org/checklist/S176674374?view=photos",
     "timestamp": "2026-08-08T07:39:05.977672",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "broela1",
+    "name": "Brownish Elaenia",
+    "scientificName": "Elaenia pelzelni",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/187752621/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/broela1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "River islands of the amazon system",
+    "description": "Medium-sized nondescript flycatcher. Has a dull brown back, whitish underparts, and three distinct pale wingbars.",
+    "imageCreditName": "Cameron Rutt",
+    "checklistUrl": "https://ebird.org/checklist/S24040933?view=photos",
+    "timestamp": "2026-08-09T07:43:06.821728",
+    "isBirdOfTheDay": true
   }
 ]
