@@ -3888,5 +3888,18 @@
     "checklistUrl": "https://ebird.org/checklist/S24040933?view=photos",
     "timestamp": "2026-08-09T07:43:06.821728",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "phgsta1",
+    "name": "Purple-headed Starling",
+    "scientificName": "Hylopsar purpureiceps",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/257200221/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/phgsta1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Guinea to cameroon, gabon, northern democratic republic of the congo, uganda, and northwestern kenya",
+    "description": "A small glossy starling often found in the canopy of fruiting trees in groups of varying sizes, sometimes with other species of starling. Note the glossy green-blue body, the dark purplish head and throat that can appear black at a distance, and the short tail.",
+    "imageCreditName": "Fr\u00e9d\u00e9ric PELSY",
+    "checklistUrl": "https://ebird.org/checklist/S65202100?view=photos",
+    "timestamp": "2026-08-10T08:19:42.850902",
+    "isBirdOfTheDay": true
   }
 ]
