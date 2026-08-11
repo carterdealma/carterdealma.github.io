@@ -3901,5 +3901,18 @@
     "checklistUrl": "https://ebird.org/checklist/S65202100?view=photos",
     "timestamp": "2026-08-10T08:19:42.850902",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "yenalb2",
+    "name": "Atlantic Yellow-nosed Albatross",
+    "scientificName": "Thalassarche chlororhynchos",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/609722090/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/yenalb2?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Tristan da cunha and gough islands; ranges southern oceans",
+    "description": "Massive seabird, but relatively small and slender for an albatross. Breeds on Gough and Tristan da Cunha islands in South Atlantic, ranging mainly at subtropical latitudes in Atlantic, rarely east to Indian Ocean or further north in Atlantic.",
+    "imageCreditName": "Meysam Makvandi",
+    "checklistUrl": "https://ebird.org/checklist/S144788230?view=photos",
+    "timestamp": "2026-08-11T08:01:27.214153",
+    "isBirdOfTheDay": true
   }
 ]
