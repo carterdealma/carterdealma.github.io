@@ -3914,5 +3914,18 @@
     "checklistUrl": "https://ebird.org/checklist/S144788230?view=photos",
     "timestamp": "2026-08-11T08:01:27.214153",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "yunman1",
+    "name": "Yungas Manakin",
+    "scientificName": "Chiroxiphia boliviana",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/191629181/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/yunman1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Southeastern peru (cusco, southern madre de dios, and puno) and western bolivia",
+    "description": "Fairly large manakin of montane forest habitats. Males are black with a blue back and red cap; females are dull olive green.",
+    "imageCreditName": "Eric Carpenter",
+    "checklistUrl": "https://ebird.org/checklist/S58933193?view=photos",
+    "timestamp": "2026-08-12T08:07:31.173083",
+    "isBirdOfTheDay": true
   }
 ]
