@@ -3927,5 +3927,18 @@
     "checklistUrl": "https://ebird.org/checklist/S58933193?view=photos",
     "timestamp": "2026-08-12T08:07:31.173083",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "antpar1",
+    "name": "Antipodes Parakeet",
+    "scientificName": "Cyanoramphus unicolor",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/228905231/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/antpar1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Locally in antipodes islands",
+    "description": "Entirely green parakeet endemic to the subantarctic Antipodes Islands. The largest of New Zealand\u2019s native parakeets.",
+    "imageCreditName": "David Boyle",
+    "checklistUrl": "https://ebird.org/checklist/S67332847?view=photos",
+    "timestamp": "2026-08-13T08:09:41.751961",
+    "isBirdOfTheDay": true
   }
 ]
