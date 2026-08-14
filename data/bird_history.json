@@ -3940,5 +3940,18 @@
     "checklistUrl": "https://ebird.org/checklist/S67332847?view=photos",
     "timestamp": "2026-08-13T08:09:41.751961",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "yeewoo1",
+    "name": "Yellow-eared Woodpecker",
+    "scientificName": "Dryobates maculifrons",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/84340851/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/yeewoo1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Lowlands of southeastern brazil (southeastern bahia to rio de janeiro)",
+    "description": "Small, short-billed woodpecker with an olive-green back, a yellow nape, and a gray face. Heavily barred below and on the tail.",
+    "imageCreditName": "Nigel Voaden",
+    "checklistUrl": "https://ebird.org/checklist/S17816553?view=photos",
+    "timestamp": "2026-08-14T08:05:40.332734",
+    "isBirdOfTheDay": true
   }
 ]
