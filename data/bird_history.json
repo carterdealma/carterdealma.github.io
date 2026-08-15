@@ -3953,5 +3953,18 @@
     "checklistUrl": "https://ebird.org/checklist/S17816553?view=photos",
     "timestamp": "2026-08-14T08:05:40.332734",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "yeehon1",
+    "name": "Yellow-eared Honeyeater",
+    "scientificName": "Lichmera flavicans",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/273610371/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/yeehon1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Timor (eastern lesser sundas)",
+    "description": "A small green songbird with a decurved bill, a striking yellow ear patch, a white moustache line, and extensively streaked yellow underparts. Juveniles less well marked below, lacking the yellow ear patch.",
+    "imageCreditName": "Dubi Shapiro",
+    "checklistUrl": "https://ebird.org/checklist/S65094418?view=photos",
+    "timestamp": "2026-08-15T07:20:25.540732",
+    "isBirdOfTheDay": true
   }
 ]
