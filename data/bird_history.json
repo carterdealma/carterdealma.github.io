@@ -3966,5 +3966,18 @@
     "checklistUrl": "https://ebird.org/checklist/S65094418?view=photos",
     "timestamp": "2026-08-15T07:20:25.540732",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "soater1",
+    "name": "South American Tern",
+    "scientificName": "Sterna hirundinacea",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/308408671/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/soater1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Coasts and islands of southern south america and falkland islands",
+    "description": "Medium-sized tern, mostly restricted to coastal areas. In breeding plumage, strikingly pale gray above and below with an extensive black cap, and an unmarked red bill and legs.",
+    "imageCreditName": "Tom Johnson",
+    "checklistUrl": "https://ebird.org/checklist/S43093882?view=photos",
+    "timestamp": "2026-08-16T07:21:35.016694",
+    "isBirdOfTheDay": true
   }
 ]
