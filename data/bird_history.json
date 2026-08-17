@@ -3979,5 +3979,18 @@
     "checklistUrl": "https://ebird.org/checklist/S43093882?view=photos",
     "timestamp": "2026-08-16T07:21:35.016694",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "coshum",
+    "name": "Costa's Hummingbird",
+    "scientificName": "Calypte costae",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/68930221/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/coshum?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Arid southwestern usa to southern baja california and northwestern mexico",
+    "description": "Small hummingbird of desert habitats in southwestern U.S., western Mexico, and Baja. Compact and short-tailed with a slightly drooping bill.",
+    "imageCreditName": "Gordon Karre",
+    "checklistUrl": "https://ebird.org/checklist/S34202254?view=photos",
+    "timestamp": "2026-08-17T07:19:24.287391",
+    "isBirdOfTheDay": true
   }
 ]
