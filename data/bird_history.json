@@ -3992,5 +3992,18 @@
     "checklistUrl": "https://ebird.org/checklist/S34202254?view=photos",
     "timestamp": "2026-08-17T07:19:24.287391",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "ducfog1",
+    "name": "Dusky-cheeked Foliage-gleaner",
+    "scientificName": "Anabazenops dorsalis",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/173339961/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/ducfog1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Southeastern colombia to far northwestern bolivia and western amazonian brazil",
+    "description": "Also known as Bamboo Foliage-gleaner for good reason; it is almost exclusively found in extensive bamboo groves, where it forages singly or in pairs. Warm brown overall; clean olive-and-white facial pattern with a white throat is distinctive.",
+    "imageCreditName": "Bradley Hacker \ud83e\udd9c",
+    "checklistUrl": "https://ebird.org/checklist/S39026298?view=photos",
+    "timestamp": "2026-08-18T07:13:51.385301",
+    "isBirdOfTheDay": true
   }
 ]
