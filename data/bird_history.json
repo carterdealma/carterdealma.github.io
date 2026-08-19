@@ -4005,5 +4005,18 @@
     "checklistUrl": "https://ebird.org/checklist/S39026298?view=photos",
     "timestamp": "2026-08-18T07:13:51.385301",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "arawax1",
+    "name": "Arabian Waxbill",
+    "scientificName": "Estrilda rufibarba",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/261375841/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/arawax1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Southwestern arabian peninsula",
+    "description": "A mostly gray-and-buff barred waxbill with a crimson \u2018bandit\u2019s\u2019 eye-patch and black tail and rump. A predominantly gray waxbill with buff-washed underparts and fine barring all over the body, as well as a crimson \u201cbandit\u2019s\u201d eye-patch and black tail and rump.",
+    "imageCreditName": "Gregory Askew | Saudi Birding",
+    "checklistUrl": "https://ebird.org/checklist/S71305801?view=photos",
+    "timestamp": "2026-08-19T07:14:15.535034",
+    "isBirdOfTheDay": true
   }
 ]
