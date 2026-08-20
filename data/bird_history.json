@@ -4018,5 +4018,18 @@
     "checklistUrl": "https://ebird.org/checklist/S71305801?view=photos",
     "timestamp": "2026-08-19T07:14:15.535034",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "venpet1",
+    "name": "Vanuatu Petrel",
+    "scientificName": "Pterodroma occulta",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/363493731/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/venpet1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Presumed to breed on banks islands (northern vanuatu)",
+    "description": "Rare and difficult to identify, this petrel is known to breed solely on the steep vegetated slopes of Vanua Lava, in northern Vanuatu. Most frequently reported in the seas surrounding Vanuatu, it likely ranges much further afield in the southwest Pacific; unfortunately, its similarity to other petrel species and the sparse coverage of that region make determining this difficult.",
+    "imageCreditName": "Lisle Gwynn",
+    "checklistUrl": "https://ebird.org/checklist/S75930206?view=photos",
+    "timestamp": "2026-08-20T07:15:08.055563",
+    "isBirdOfTheDay": true
   }
 ]
