@@ -4031,5 +4031,18 @@
     "checklistUrl": "https://ebird.org/checklist/S75930206?view=photos",
     "timestamp": "2026-08-20T07:15:08.055563",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "vddhor1",
+    "name": "Von der Decken's Hornbill",
+    "scientificName": "Tockus deckeni",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/245275581/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/vddhor1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Ethiopia and southern somalia to kenya, northeastern uganda, and tanzania",
+    "description": "A medium-sized black-and-white hornbill. Males have a mostly red bill with a yellow or white tip; females have an all-black bill.",
+    "imageCreditName": "Holger Teichmann",
+    "checklistUrl": "https://ebird.org/checklist/S64971380?view=photos",
+    "timestamp": "2026-08-21T07:15:39.086208",
+    "isBirdOfTheDay": true
   }
 ]
