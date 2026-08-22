@@ -4044,5 +4044,18 @@
     "checklistUrl": "https://ebird.org/checklist/S64971380?view=photos",
     "timestamp": "2026-08-21T07:15:39.086208",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "forwag1",
+    "name": "Forest Wagtail",
+    "scientificName": "Dendronanthus indicus",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/156743251/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/forwag1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Russian far east to southeastern china and southern japan; winters to southern and southeastern asia",
+    "description": "A distinctive wagtail with diagnostic wing and breast patterns. It has a prominent, whitish eyebrow with two black crescent-shaped bands on the upper breast; lower one wider when present.",
+    "imageCreditName": "Ting-Wei (\u5ef7\u7dad) HUNG (\u6d2a)",
+    "checklistUrl": "https://ebird.org/checklist/S25894758?view=photos",
+    "timestamp": "2026-08-22T07:11:10.203521",
+    "isBirdOfTheDay": true
   }
 ]
