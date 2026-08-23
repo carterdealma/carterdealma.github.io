@@ -4057,5 +4057,18 @@
     "checklistUrl": "https://ebird.org/checklist/S25894758?view=photos",
     "timestamp": "2026-08-22T07:11:10.203521",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "whwflu1",
+    "name": "White-winged Flufftail",
+    "scientificName": "Sarothrura ayresi",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/495623471/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/whwflu1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Highlands of ethiopia and eastern south africa",
+    "description": "Very rare, small rail of montane marshes. Extremely shy and elusive bird that is unlikely to be seen unless expressly looking for it.",
+    "imageCreditName": "Richard Baxter",
+    "checklistUrl": "https://ebird.orghttps://macaulaylibrary.org/photo/465334001?view=photos",
+    "timestamp": "2026-08-23T07:11:54.493015",
+    "isBirdOfTheDay": true
   }
 ]
