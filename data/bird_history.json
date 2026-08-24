@@ -4070,5 +4070,18 @@
     "checklistUrl": "https://ebird.orghttps://macaulaylibrary.org/photo/465334001?view=photos",
     "timestamp": "2026-08-23T07:11:54.493015",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "bulphe1",
+    "name": "Bulwer's Pheasant",
+    "scientificName": "Lophura bulweri",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/616581856/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/bulphe1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Submontane forest of interior borneo",
+    "description": "Uncommon, medium-sized pheasant. Male is almost unbelievable-looking; an immense fan of a snow-white tail sticks out of a rotund, coal-black body.",
+    "imageCreditName": "Rahman Mandu",
+    "checklistUrl": "https://ebird.org/checklist/S159116170?view=photos",
+    "timestamp": "2026-08-24T07:21:22.049598",
+    "isBirdOfTheDay": true
   }
 ]
