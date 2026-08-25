@@ -4083,5 +4083,18 @@
     "checklistUrl": "https://ebird.org/checklist/S159116170?view=photos",
     "timestamp": "2026-08-24T07:21:22.049598",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "grhcha1",
+    "name": "Gray-headed Chachalaca",
+    "scientificName": "Ortalis cinereiceps",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/245386291/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/grhcha1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Tropical eastern honduras to northwestern colombia",
+    "description": "Large chickenlike bird with long neck and tail. Overall brown with grayer head; note rufous wing feathers.",
+    "imageCreditName": "Robbin Mallett",
+    "checklistUrl": "https://ebird.org/checklist/S51608224?view=photos",
+    "timestamp": "2026-08-25T07:15:49.780485",
+    "isBirdOfTheDay": true
   }
 ]
