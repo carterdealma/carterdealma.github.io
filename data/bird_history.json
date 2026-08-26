@@ -4096,5 +4096,18 @@
     "checklistUrl": "https://ebird.org/checklist/S51608224?view=photos",
     "timestamp": "2026-08-25T07:15:49.780485",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "todant1",
+    "name": "Todd's Antwren",
+    "scientificName": "Herpsilochmus stictocephalus",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/321602391/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/todant1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Far eastern venezuela to the guianas and far northern brazil",
+    "description": "Common antwren of mixed-species flocks in forest canopy, but sometimes found away from them; heard frequently but seldom seen. From below, note clean white underparts, long tail, and rather heavy bill.",
+    "imageCreditName": "John Sterling",
+    "checklistUrl": "https://ebird.org/checklist/S59655425?view=photos",
+    "timestamp": "2026-08-26T07:15:52.472702",
+    "isBirdOfTheDay": true
   }
 ]
