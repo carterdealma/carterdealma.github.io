@@ -4109,5 +4109,18 @@
     "checklistUrl": "https://ebird.org/checklist/S59655425?view=photos",
     "timestamp": "2026-08-26T07:15:52.472702",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "whbcin1",
+    "name": "White-bellied Cinclodes",
+    "scientificName": "Cinclodes palliatus",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/228664151/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/whbcin1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Andes of central peru (jun\u00edn, lima, and huancavelica)",
+    "description": "Striking, critically endangered bird found only at extremely high elevations in the Andes of central Peru. One of the most beautiful members of the ovenbird family, with immaculate white underparts and wing patches contrasting with its deep chestnut upperparts and gray crown.",
+    "imageCreditName": "Luke Seitz",
+    "checklistUrl": "https://ebird.org/checklist/S14981329?view=photos",
+    "timestamp": "2026-08-27T10:12:39.468640",
+    "isBirdOfTheDay": true
   }
 ]
