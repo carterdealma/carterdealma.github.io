@@ -4122,5 +4122,18 @@
     "checklistUrl": "https://ebird.org/checklist/S14981329?view=photos",
     "timestamp": "2026-08-27T10:12:39.468640",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "sagspa1",
+    "name": "Sagebrush Sparrow",
+    "scientificName": "Artemisiospiza nevadensis",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/311381361/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/sagspa1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Sagebrush and saltbush of great basin",
+    "description": "Pale, subtly-patterned sparrow. Sandy-brown overall with gray head and whitish breast with dark central spotting.",
+    "imageCreditName": "Marky Mutchler",
+    "checklistUrl": "https://ebird.org/checklist/S41498621?view=photos",
+    "timestamp": "2026-08-28T10:28:07.955575",
+    "isBirdOfTheDay": true
   }
 ]
