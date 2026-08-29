@@ -4135,5 +4135,18 @@
     "checklistUrl": "https://ebird.org/checklist/S41498621?view=photos",
     "timestamp": "2026-08-28T10:28:07.955575",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "chiswa1",
+    "name": "Chilean Swallow",
+    "scientificName": "Tachycineta leucopyga",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/116090571/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/chiswa1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Breeds southern chile and argentina; winters north to bolivia and brazil",
+    "description": "Common and familiar swallow of southern South America; found widely from the coast to Andean foothills and from open forests to beaches. Often near water and regularly around towns and villages, associating readily with slightly smaller Blue-and-white Swallow.",
+    "imageCreditName": "Joshua van der Meulen",
+    "checklistUrl": "https://ebird.org/checklist/S26910602?view=photos",
+    "timestamp": "2026-08-29T07:02:34.346829",
+    "isBirdOfTheDay": true
   }
 ]
