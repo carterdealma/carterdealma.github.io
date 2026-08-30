@@ -4148,5 +4148,18 @@
     "checklistUrl": "https://ebird.org/checklist/S26910602?view=photos",
     "timestamp": "2026-08-29T07:02:34.346829",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "tinmon1",
+    "name": "Tinian Monarch",
+    "scientificName": "Monarcha takatsukasae",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/385607061/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/tinmon1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Mariana islands (tinian and aguijan)",
+    "description": "Mostly rusty-red below and around the face, with a gray cap and a brownish back. Tail black with white tips, and wings have clear white double wingbars.",
+    "imageCreditName": "Michael Lanzone",
+    "checklistUrl": "https://ebird.org/checklist/S61943142?view=photos",
+    "timestamp": "2026-08-30T07:02:46.966809",
+    "isBirdOfTheDay": true
   }
 ]
