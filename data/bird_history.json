@@ -4161,5 +4161,18 @@
     "checklistUrl": "https://ebird.org/checklist/S61943142?view=photos",
     "timestamp": "2026-08-30T07:02:46.966809",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "saaswi1",
+    "name": "Salim Ali's Swift",
+    "scientificName": "Apus salimalii",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/176891261/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/saaswi1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Eastern tibetan plateau, western sichuan; winter range unknown",
+    "description": "A large scimitar-winged swift of valleys, cliffs, and gorges. Nests in buildings and rock crevices; often gives a chattering scream when entering and leaving the nest.",
+    "imageCreditName": "Luke Seitz",
+    "checklistUrl": "https://ebird.org/checklist/S29916390?view=photos",
+    "timestamp": "2026-08-31T07:09:23.777211",
+    "isBirdOfTheDay": true
   }
 ]
