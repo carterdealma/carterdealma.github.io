@@ -4174,5 +4174,18 @@
     "checklistUrl": "https://ebird.org/checklist/S29916390?view=photos",
     "timestamp": "2026-08-31T07:09:23.777211",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "bubfly1",
+    "name": "Blue-breasted Blue Flycatcher",
+    "scientificName": "Cyornis herioti",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/396492521/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/bubfly1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Northern philippines (mountains of northern and central luzon)",
+    "description": "An attractive flycatcher of forest understory from the lowlands to low mountains in northern and central Luzon. Male has a deep blue throat, chest and upperparts, blackish face, and pale blue forehead and eyebrow.",
+    "imageCreditName": "Leif Gabrielsen",
+    "checklistUrl": "https://ebird.org/checklist/S96347126?view=photos",
+    "timestamp": "2026-09-01T07:03:07.006810",
+    "isBirdOfTheDay": true
   }
 ]
