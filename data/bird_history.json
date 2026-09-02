@@ -4187,5 +4187,18 @@
     "checklistUrl": "https://ebird.org/checklist/S96347126?view=photos",
     "timestamp": "2026-09-01T07:03:07.006810",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "capsho1",
+    "name": "Cape Shoveler",
+    "scientificName": "Spatula smithii",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/207344461/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/capsho1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Local in southern africa",
+    "description": "A large, elongated, speckled, brown duck with a distinctive and extended spatula-shaped black bill. In flight the sky-blue forewing is distinctive; no other regularly occurring duck species shares this feature.",
+    "imageCreditName": "Shannon Fair",
+    "checklistUrl": "https://ebird.org/checklist/S38510038?view=photos",
+    "timestamp": "2026-09-02T11:49:17.519159",
+    "isBirdOfTheDay": true
   }
 ]
