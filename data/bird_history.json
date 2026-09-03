@@ -4200,5 +4200,18 @@
     "checklistUrl": "https://ebird.org/checklist/S38510038?view=photos",
     "timestamp": "2026-09-02T11:49:17.519159",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "whbwoo6",
+    "name": "White-bellied Woodstar",
+    "scientificName": "Chaetocercus mulsant",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/609789038/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/whbwoo6?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Andes of colombia to western bolivia (cochabamba)",
+    "description": "Woodstars are tiny hummingbirds that fly like large bumblebees. White-bellied is an Andean species found from Colombia to Bolivia.",
+    "imageCreditName": "David Monroy Rengifo",
+    "checklistUrl": "https://ebird.org/checklist/S76841427?view=photos",
+    "timestamp": "2026-09-03T11:49:04.330807",
+    "isBirdOfTheDay": true
   }
 ]
