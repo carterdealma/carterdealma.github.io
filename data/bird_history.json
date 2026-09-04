@@ -4213,5 +4213,18 @@
     "checklistUrl": "https://ebird.org/checklist/S76841427?view=photos",
     "timestamp": "2026-09-03T11:49:04.330807",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "creauk",
+    "name": "Crested Auklet",
+    "scientificName": "Aethia cristatella",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/232020491/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/creauk?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Breeds western alaska and eastern siberia; winters southward to japan",
+    "description": "Dumpy, dark alcid with pale eyes; very small, only slightly larger than a sparrow. Note the thin white \u201cwhiskers\u201d trailing backwards from behind each eye.",
+    "imageCreditName": "Phillip Edwards",
+    "checklistUrl": "https://ebird.org/checklist/S65010078?view=photos",
+    "timestamp": "2026-09-04T11:50:51.704026",
+    "isBirdOfTheDay": true
   }
 ]
