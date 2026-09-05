@@ -4226,5 +4226,18 @@
     "checklistUrl": "https://ebird.org/checklist/S65010078?view=photos",
     "timestamp": "2026-09-04T11:50:51.704026",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "yunnut1",
+    "name": "Yunnan Nuthatch",
+    "scientificName": "Sitta yunnanensis",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/207769511/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/yunnut1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Mountains of western sichuan to western yunnan, southeastern tibet, and northwestern guizhou",
+    "description": "An uncommon and dull nuthatch of open primary pine forests. Distinctive in its plainness, lacking any bright coloration; gray-backed and white-bellied, with a black line running from the eye to the shoulder.",
+    "imageCreditName": "Vincent Wang",
+    "checklistUrl": "https://ebird.org/checklist/S60730388?view=photos",
+    "timestamp": "2026-09-05T11:00:05.982685",
+    "isBirdOfTheDay": true
   }
 ]
