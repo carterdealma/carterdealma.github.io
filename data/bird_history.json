@@ -4239,5 +4239,18 @@
     "checklistUrl": "https://ebird.org/checklist/S60730388?view=photos",
     "timestamp": "2026-09-05T11:00:05.982685",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "vulgui1",
+    "name": "Vulturine Guineafowl",
+    "scientificName": "Acryllium vulturinum",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/610665867/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/vulgui1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Arid acacia scrub of southern ethiopia and somalia to northeastern tanzania",
+    "description": "An unusual long-necked, long-tailed guineafowl with a mostly naked head. The blue breast is overlaid with long black-and-white feathers, and there is a chestnut patch on the nape.",
+    "imageCreditName": "Holger Teichmann",
+    "checklistUrl": "https://ebird.org/checklist/S64973478?view=photos",
+    "timestamp": "2026-09-06T11:24:41.863431",
+    "isBirdOfTheDay": true
   }
 ]
