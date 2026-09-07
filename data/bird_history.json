@@ -4252,5 +4252,18 @@
     "checklistUrl": "https://ebird.org/checklist/S64973478?view=photos",
     "timestamp": "2026-09-06T11:24:41.863431",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "beagua1",
+    "name": "Bearded Guan",
+    "scientificName": "Penelope barbata",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/207246311/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/beagua1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Andes of southern ecuador (but not the east slope) and western andes of northwestern peru",
+    "description": "Large chickenlike bird with a long tail. Chocolate-brown overall with pinkish-red legs and silvery frosting on head and neck.",
+    "imageCreditName": "Rick Whitman",
+    "checklistUrl": "https://ebird.org/checklist/S53602366?view=photos",
+    "timestamp": "2026-09-07T13:06:10.160659",
+    "isBirdOfTheDay": true
   }
 ]
