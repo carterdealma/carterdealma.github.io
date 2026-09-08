@@ -4265,5 +4265,18 @@
     "checklistUrl": "https://ebird.org/checklist/S53602366?view=photos",
     "timestamp": "2026-09-07T13:06:10.160659",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "beelar1",
+    "name": "Beesley's Lark",
+    "scientificName": "Chersomanes beesleyi",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/636772023/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/beelar1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Northern tanzania (near kingerete, arusha, just north of mount meru)",
+    "description": "A sociable upright lark with a short decurved bill and a diagnostic short white-tipped tail. The upperparts are dark and scaly; the throat and eyebrow are paler than the warm ear patch and buffy underparts.",
+    "imageCreditName": "Andres Vasquez Noboa",
+    "checklistUrl": "https://ebird.org/checklist/S223716557?view=photos",
+    "timestamp": "2026-09-08T11:51:36.478544",
+    "isBirdOfTheDay": true
   }
 ]
