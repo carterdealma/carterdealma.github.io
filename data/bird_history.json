@@ -4278,5 +4278,18 @@
     "checklistUrl": "https://ebird.org/checklist/S223716557?view=photos",
     "timestamp": "2026-09-08T11:51:36.478544",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "easmah1",
+    "name": "Eastern Marsh Harrier",
+    "scientificName": "Circus spilonotus",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/203706721/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/easmah1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Eastern asia; winters to southeastern asia, philippines, and indonesia",
+    "description": "A common patroller above reedbeds, flying with wings raised in a shallow V-shape. Adult males are predominantly pale gray with a dark-speckled head, blackish back with pale-edged feathers, and black wingtips.",
+    "imageCreditName": "Francis Yap",
+    "checklistUrl": "https://ebird.org/checklist/S37086026?view=photos",
+    "timestamp": "2026-09-09T12:01:50.077801",
+    "isBirdOfTheDay": true
   }
 ]
