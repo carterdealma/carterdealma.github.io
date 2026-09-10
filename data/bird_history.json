@@ -4291,5 +4291,18 @@
     "checklistUrl": "https://ebird.org/checklist/S37086026?view=photos",
     "timestamp": "2026-09-09T12:01:50.077801",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "pipplo",
+    "name": "Piping Plover",
+    "scientificName": "Charadrius melodus",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/301219051/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/pipplo?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Eastern canada and usa; winters southeastern usa, bahamas, and greater antilles",
+    "description": "Small, plump, pale plover; the color of dry sand. In breeding plumage look for thin broken black collar across chest, black stripe across forehead, orange legs, and orange bill with black tip.",
+    "imageCreditName": "Forest Botial-Jarvis",
+    "checklistUrl": "https://ebird.org/checklist/S68737693?view=photos",
+    "timestamp": "2026-09-10T11:56:16.165326",
+    "isBirdOfTheDay": true
   }
 ]
