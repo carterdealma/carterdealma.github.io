@@ -4304,5 +4304,18 @@
     "checklistUrl": "https://ebird.org/checklist/S68737693?view=photos",
     "timestamp": "2026-09-10T11:56:16.165326",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "sictit1",
+    "name": "Sichuan Tit",
+    "scientificName": "Poecile weigoldicus",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/177983991/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/sictit1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Southwestern china (sichuan to eastern tibet, southeastern qinghai, and northwestern yunnan)",
+    "description": "Small drab tit with the typical black-head-white-cheek pattern of most tits. Darker-flanked and with a patchier ",
+    "imageCreditName": "Dave Curtis",
+    "checklistUrl": "https://ebird.org/checklist/S36455239?view=photos",
+    "timestamp": "2026-09-11T11:55:07.565525",
+    "isBirdOfTheDay": true
   }
 ]
