@@ -4317,5 +4317,18 @@
     "checklistUrl": "https://ebird.org/checklist/S36455239?view=photos",
     "timestamp": "2026-09-11T11:55:07.565525",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "edcsun4",
+    "name": "Usambara Double-collared Sunbird",
+    "scientificName": "Cinnyris usambaricus",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/258272481/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/edcsun4?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Highlands of southeastern kenya (taita hills) and northeastern tanzania",
+    "description": "A medium-sized sunbird. Males are colorful, green and red, and females drab olive-brownish.",
+    "imageCreditName": "Niall Perrins-bustardsbirding.co.za",
+    "checklistUrl": "https://ebird.org/checklist/S61768632?view=photos",
+    "timestamp": "2026-09-12T11:21:46.223038",
+    "isBirdOfTheDay": true
   }
 ]
