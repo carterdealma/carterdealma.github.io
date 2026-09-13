@@ -4330,5 +4330,18 @@
     "checklistUrl": "https://ebird.org/checklist/S61768632?view=photos",
     "timestamp": "2026-09-12T11:21:46.223038",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "cupcro1",
+    "name": "Cuban Palm-Crow",
+    "scientificName": "Corvus minutus",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/608862150/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/cupcro1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Western cuba",
+    "description": "Endemic to Cuba. A large, all-black, gregarious species of open woodlands, scrub, and palm savannahs; often found in flocks of up to fifty birds.",
+    "imageCreditName": "Arturo Kirkconnell Jr",
+    "checklistUrl": "https://ebird.org/checklist/S43754488?view=photos",
+    "timestamp": "2026-09-13T12:25:08.522654",
+    "isBirdOfTheDay": true
   }
 ]
