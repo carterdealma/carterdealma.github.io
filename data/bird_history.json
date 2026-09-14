@@ -4343,5 +4343,18 @@
     "checklistUrl": "https://ebird.org/checklist/S43754488?view=photos",
     "timestamp": "2026-09-13T12:25:08.522654",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "strfan5",
+    "name": "New Caledonian Streaked Fantail",
+    "scientificName": "Rhipidura verreauxi",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/609097865/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/strfan5?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "New caledonia, including lifou, and mar\u00e9 islands (loyalty islands)",
+    "description": "Small, with a long, often fanned tail. Mostly reddish-brown with a grayish-brown head, a white eyebrow and cheek stripes, and a white throat and chest finely marked with black arrowheads.",
+    "imageCreditName": "Paul Maury",
+    "checklistUrl": "https://ebird.org/checklist/S39121747?view=photos",
+    "timestamp": "2026-09-14T13:27:26.525562",
+    "isBirdOfTheDay": true
   }
 ]
