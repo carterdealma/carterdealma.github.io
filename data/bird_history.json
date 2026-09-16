@@ -4369,5 +4369,18 @@
     "checklistUrl": "https://ebird.org/checklist/S53701668?view=photos",
     "timestamp": "2026-09-15T12:20:31.296951",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "sampar1",
+    "name": "Santa Marta Parakeet",
+    "scientificName": "Pyrrhura viridicata",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/240685701/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/sampar1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Santa marta mountains (northeastern colombia)",
+    "description": "Long tailed and rather plain parakeet endemic to Colombia\u2019s Santa Marta Mountains. The thick, white eye ring and red blotches on face and breast are its best features.",
+    "imageCreditName": "Cory Gregory",
+    "checklistUrl": "https://ebird.org/checklist/S53092810?view=photos",
+    "timestamp": "2026-09-16T12:17:06.686062",
+    "isBirdOfTheDay": true
   }
 ]
