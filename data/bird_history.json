@@ -4382,5 +4382,18 @@
     "checklistUrl": "https://ebird.org/checklist/S53092810?view=photos",
     "timestamp": "2026-09-16T12:17:06.686062",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "blcbul1",
+    "name": "Black-collared Bulbul",
+    "scientificName": "Neolestes torquatus",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/255200051/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/blcbul1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Savanna of gabon to angola, southeastern democratic republic of the congo, and northwestern zambia",
+    "description": "Odd, striking bulbul that resembles a shrike. Crown and shoulders are gray, back and wings are olive, and a broad black stripe runs from the beak, through the eyes and ears, forming a broad necklace on the creamy white underparts.",
+    "imageCreditName": "Nik Borrow",
+    "checklistUrl": "https://ebird.org/checklist/S65120668?view=photos",
+    "timestamp": "2026-09-17T07:05:24.207442",
+    "isBirdOfTheDay": true
   }
 ]
