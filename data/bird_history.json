@@ -4395,5 +4395,18 @@
     "checklistUrl": "https://ebird.org/checklist/S65120668?view=photos",
     "timestamp": "2026-09-17T07:05:24.207442",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "lebsee1",
+    "name": "Lemon-breasted Seedeater",
+    "scientificName": "Crithagra citrinipectus",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/211941921/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/lebsee1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Southern malawi, northwestern and southern mozambique, southeastern zimbabwe, and northeastern south africa (northeastern limpopo and northern kwazulu-natal)",
+    "description": "A small gray-brown seedeater with a lemon-yellow rump, white tail tips, and a boldly marked face with pale patches (white to lemon-yellow) above and below the eye. The throat and upper breast are lemon-yellow in the male and buff in the female.",
+    "imageCreditName": "Brad Arthur",
+    "checklistUrl": "https://ebird.org/checklist/S40745265?view=photos",
+    "timestamp": "2026-09-18T07:03:35.860242",
+    "isBirdOfTheDay": true
   }
 ]
