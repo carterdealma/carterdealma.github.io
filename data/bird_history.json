@@ -4408,5 +4408,18 @@
     "checklistUrl": "https://ebird.org/checklist/S40745265?view=photos",
     "timestamp": "2026-09-18T07:03:35.860242",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "cartit2",
+    "name": "Carp's Tit",
+    "scientificName": "Melaniparus carpi",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/222966011/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/cartit2?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Southern angola to northwestern namibia",
+    "description": "A black tit with a mostly white wing and outer tail. The sexes are similar, but females are slightly duller and browner.",
+    "imageCreditName": "Josh Engel",
+    "checklistUrl": "https://ebird.org/checklist/S19598327?view=photos",
+    "timestamp": "2026-09-19T07:02:36.266114",
+    "isBirdOfTheDay": true
   }
 ]
