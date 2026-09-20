@@ -4421,5 +4421,18 @@
     "checklistUrl": "https://ebird.org/checklist/S19598327?view=photos",
     "timestamp": "2026-09-19T07:02:36.266114",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "safspa1",
+    "name": "Sao Francisco Sparrow",
+    "scientificName": "Arremon franciscanus",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/187774551/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/safspa1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Eastern brazil (interior of minas gerais and bahia)",
+    "description": "Handsome, poorly-known sparrow with a bright olive back and a black-and-white face pattern. Note the yellow bill with a black upper ridge.",
+    "imageCreditName": "Bruno Renn\u00f3",
+    "checklistUrl": "https://ebird.org/checklist/S43110750?view=photos",
+    "timestamp": "2026-09-20T07:02:48.461603",
+    "isBirdOfTheDay": true
   }
 ]
