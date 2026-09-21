@@ -4434,5 +4434,18 @@
     "checklistUrl": "https://ebird.org/checklist/S43110750?view=photos",
     "timestamp": "2026-09-20T07:02:48.461603",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "brnpri2",
+    "name": "Burmese Prinia",
+    "scientificName": "Prinia cooki",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/351504511/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/brnpri2?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Central myanmar",
+    "description": "A dull and poorly marked prinia with a strong bill and a long, graduated tail. Light brown above with faint dark streaking.",
+    "imageCreditName": "Ayuwat Jearwattanakanok",
+    "checklistUrl": "https://ebird.org/checklist/S43900659?view=photos",
+    "timestamp": "2026-09-21T07:14:10.560076",
+    "isBirdOfTheDay": true
   }
 ]
