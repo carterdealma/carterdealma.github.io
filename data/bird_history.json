@@ -4447,5 +4447,18 @@
     "checklistUrl": "https://ebird.org/checklist/S43900659?view=photos",
     "timestamp": "2026-09-21T07:14:10.560076",
     "isBirdOfTheDay": true
+  },
+  {
+    "speciesCode": "meygos1",
+    "name": "Meyer's Goshawk",
+    "scientificName": "Astur meyerianus",
+    "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/662123012/2400",
+    "rangeMapUrl": "https://ebird.org/embedmap/meygos1?scrollwheel=true&draggable=true&mapType=terrain",
+    "rangeDescription": "Moluccas to new guinea, new britain (southeastern bismarck archipelago), and solomon islands",
+    "description": "A rare, powerful raptor of hill and montane forest edge and clearings. Black upperparts and white underparts with fine black barring on the flanks.",
+    "imageCreditName": "James Eaton / Birdtour Asia",
+    "checklistUrl": "https://ebird.org/checklist/S328799250?view=photos",
+    "timestamp": "2026-09-24T07:05:25.260536",
+    "isBirdOfTheDay": true
   }
 ]
